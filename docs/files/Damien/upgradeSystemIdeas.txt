@@ -1,0 +1,71 @@
+false  <-- to set this, check if next value is false, if false then make true, 	if next value is true then set to true and make all next values false
+	next true = should never exist
+	next false = make true
+-----
+false <-- to set this, check if previous is true, if true then set true, 	otherwise keep false
+	previous false next false = do nothing(error)
+	previous false next true = do nothing(should never happen)
+	previous true next false = make true
+	previous true next true = make all next false and this one true
+-----
+false
+-----
+false
+
+-----------------------------------------------------------------------
+
+true <-- next false = make false
+	 next true  = make all next false and this one false
+
+----
+
+true <-- previous false next false = should not exist
+	previous true next false = make false
+	previous false next true = should not exist
+	previous true next true = make all next false and this one false
+
+
+
+----------------------------------------------------------------------
+
+actually subtracting and adding to ability stats
+
+most basic way I can think of:
+
+everytime you change an ability go through the entire list of changes, subtract and readd what is needed
+
+thirdpersoncharacter can have a set and reset function
+
+
+more complicated: 
+if previous is true and next is false then just add upgrade
+
+if previous is true and next is 
+
+---------
+if false we want to make red after it is set to true
+
+if true we want to make green after set to false
+
+
+the setting of color is post the setting of boolean
+
+----------
+
+NEEDED: A function with a reference to the widget with upgradeArray to access true/false values and the index that we need to examine
+
+to effect abilities maybe similar to how color is set 
+
+maybe another array of type string with values such as CDR, HEALAMOUNT, and other upgrades
+
+button 1(index 0) = cd(index 0) set cd to lower
+
+button 2(index 1) = healamount+(index1) set healamount to higher
+
+if we set button 1 to false we need to remove healamount+ and any other buff after
+
+options:
+
+option 1 remove all buffs and then go through the buff array and alter the ability until false is encountered in other array
+
+option 2 (maybe) created a variable for saved index of highest upgrade, when you make a button false you go and remove all the upgrades from the index of the false to the index of the old highest true, and then set the highest true to the false index-1

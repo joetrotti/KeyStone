@@ -1,0 +1,8 @@
+1. Your group number: 2
+
+2. You project name: KeyStone
+
+3. Your full name: Humza Shah
+
+4. One or more sentences explaining what you have done:
+	My job was to make a fully functional enemy final boss. So what I did was implement a way for the boss to track you and attack you in various ways. I also added colliders which will make it so the enemy and player can give and recieve damage. The last thing I made was a random roaming feature, which makes the boss randomly roam in a certain area while there is no foe.

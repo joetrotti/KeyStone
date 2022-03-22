@@ -636,3 +636,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.22-09.49.22:759][  0]LogTcpMessaging: Initializing TcpMessaging bridge
 [2022.03.22-09.49.22:829][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
 [2022.03.22-09.49.23:385][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 706E6284450FEF555EDC8F97B363F9FB | Instance: FD817E264578259115F1E7B7B8A4823A (DESKTOP-SSS6VR6-13740).
+[2022.03.22-09.49.29:885][  0]SourceControl: Source control is disabled
+[2022.03.22-09.49.29:885][  0]SourceControl: Source control is disabled
+[2022.03.22-09.49.30:239][  0]SourceControl: Source control is disabled
+[2022.03.22-09.49.30:305][  0]SourceControl: Source control is disabled
+[2022.03.22-09.49.30:357][  0]SourceControl: Source control is disabled
+[2022.03.22-09.49.30:520][  0]LogUProjectInfo: Found projects:
+[2022.03.22-09.49.30:730][  0]LogOpenImageDenoise: OIDN starting up

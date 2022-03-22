@@ -4141,3 +4141,17 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.22-21.17.34:979][854]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.03.22-21.17.34:981][854]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.03.22-21.18.00:601][854]LogUObjectHash: Compacting FUObjectHashTables data took  81.53ms
+[2022.03.22-21.18.20:303][854]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.22-21.18.20:304][854]LogContentValidation: Display: Validating World /Game/MedievalDungeon/Maps/DungeonLevel.DungeonLevel
+[2022.03.22-21.18.20:304][854]LogContentValidation: Display: Validating Material /Game/Tanner/MainMenu/CoinMaterial.CoinMaterial
+[2022.03.22-21.18.20:488][855]Cmd: QUIT_EDITOR
+[2022.03.22-21.18.20:575][855]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.03.22-21.18.21:179][855]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.03.22-21.18.22:868][855]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.03.22-21.18.22:900][855]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.03.22-21.18.22:900][855]LogAudio: Display: Audio Device unregistered from world 'DungeonLevel'.
+[2022.03.22-21.18.22:912][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.22-21.18.23:321][855]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.22-21.18.24:225][855]LogAudio: Display: Audio Device Manager Shutdown
+[2022.03.22-21.18.24:346][855]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.22-21.18.25:122][855]LogExit: Preparing to exit.

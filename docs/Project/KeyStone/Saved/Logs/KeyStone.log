@@ -5604,3 +5604,6 @@ Make sure 'MySaveGame_C' has been compiled for  Set PointerToSave
 [2022.03.22-13.21.07:976][860]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
 [2022.03.22-13.21.07:976][860]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
 [2022.03.22-13.21.18:537][860]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.03.22-13.21.23:709][860]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.03.22-13.21.54:102][860]LogExit: Editor shut down
+[2022.03.22-13.21.54:537][860]LogExit: Transaction tracking system shut down

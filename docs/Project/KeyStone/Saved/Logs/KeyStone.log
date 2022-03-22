@@ -643,3 +643,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.22-09.49.30:357][  0]SourceControl: Source control is disabled
 [2022.03.22-09.49.30:520][  0]LogUProjectInfo: Found projects:
 [2022.03.22-09.49.30:730][  0]LogOpenImageDenoise: OIDN starting up
+[2022.03.22-09.49.31:664][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.22-09.49.31:957][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.22-09.49.31:958][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.22-09.49.33:932][  0]LogOcInput: OculusInput pre-init called

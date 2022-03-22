@@ -4174,3 +4174,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.22-21.18.43:536][855]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
 [2022.03.22-21.18.43:537][855]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
 [2022.03.22-21.18.45:770][855]LogDirectoryWatcher: Display: A directory notification failed, and we were unable to create a new request. GetLastError code [6] Handle [FFFFFFFFFFFFFFFF], Path [D:/KeyStone/docs/Project/KeyStone/Content/] 
+[2022.03.22-21.18.51:612][855]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.03.22-21.18.55:083][855]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.03.22-21.18.59:275][855]LogExit: Editor shut down
+[2022.03.22-21.18.59:656][855]LogExit: Transaction tracking system shut down

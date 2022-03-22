@@ -647,3 +647,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.22-09.49.31:957][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
 [2022.03.22-09.49.31:958][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
 [2022.03.22-09.49.33:932][  0]LogOcInput: OculusInput pre-init called
+[2022.03.22-09.49.38:062][  0]LogCollectionManager: Loaded 0 collections in 0.001654 seconds
+[2022.03.22-09.49.38:210][  0]LogFileCache: Scanning file cache for directory 'D:/KeyStone/docs/Project/KeyStone/Saved/Collections/' took 0.01s
+[2022.03.22-09.49.38:210][  0]LogFileCache: Scanning file cache for directory 'D:/KeyStone/docs/Project/KeyStone/Content/Developers/ringk/Collections/' took 0.00s
+[2022.03.22-09.49.38:210][  0]LogFileCache: Scanning file cache for directory 'D:/KeyStone/docs/Project/KeyStone/Content/Collections/' took 0.00s

@@ -1110,3 +1110,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.24-23.16.11:558][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
 [2022.03.24-23.16.11:558][229]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
 [2022.03.24-23.16.11:558][229]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-23.16.13:371][229]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.03.24-23.16.15:004][229]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.03.24-23.16.15:561][229]LogExit: Editor shut down
+[2022.03.24-23.16.15:570][229]LogExit: Transaction tracking system shut down
+[2022.03.24-23.16.22:335][229]LogExit: Object subsystem successfully closed.
+[2022.03.24-23.16.22:375][229]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.24-23.16.22:380][229]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.03.24-23.16.22:380][229]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.03.24-23.16.22:390][229]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 358.40 MB (0.35 GB) budget. Usage: 0.00%
+[2022.03.24-23.16.22:390][229]LogShaderCompilers: Display: ================================================
+[2022.03.24-23.16.22:764][229]LogShaderCompilers: Display: Shaders left to compile 0

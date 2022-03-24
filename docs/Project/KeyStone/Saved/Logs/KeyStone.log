@@ -1520,3 +1520,58 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.24-23.16.35:140][229]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (102)
 [2022.03.24-23.16.35:157][229]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
 [2022.03.24-23.16.35:158][229]LogModuleManager: Shutting down and abandoning module OpenXRHMD (101)
+[2022.03.24-23.16.35:247][229]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2022.03.24-23.16.35:247][229]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2022.03.24-23.16.35:267][229]LogModuleManager: Shutting down and abandoning module MLSDK (94)
+[2022.03.24-23.16.35:267][229]LogModuleManager: Shutting down and abandoning module MagicLeap (92)
+[2022.03.24-23.16.35:270][229]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (90)
+[2022.03.24-23.16.35:270][229]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (86)
+[2022.03.24-23.16.35:271][229]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (84)
+[2022.03.24-23.16.35:317][229]LogModuleManager: Shutting down and abandoning module XMPP (79)
+[2022.03.24-23.16.35:342][229]LogModuleManager: Shutting down and abandoning module WebSockets (78)
+[2022.03.24-23.16.35:409][229]LogModuleManager: Shutting down and abandoning module HTTP (75)
+[2022.03.24-23.16.35:419][229]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.03.24-23.16.35:424][229]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFF6C13F2-45E3-5401-1681-058D7A3F2998%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=60dc6d214fba485b745a838bdee781f3%7Ceb7525012e224394b82c3fea196192a7%7Cd1700620-15db-468d-bd8e-476171971c7e&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2022.03.24-23.16.35:424][229]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2022.03.24-23.16.35:572][229]LogModuleManager: Shutting down and abandoning module SSL (74)
+[2022.03.24-23.16.35:708][229]LogModuleManager: Shutting down and abandoning module ChaosCloth (70)
+[2022.03.24-23.16.35:786][229]LogModuleManager: Shutting down and abandoning module WmfMedia (68)
+[2022.03.24-23.16.35:925][229]LogModuleManager: Shutting down and abandoning module Media (67)
+[2022.03.24-23.16.35:926][229]LogModuleManager: Shutting down and abandoning module MediaInfo (66)
+[2022.03.24-23.16.35:926][229]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (62)
+[2022.03.24-23.16.35:945][229]LogModuleManager: Shutting down and abandoning module PixWinPlugin (60)
+[2022.03.24-23.16.35:946][229]LogModuleManager: Shutting down and abandoning module VariantManagerContent (58)
+[2022.03.24-23.16.35:946][229]LogModuleManager: Shutting down and abandoning module DatasmithContent (56)
+[2022.03.24-23.16.35:947][229]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (54)
+[2022.03.24-23.16.35:947][229]LogModuleManager: Shutting down and abandoning module NiagaraShader (52)
+[2022.03.24-23.16.36:061][229]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.03.24-23.16.36:062][229]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.03.24-23.16.36:135][229]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.03.24-23.16.36:231][229]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.03.24-23.16.36:246][229]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.03.24-23.16.36:246][229]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.03.24-23.16.36:246][229]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.03.24-23.16.36:319][229]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.03.24-23.16.36:324][229]LogXGEController: Cleaning working directory: C:/Users/ringk/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2022.03.24-23.16.36:324][229]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.03.24-23.16.36:331][229]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.03.24-23.16.36:364][229]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.03.24-23.16.36:483][229]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.03.24-23.16.36:506][229]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.03.24-23.16.36:506][229]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.03.24-23.16.36:519][229]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.03.24-23.16.36:577][229]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.03.24-23.16.36:597][229]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.03.24-23.16.36:620][229]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.03.24-23.16.36:620][229]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.03.24-23.16.36:621][229]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.03.24-23.16.36:634][229]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.03.24-23.16.36:640][229]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.03.24-23.16.36:646][229]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.03.24-23.16.36:651][229]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.03.24-23.16.36:662][229]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.03.24-23.16.36:695][229]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.03.24-23.16.36:854][229]LogD3D11RHI: Shutdown
+[2022.03.24-23.16.36:854][229]LogD3D11RHI: CleanupD3DDevice
+[2022.03.24-23.16.37:627][229]LogExit: Exiting.
+[2022.03.24-23.16.37:709][229]Log file closed, 03/24/22 19:16:37

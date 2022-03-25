@@ -1080,3 +1080,939 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.25-02.52.51:624][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.03.25-02.52.51:631][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
 [2022.03.25-02.52.51:656][932]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.03.25-02.53.39:944][413]LogEditorViewport: Clicking on Actor (LMB): Enemy1BP_C (Enemy1BP)
+[2022.03.25-02.53.48:485][214]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.25-02.53.48:506][214]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.25-02.53.48:507][214]PIE: New page: PIE session: DungeonLevel (Mar 24, 2022, 6:53:48 PM)
+[2022.03.25-02.53.48:507][214]LogPlayLevel: Creating play world package: /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel
+[2022.03.25-02.53.48:592][214]LogPlayLevel: PIE: StaticDuplicateObject took: (0.085949s)
+[2022.03.25-02.53.48:593][214]LogAIModule: Creating AISystem for world DungeonLevel
+[2022.03.25-02.53.48:593][214]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2022.03.25-02.53.48:593][214]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MedievalDungeon/Maps/DungeonLevel.DungeonLevel to /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel.DungeonLevel (0.087020s)
+[2022.03.25-02.53.48:621][214]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.03.25-02.53.48:625][214]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.03.25-02.53.48:625][214]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.25-02.53.48:625][214]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.25-02.53.48:625][214]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.25-02.53.48:625][214]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.25-02.53.48:625][214]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.25-02.53.48:625][214]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.25-02.53.48:625][214]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.25-02.53.48:625][214]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.25-02.53.48:625][214]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.25-02.53.48:625][214]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.25-02.53.48:625][214]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.25-02.53.48:625][214]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.25-02.53.48:627][214]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.25-02.53.48:627][214]LogAudioMixer: Display: 1: FrontRight
+[2022.03.25-02.53.48:634][214]LogAudioMixer: Display: Using Audio Device Speakers (USB Audio Device)
+[2022.03.25-02.53.48:634][214]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.25-02.53.48:634][214]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.25-02.53.48:634][214]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.25-02.53.48:635][214]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.25-02.53.48:635][214]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.25-02.53.48:635][214]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.25-02.53.48:636][214]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.25-02.53.48:636][214]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.25-02.53.48:636][214]LogInit: FAudioDevice initialized.
+[2022.03.25-02.53.48:636][214]LogAudio: Display: Audio Device (ID: 4) registered with world 'DungeonLevel'.
+[2022.03.25-02.53.48:647][214]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.25-02.53.48:684][214]LogWorld: Bringing World /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel.DungeonLevel up for play (max tick rate 0) at 2022.03.24-22.53.48
+[2022.03.25-02.53.48:686][214]LogWorld: Bringing up level for play took: 0.037934
+[2022.03.25-02.53.48:686][214]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.03.25-02.53.48:697][214]LogBlueprintUserMessages: [Player_C_0] Save1
+[2022.03.25-02.53.48:697][214]PIE: Server logged in
+[2022.03.25-02.53.48:698][214]PIE: Play in editor total start time 0.207 seconds.
+[2022.03.25-02.53.48:698][214]LogBlueprintUserMessages: [BP_checkpoint_2] Checkpoint
+[2022.03.25-02.53.53:895][815]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 80.0
+[2022.03.25-02.53.56:006][ 61]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 60.0
+[2022.03.25-02.53.56:508][121]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 40.0
+[2022.03.25-02.54.01:535][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.25-02.54.01:535][692]LogWorld: BeginTearingDown for /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel
+[2022.03.25-02.54.01:539][692]LogWorld: UWorld::CleanupWorld for DungeonLevel, bSessionEnded=true, bCleanupResources=true
+[2022.03.25-02.54.01:551][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.25-02.54.01:559][692]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.25-02.54.01:593][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.25-02.54.01:621][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.25-02.54.01:622][692]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.25-02.54.01:622][692]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.25-02.54.01:631][692]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.03.25-02.54.01:682][693]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.03.25-02.54.06:440][958]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.03.25-02.55.10:157][693]BlueprintLog: New page: Compile Enemy1BP
+[2022.03.25-02.55.10:278][693]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.03.25-02.55.11:039][727]LogSavePackage: Moving 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Saved/Enemy1BP0362466D40D552DCAF0828966BC52EB6.tmp' to 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Humza/KhaimeraKeyStone/Ai/Enemy1BP.uasset'
+[2022.03.25-02.55.11:050][727]AssetCheck: New page: Asset Save: Enemy1BP
+[2022.03.25-02.55.11:050][727]LogContentValidation: Display: Validating Blueprint /Game/Humza/KhaimeraKeyStone/Ai/Enemy1BP.Enemy1BP
+[2022.03.25-02.56.17:815][588]BlueprintLog: New page: Compile Player
+[2022.03.25-02.56.17:907][588]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2022.03.25-02.56.18:190][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Evan/KeystoneImport/Player" FILE="C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Evan/KeystoneImport/Player.uasset" SILENT=true
+[2022.03.25-02.56.18:289][593]LogSavePackage: Moving 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Saved/PlayerDD50E67E4BBB063AFC06929D4A6756FA.tmp' to 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Evan/KeystoneImport/Player.uasset'
+[2022.03.25-02.56.18:301][593]AssetCheck: New page: Asset Save: Player
+[2022.03.25-02.56.18:301][593]LogContentValidation: Display: Validating Blueprint /Game/Evan/KeystoneImport/Player.Player
+[2022.03.25-02.56.20:278][716]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.25-02.56.20:284][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.25-02.56.20:284][716]PIE: New page: PIE session: DungeonLevel (Mar 24, 2022, 6:56:20 PM)
+[2022.03.25-02.56.20:321][716]LogPlayLevel: Creating play world package: /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel
+[2022.03.25-02.56.20:407][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086129s)
+[2022.03.25-02.56.20:408][716]LogAIModule: Creating AISystem for world DungeonLevel
+[2022.03.25-02.56.20:408][716]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2022.03.25-02.56.20:408][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MedievalDungeon/Maps/DungeonLevel.DungeonLevel to /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel.DungeonLevel (0.087273s)
+[2022.03.25-02.56.20:437][716]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2022.03.25-02.56.20:439][716]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.03.25-02.56.20:439][716]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.25-02.56.20:439][716]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.25-02.56.20:439][716]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.25-02.56.20:439][716]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.25-02.56.20:439][716]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.25-02.56.20:439][716]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.25-02.56.20:439][716]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.25-02.56.20:439][716]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.25-02.56.20:439][716]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.25-02.56.20:439][716]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.25-02.56.20:439][716]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.25-02.56.20:439][716]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.25-02.56.20:442][716]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.25-02.56.20:442][716]LogAudioMixer: Display: 1: FrontRight
+[2022.03.25-02.56.20:449][716]LogAudioMixer: Display: Using Audio Device Speakers (USB Audio Device)
+[2022.03.25-02.56.20:449][716]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.25-02.56.20:449][716]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.25-02.56.20:449][716]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.25-02.56.20:449][716]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.25-02.56.20:449][716]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.25-02.56.20:449][716]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.25-02.56.20:450][716]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.25-02.56.20:450][716]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.25-02.56.20:450][716]LogInit: FAudioDevice initialized.
+[2022.03.25-02.56.20:450][716]LogAudio: Display: Audio Device (ID: 5) registered with world 'DungeonLevel'.
+[2022.03.25-02.56.20:461][716]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.25-02.56.20:499][716]LogWorld: Bringing World /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel.DungeonLevel up for play (max tick rate 0) at 2022.03.24-22.56.20
+[2022.03.25-02.56.20:501][716]LogWorld: Bringing up level for play took: 0.039317
+[2022.03.25-02.56.20:501][716]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.03.25-02.56.20:513][716]LogBlueprintUserMessages: [Player_C_0] Save1
+[2022.03.25-02.56.20:513][716]PIE: Server logged in
+[2022.03.25-02.56.20:514][716]PIE: Play in editor total start time 0.23 seconds.
+[2022.03.25-02.56.20:514][716]LogBlueprintUserMessages: [BP_checkpoint_2] Checkpoint
+[2022.03.25-02.56.27:873][576]LogBlueprintUserMessages: [Enemy1BP_2] EnemyHp: 283.0
+[2022.03.25-02.56.28:540][656]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 80.0
+[2022.03.25-02.56.29:406][760]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 60.0
+[2022.03.25-02.56.32:072][ 80]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 40.0
+[2022.03.25-02.56.33:224][218]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 20.0
+[2022.03.25-02.56.34:732][399]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 0.0
+[2022.03.25-02.56.34:732][399]LogBlueprintUserMessages: [Player_C_0] DEAD
+[2022.03.25-02.56.35:725][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.25-02.56.35:725][514]LogWorld: BeginTearingDown for /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel
+[2022.03.25-02.56.35:729][514]LogWorld: UWorld::CleanupWorld for DungeonLevel, bSessionEnded=true, bCleanupResources=true
+[2022.03.25-02.56.35:740][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.25-02.56.35:754][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.25-02.56.35:787][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.25-02.56.35:815][514]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.25-02.56.35:815][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.25-02.56.35:816][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.25-02.56.35:817][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.25-02.56.35:825][514]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.03.25-02.56.35:868][515]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.03.25-02.56.45:876][153]BlueprintLog: New page: Compile Player
+[2022.03.25-02.56.45:963][153]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.03.25-02.56.46:351][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Evan/KeystoneImport/Player" FILE="C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Evan/KeystoneImport/Player.uasset" SILENT=true
+[2022.03.25-02.56.46:450][163]LogSavePackage: Moving 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Saved/Player0000C13D42E094963013CEA97E069F8F.tmp' to 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Evan/KeystoneImport/Player.uasset'
+[2022.03.25-02.56.46:462][163]AssetCheck: New page: Asset Save: Player
+[2022.03.25-02.56.46:462][163]LogContentValidation: Display: Validating Blueprint /Game/Evan/KeystoneImport/Player.Player
+[2022.03.25-02.56.47:958][270]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.25-02.56.47:964][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.25-02.56.47:964][270]PIE: New page: PIE session: DungeonLevel (Mar 24, 2022, 6:56:47 PM)
+[2022.03.25-02.56.48:011][270]LogPlayLevel: Creating play world package: /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel
+[2022.03.25-02.56.48:127][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.115892s)
+[2022.03.25-02.56.48:128][270]LogAIModule: Creating AISystem for world DungeonLevel
+[2022.03.25-02.56.48:128][270]LogPlayLevel: PIE: World Init took: (0.000951s)
+[2022.03.25-02.56.48:128][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MedievalDungeon/Maps/DungeonLevel.DungeonLevel to /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel.DungeonLevel (0.117190s)
+[2022.03.25-02.56.48:157][270]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.03.25-02.56.48:158][270]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.03.25-02.56.48:158][270]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.25-02.56.48:158][270]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.25-02.56.48:158][270]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.25-02.56.48:158][270]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.25-02.56.48:158][270]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.25-02.56.48:158][270]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.25-02.56.48:158][270]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.25-02.56.48:158][270]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.25-02.56.48:159][270]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.25-02.56.48:159][270]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.25-02.56.48:159][270]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.25-02.56.48:159][270]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.25-02.56.48:161][270]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.25-02.56.48:161][270]LogAudioMixer: Display: 1: FrontRight
+[2022.03.25-02.56.48:167][270]LogAudioMixer: Display: Using Audio Device Speakers (USB Audio Device)
+[2022.03.25-02.56.48:167][270]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.25-02.56.48:167][270]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.25-02.56.48:167][270]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.25-02.56.48:167][270]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.25-02.56.48:167][270]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.25-02.56.48:167][270]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.25-02.56.48:168][270]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.25-02.56.48:168][270]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.25-02.56.48:168][270]LogInit: FAudioDevice initialized.
+[2022.03.25-02.56.48:168][270]LogAudio: Display: Audio Device (ID: 6) registered with world 'DungeonLevel'.
+[2022.03.25-02.56.48:177][270]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.25-02.56.48:212][270]LogWorld: Bringing World /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel.DungeonLevel up for play (max tick rate 0) at 2022.03.24-22.56.48
+[2022.03.25-02.56.48:214][270]LogWorld: Bringing up level for play took: 0.037348
+[2022.03.25-02.56.48:214][270]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.03.25-02.56.48:237][270]LogBlueprintUserMessages: [Player_C_0] Save1
+[2022.03.25-02.56.48:237][270]PIE: Server logged in
+[2022.03.25-02.56.48:238][270]PIE: Play in editor total start time 0.275 seconds.
+[2022.03.25-02.56.48:238][270]LogBlueprintUserMessages: [BP_checkpoint_2] Checkpoint
+[2022.03.25-02.56.55:734][146]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 80.0
+[2022.03.25-02.56.56:035][182]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=-32.31 Y=-403.57 Z=0.00 Location: X=1597.45 Y=1543.90 Z=98.06 Normal: X=0.57 Y=0.82 Z=0.00 PenetrationDepth:4.776 Actor:Enemy1BP_2 Component:CharacterMesh0 BoneName:weapon_r (0 other events since notify)
+[2022.03.25-02.56.57:127][313]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=22.52 Y=-36.33 Z=0.00 Location: X=1575.07 Y=1545.54 Z=98.15 Normal: X=0.82 Y=0.57 Z=0.00 PenetrationDepth:3.499 Actor:Enemy1BP_2 Component:CharacterMesh0 BoneName:weapon_tail_l_02 (5 other events since notify)
+[2022.03.25-02.56.57:244][327]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 60.0
+[2022.03.25-02.56.58:402][466]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=-105.08 Y=418.30 Z=0.00 Location: X=1795.04 Y=1422.06 Z=96.05 Normal: X=0.12 Y=-0.86 Z=-0.50 PenetrationDepth:0.166 Actor:Enemy1BP_2 Component:CharacterMesh0 BoneName:weapon_l (7 other events since notify)
+[2022.03.25-02.56.59:095][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.25-02.56.59:095][543]LogWorld: BeginTearingDown for /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel
+[2022.03.25-02.56.59:098][543]LogWorld: UWorld::CleanupWorld for DungeonLevel, bSessionEnded=true, bCleanupResources=true
+[2022.03.25-02.56.59:110][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.25-02.56.59:124][543]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.25-02.56.59:157][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.25-02.56.59:185][543]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.25-02.56.59:186][543]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.25-02.56.59:187][543]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.25-02.56.59:188][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.25-02.56.59:195][543]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.03.25-02.56.59:240][544]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.03.25-02.57.06:881][  5]BlueprintLog: New page: Compile Player
+[2022.03.25-02.57.06:970][  5]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.03.25-02.57.07:325][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Evan/KeystoneImport/Player" FILE="C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Evan/KeystoneImport/Player.uasset" SILENT=true
+[2022.03.25-02.57.07:421][ 14]LogSavePackage: Moving 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Saved/Player2B270EBC40CF1B81395877BB61195C2C.tmp' to 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Evan/KeystoneImport/Player.uasset'
+[2022.03.25-02.57.07:434][ 14]AssetCheck: New page: Asset Save: Player
+[2022.03.25-02.57.07:434][ 14]LogContentValidation: Display: Validating Blueprint /Game/Evan/KeystoneImport/Player.Player
+[2022.03.25-02.57.08:670][ 99]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.25-02.57.08:675][ 99]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.25-02.57.08:675][ 99]PIE: New page: PIE session: DungeonLevel (Mar 24, 2022, 6:57:08 PM)
+[2022.03.25-02.57.08:701][ 99]LogPlayLevel: Creating play world package: /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel
+[2022.03.25-02.57.08:796][ 99]LogPlayLevel: PIE: StaticDuplicateObject took: (0.095052s)
+[2022.03.25-02.57.08:797][ 99]LogAIModule: Creating AISystem for world DungeonLevel
+[2022.03.25-02.57.08:797][ 99]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2022.03.25-02.57.08:797][ 99]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MedievalDungeon/Maps/DungeonLevel.DungeonLevel to /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel.DungeonLevel (0.096164s)
+[2022.03.25-02.57.08:826][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.03.25-02.57.08:827][ 99]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.03.25-02.57.08:827][ 99]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.25-02.57.08:827][ 99]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.25-02.57.08:827][ 99]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.25-02.57.08:827][ 99]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.25-02.57.08:827][ 99]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.25-02.57.08:827][ 99]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.25-02.57.08:827][ 99]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.25-02.57.08:827][ 99]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.25-02.57.08:827][ 99]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.25-02.57.08:827][ 99]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.25-02.57.08:827][ 99]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.25-02.57.08:827][ 99]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.25-02.57.08:829][ 99]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.25-02.57.08:829][ 99]LogAudioMixer: Display: 1: FrontRight
+[2022.03.25-02.57.08:836][ 99]LogAudioMixer: Display: Using Audio Device Speakers (USB Audio Device)
+[2022.03.25-02.57.08:836][ 99]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.25-02.57.08:836][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.25-02.57.08:836][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.25-02.57.08:836][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.25-02.57.08:836][ 99]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.25-02.57.08:836][ 99]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.25-02.57.08:837][ 99]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.25-02.57.08:837][ 99]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.25-02.57.08:837][ 99]LogInit: FAudioDevice initialized.
+[2022.03.25-02.57.08:837][ 99]LogAudio: Display: Audio Device (ID: 7) registered with world 'DungeonLevel'.
+[2022.03.25-02.57.08:842][ 99]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.25-02.57.08:878][ 99]LogWorld: Bringing World /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel.DungeonLevel up for play (max tick rate 0) at 2022.03.24-22.57.08
+[2022.03.25-02.57.08:880][ 99]LogWorld: Bringing up level for play took: 0.037586
+[2022.03.25-02.57.08:880][ 99]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.03.25-02.57.08:891][ 99]LogBlueprintUserMessages: [Player_C_0] Save1
+[2022.03.25-02.57.08:891][ 99]PIE: Server logged in
+[2022.03.25-02.57.08:892][ 99]PIE: Play in editor total start time 0.218 seconds.
+[2022.03.25-02.57.08:893][ 99]LogBlueprintUserMessages: [BP_checkpoint_2] Checkpoint
+[2022.03.25-02.57.13:817][668]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=536.15 Y=-269.34 Z=0.00 Location: X=1774.81 Y=1471.48 Z=106.29 Normal: X=0.16 Y=0.81 Z=0.57 PenetrationDepth:0.362 Actor:Enemy1BP_2 Component:CharacterMesh0 BoneName:foot_l (0 other events since notify)
+[2022.03.25-02.57.14:218][716]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 80.0
+[2022.03.25-02.57.14:268][722]LogCharacterMovement: Enemy1BP_2 is stuck and failed to move! Velocity: X=-102.35 Y=61.76 Z=0.00 Location: X=1820.40 Y=1376.86 Z=115.24 Normal: X=0.79 Y=-0.45 Z=-0.43 PenetrationDepth:0.525 Actor:Player_C_0 Component:CharacterMesh0 BoneName:upperarm_r (0 other events since notify)
+[2022.03.25-02.57.14:718][776]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 60.0
+[2022.03.25-02.57.19:231][317]LogBlueprintUserMessages: [Enemy1BP_2] EnemyHp: 283.0
+[2022.03.25-02.57.22:183][669]LogBlueprintUserMessages: [Enemy1BP_2] EnemyHp: 266.0
+[2022.03.25-02.57.22:567][715]LogBlueprintUserMessages: [Enemy1BP_2] EnemyHp: 249.0
+[2022.03.25-02.57.22:859][750]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 40.0
+[2022.03.25-02.57.24:009][888]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 20.0
+[2022.03.25-02.57.25:476][ 64]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 0.0
+[2022.03.25-02.57.25:476][ 64]LogBlueprintUserMessages: [Player_C_0] DEAD
+[2022.03.25-02.57.26:633][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.25-02.57.26:633][200]LogWorld: BeginTearingDown for /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel
+[2022.03.25-02.57.26:634][200]LogWorld: UWorld::CleanupWorld for DungeonLevel, bSessionEnded=true, bCleanupResources=true
+[2022.03.25-02.57.26:642][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.25-02.57.26:657][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.25-02.57.26:690][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.25-02.57.26:718][200]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.25-02.57.26:718][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.25-02.57.26:719][200]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.25-02.57.26:721][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.25-02.57.26:728][200]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.03.25-02.57.26:770][201]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.03.25-02.57.35:970][831]BlueprintLog: New page: Compile Enemy1BP
+[2022.03.25-02.57.36:088][831]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2022.03.25-02.57.36:426][841]LogSavePackage: Moving 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Saved/Enemy1BP98561BB244B5A51889BB3088983F2162.tmp' to 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Humza/KhaimeraKeyStone/Ai/Enemy1BP.uasset'
+[2022.03.25-02.57.36:438][841]AssetCheck: New page: Asset Save: Enemy1BP
+[2022.03.25-02.57.36:438][841]LogContentValidation: Display: Validating Blueprint /Game/Humza/KhaimeraKeyStone/Ai/Enemy1BP.Enemy1BP
+[2022.03.25-02.57.37:951][955]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.25-02.57.37:956][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.25-02.57.37:956][955]PIE: New page: PIE session: DungeonLevel (Mar 24, 2022, 6:57:37 PM)
+[2022.03.25-02.57.37:991][955]LogPlayLevel: Creating play world package: /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel
+[2022.03.25-02.57.38:086][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.095090s)
+[2022.03.25-02.57.38:087][955]LogAIModule: Creating AISystem for world DungeonLevel
+[2022.03.25-02.57.38:087][955]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2022.03.25-02.57.38:087][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MedievalDungeon/Maps/DungeonLevel.DungeonLevel to /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel.DungeonLevel (0.096236s)
+[2022.03.25-02.57.38:115][955]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.03.25-02.57.38:117][955]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.03.25-02.57.38:117][955]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.25-02.57.38:117][955]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.25-02.57.38:117][955]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.25-02.57.38:117][955]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.25-02.57.38:117][955]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.25-02.57.38:117][955]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.25-02.57.38:117][955]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.25-02.57.38:117][955]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.25-02.57.38:117][955]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.25-02.57.38:117][955]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.25-02.57.38:117][955]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.25-02.57.38:117][955]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.25-02.57.38:119][955]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.25-02.57.38:119][955]LogAudioMixer: Display: 1: FrontRight
+[2022.03.25-02.57.38:126][955]LogAudioMixer: Display: Using Audio Device Speakers (USB Audio Device)
+[2022.03.25-02.57.38:126][955]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.25-02.57.38:126][955]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.25-02.57.38:126][955]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.25-02.57.38:126][955]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.25-02.57.38:126][955]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.25-02.57.38:126][955]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.25-02.57.38:127][955]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.25-02.57.38:127][955]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.25-02.57.38:127][955]LogInit: FAudioDevice initialized.
+[2022.03.25-02.57.38:127][955]LogAudio: Display: Audio Device (ID: 8) registered with world 'DungeonLevel'.
+[2022.03.25-02.57.38:133][955]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.25-02.57.38:169][955]LogWorld: Bringing World /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel.DungeonLevel up for play (max tick rate 0) at 2022.03.24-22.57.38
+[2022.03.25-02.57.38:172][955]LogWorld: Bringing up level for play took: 0.038303
+[2022.03.25-02.57.38:172][955]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.03.25-02.57.38:183][955]LogBlueprintUserMessages: [Player_C_0] Save1
+[2022.03.25-02.57.38:183][955]PIE: Server logged in
+[2022.03.25-02.57.38:183][955]PIE: Play in editor total start time 0.228 seconds.
+[2022.03.25-02.57.38:184][955]LogBlueprintUserMessages: [BP_checkpoint_2] Checkpoint
+[2022.03.25-02.57.43:648][590]LogBlueprintUserMessages: [Enemy1BP_2] EnemyHp: 283.0
+[2022.03.25-02.57.44:030][636]LogBlueprintUserMessages: [Enemy1BP_2] EnemyHp: 266.0
+[2022.03.25-02.57.44:272][665]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 80.0
+[2022.03.25-02.57.45:781][846]LogBlueprintUserMessages: [Enemy1BP_2] EnemyHp: 249.0
+[2022.03.25-02.57.45:781][846]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 60.0
+[2022.03.25-02.57.47:539][ 57]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=129.39 Y=69.96 Z=0.00 Location: X=1741.84 Y=2006.08 Z=98.11 Normal: X=-0.21 Y=0.98 Z=0.00 PenetrationDepth:3.774 Actor:Enemy1BP_2 Component:CharacterMesh0 BoneName:weapon_tail_r_02 (0 other events since notify)
+[2022.03.25-02.57.48:714][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.25-02.57.48:714][192]LogWorld: BeginTearingDown for /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel
+[2022.03.25-02.57.48:718][192]LogWorld: UWorld::CleanupWorld for DungeonLevel, bSessionEnded=true, bCleanupResources=true
+[2022.03.25-02.57.48:731][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.25-02.57.48:746][192]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.25-02.57.48:779][192]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.25-02.57.48:807][192]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.25-02.57.48:807][192]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.25-02.57.48:808][192]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.25-02.57.48:808][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.25-02.57.48:823][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.03.25-02.57.48:867][193]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.03.25-02.58.06:086][393]LogSlate: Window 'Save Asset As' being destroyed
+[2022.03.25-02.58.07:769][497]BlueprintLog: New page: Compile Enemy1BP
+[2022.03.25-02.58.07:885][497]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.03.25-02.58.08:191][504]LogSavePackage: Moving 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Saved/Enemy1BPB1035C4044548FEAF344D38BC92DD661.tmp' to 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Humza/KhaimeraKeyStone/Ai/Enemy1BP.uasset'
+[2022.03.25-02.58.08:204][504]AssetCheck: New page: Asset Save: Enemy1BP
+[2022.03.25-02.58.08:204][504]LogContentValidation: Display: Validating Blueprint /Game/Humza/KhaimeraKeyStone/Ai/Enemy1BP.Enemy1BP
+[2022.03.25-02.58.15:900][925]BlueprintLog: New page: Compile Player
+[2022.03.25-02.58.15:991][925]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.03.25-02.58.16:467][943]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Evan/KeystoneImport/Player" FILE="C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Evan/KeystoneImport/Player.uasset" SILENT=true
+[2022.03.25-02.58.16:563][943]LogSavePackage: Moving 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Saved/Player721463164D88D689BE8774924AAF631E.tmp' to 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Evan/KeystoneImport/Player.uasset'
+[2022.03.25-02.58.16:575][943]AssetCheck: New page: Asset Save: Player
+[2022.03.25-02.58.16:575][943]LogContentValidation: Display: Validating Blueprint /Game/Evan/KeystoneImport/Player.Player
+[2022.03.25-02.58.20:335][248]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.03.25-02.58.20:705][248]LogSavePackage: Moving 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Saved/DungeonLevelFA8A7FD14A2AD903C1DA32B64BB12C18.tmp' to 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/MedievalDungeon/Maps/DungeonLevel.umap'
+[2022.03.25-02.58.20:727][248]AssetCheck: New page: Asset Save: DungeonLevel
+[2022.03.25-02.58.20:727][248]LogContentValidation: Display: Validating World /Game/MedievalDungeon/Maps/DungeonLevel.DungeonLevel
+[2022.03.25-02.58.23:060][353]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.03.25-02.58.30:879][709]LogSlate: Window 'Edit Profile' being destroyed
+[2022.03.25-02.58.32:660][836]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.25-02.58.32:666][836]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.25-02.58.32:666][836]PIE: New page: PIE session: DungeonLevel (Mar 24, 2022, 6:58:32 PM)
+[2022.03.25-02.58.32:690][836]LogPlayLevel: Creating play world package: /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel
+[2022.03.25-02.58.32:777][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086979s)
+[2022.03.25-02.58.32:778][836]LogAIModule: Creating AISystem for world DungeonLevel
+[2022.03.25-02.58.32:778][836]LogPlayLevel: PIE: World Init took: (0.000964s)
+[2022.03.25-02.58.32:779][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MedievalDungeon/Maps/DungeonLevel.DungeonLevel to /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel.DungeonLevel (0.088119s)
+[2022.03.25-02.58.32:832][836]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2022.03.25-02.58.32:834][836]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.03.25-02.58.32:835][836]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.25-02.58.32:835][836]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.25-02.58.32:835][836]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.25-02.58.32:835][836]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.25-02.58.32:835][836]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.25-02.58.32:835][836]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.25-02.58.32:835][836]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.25-02.58.32:835][836]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.25-02.58.32:835][836]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.25-02.58.32:835][836]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.25-02.58.32:835][836]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.25-02.58.32:835][836]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.25-02.58.32:837][836]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.25-02.58.32:837][836]LogAudioMixer: Display: 1: FrontRight
+[2022.03.25-02.58.32:844][836]LogAudioMixer: Display: Using Audio Device Speakers (USB Audio Device)
+[2022.03.25-02.58.32:844][836]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.25-02.58.32:844][836]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.25-02.58.32:844][836]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.25-02.58.32:844][836]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.25-02.58.32:844][836]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.25-02.58.32:844][836]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.25-02.58.32:845][836]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.25-02.58.32:845][836]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.25-02.58.32:845][836]LogInit: FAudioDevice initialized.
+[2022.03.25-02.58.32:845][836]LogAudio: Display: Audio Device (ID: 9) registered with world 'DungeonLevel'.
+[2022.03.25-02.58.32:854][836]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.25-02.58.32:889][836]LogWorld: Bringing World /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel.DungeonLevel up for play (max tick rate 0) at 2022.03.24-22.58.32
+[2022.03.25-02.58.32:891][836]LogWorld: Bringing up level for play took: 0.037193
+[2022.03.25-02.58.32:891][836]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.03.25-02.58.32:902][836]LogBlueprintUserMessages: [Player_C_0] Save1
+[2022.03.25-02.58.32:902][836]PIE: Server logged in
+[2022.03.25-02.58.32:903][836]PIE: Play in editor total start time 0.237 seconds.
+[2022.03.25-02.58.32:904][836]LogBlueprintUserMessages: [BP_checkpoint_2] Checkpoint
+[2022.03.25-02.58.38:403][475]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=108.75 Y=90.62 Z=0.00 Location: X=1608.75 Y=1617.93 Z=98.15 Normal: X=-0.27 Y=0.96 Z=0.00 PenetrationDepth:15.576 Actor:Enemy1BP_2 Component:CharacterMesh0 BoneName:weapon_r (0 other events since notify)
+[2022.03.25-02.58.41:512][842]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 80.0
+[2022.03.25-02.58.43:385][ 65]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 60.0
+[2022.03.25-02.58.44:535][203]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 40.0
+[2022.03.25-02.58.45:126][274]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=-374.36 Y=208.39 Z=0.00 Location: X=1373.93 Y=1824.71 Z=98.15 Normal: X=0.21 Y=0.98 Z=0.00 PenetrationDepth:12.340 Actor:Enemy1BP_2 Component:CharacterMesh0 BoneName:weapon_tail_r_02 (7 other events since notify)
+[2022.03.25-02.58.46:001][379]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 20.0
+[2022.03.25-02.58.46:468][435]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=-99.93 Y=-75.90 Z=0.00 Location: X=1261.61 Y=1802.91 Z=96.12 Normal: X=0.43 Y=-0.74 Z=0.52 PenetrationDepth:2.128 Actor:Enemy1BP_2 Component:CharacterMesh0 BoneName:foot_r (13 other events since notify)
+[2022.03.25-02.58.46:502][439]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 0.0
+[2022.03.25-02.58.46:502][439]LogBlueprintUserMessages: [Player_C_0] DEAD
+[2022.03.25-02.58.47:164][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.25-02.58.47:164][514]LogWorld: BeginTearingDown for /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel
+[2022.03.25-02.58.47:167][514]LogWorld: UWorld::CleanupWorld for DungeonLevel, bSessionEnded=true, bCleanupResources=true
+[2022.03.25-02.58.47:180][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.25-02.58.47:195][514]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.25-02.58.47:229][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.25-02.58.47:257][514]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.25-02.58.47:257][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.25-02.58.47:258][514]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.25-02.58.47:281][514]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.03.25-02.58.47:326][515]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.03.25-02.58.52:147][857]LogRenderer: Reallocating scene render targets to support 952x568 Format 10 NumSamples 1 (Frame:1).
+[2022.03.25-03.01.24:820][103]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.25-03.01.24:825][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.25-03.01.24:826][103]PIE: New page: PIE session: DungeonLevel (Mar 24, 2022, 7:01:24 PM)
+[2022.03.25-03.01.24:851][103]LogPlayLevel: Creating play world package: /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel
+[2022.03.25-03.01.24:940][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.089310s)
+[2022.03.25-03.01.24:941][103]LogAIModule: Creating AISystem for world DungeonLevel
+[2022.03.25-03.01.24:941][103]LogPlayLevel: PIE: World Init took: (0.001032s)
+[2022.03.25-03.01.24:941][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MedievalDungeon/Maps/DungeonLevel.DungeonLevel to /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel.DungeonLevel (0.090556s)
+[2022.03.25-03.01.24:975][103]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.03.25-03.01.24:980][103]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.03.25-03.01.24:980][103]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.25-03.01.24:980][103]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.25-03.01.24:980][103]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.25-03.01.24:980][103]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.25-03.01.24:980][103]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.25-03.01.24:980][103]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.25-03.01.24:980][103]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.25-03.01.24:980][103]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.25-03.01.24:981][103]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.25-03.01.24:981][103]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.25-03.01.24:981][103]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.25-03.01.24:981][103]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.25-03.01.24:983][103]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.25-03.01.24:983][103]LogAudioMixer: Display: 1: FrontRight
+[2022.03.25-03.01.24:989][103]LogAudioMixer: Display: Using Audio Device Speakers (USB Audio Device)
+[2022.03.25-03.01.24:990][103]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.25-03.01.24:990][103]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.25-03.01.24:990][103]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.25-03.01.24:990][103]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.25-03.01.24:990][103]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.25-03.01.24:990][103]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.25-03.01.24:991][103]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.25-03.01.24:991][103]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.25-03.01.24:991][103]LogInit: FAudioDevice initialized.
+[2022.03.25-03.01.24:991][103]LogAudio: Display: Audio Device (ID: 10) registered with world 'DungeonLevel'.
+[2022.03.25-03.01.24:997][103]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.25-03.01.25:035][103]LogWorld: Bringing World /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel.DungeonLevel up for play (max tick rate 0) at 2022.03.24-23.01.25
+[2022.03.25-03.01.25:037][103]LogWorld: Bringing up level for play took: 0.039500
+[2022.03.25-03.01.25:037][103]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.03.25-03.01.25:048][103]LogBlueprintUserMessages: [Player_C_0] Save1
+[2022.03.25-03.01.25:048][103]PIE: Server logged in
+[2022.03.25-03.01.25:049][103]PIE: Play in editor total start time 0.224 seconds.
+[2022.03.25-03.01.25:050][103]LogBlueprintUserMessages: [BP_checkpoint_2] Checkpoint
+[2022.03.25-03.01.30:622][752]LogBlueprintUserMessages: [Enemy1BP_2] EnemyHp: 283.0
+[2022.03.25-03.01.31:005][798]LogBlueprintUserMessages: [Enemy1BP_2] EnemyHp: 266.0
+[2022.03.25-03.01.31:689][880]LogBlueprintUserMessages: [Enemy1BP_2] EnemyHp: 249.0
+[2022.03.25-03.01.31:856][900]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 80.0
+[2022.03.25-03.01.33:364][ 81]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 60.0
+[2022.03.25-03.01.34:472][214]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 40.0
+[2022.03.25-03.01.35:602][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.25-03.01.35:602][344]LogWorld: BeginTearingDown for /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel
+[2022.03.25-03.01.35:603][344]LogWorld: UWorld::CleanupWorld for DungeonLevel, bSessionEnded=true, bCleanupResources=true
+[2022.03.25-03.01.35:611][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.25-03.01.35:630][344]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.25-03.01.35:664][344]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.25-03.01.35:693][344]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.25-03.01.35:695][344]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.25-03.01.35:696][344]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.25-03.01.35:706][344]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.03.25-03.01.35:757][345]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.03.25-03.02.12:011][449]BlueprintLog: New page: Compile Player
+[2022.03.25-03.02.12:097][449]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.03.25-03.02.12:583][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Evan/KeystoneImport/Player" FILE="C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Evan/KeystoneImport/Player.uasset" SILENT=true
+[2022.03.25-03.02.12:681][466]LogSavePackage: Moving 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Saved/Player0942EF7640593BF264D949B8BADFDB7D.tmp' to 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Evan/KeystoneImport/Player.uasset'
+[2022.03.25-03.02.12:696][466]AssetCheck: New page: Asset Save: Player
+[2022.03.25-03.02.12:696][466]LogContentValidation: Display: Validating Blueprint /Game/Evan/KeystoneImport/Player.Player
+[2022.03.25-03.02.14:509][588]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.25-03.02.14:515][588]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.25-03.02.14:515][588]PIE: New page: PIE session: DungeonLevel (Mar 24, 2022, 7:02:14 PM)
+[2022.03.25-03.02.14:515][588]LogPlayLevel: Creating play world package: /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel
+[2022.03.25-03.02.14:603][588]LogPlayLevel: PIE: StaticDuplicateObject took: (0.088156s)
+[2022.03.25-03.02.14:603][588]LogAIModule: Creating AISystem for world DungeonLevel
+[2022.03.25-03.02.14:604][588]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2022.03.25-03.02.14:604][588]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MedievalDungeon/Maps/DungeonLevel.DungeonLevel to /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel.DungeonLevel (0.089276s)
+[2022.03.25-03.02.14:637][588]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2022.03.25-03.02.14:639][588]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.03.25-03.02.14:639][588]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.25-03.02.14:639][588]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.25-03.02.14:639][588]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.25-03.02.14:639][588]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.25-03.02.14:639][588]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.25-03.02.14:639][588]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.25-03.02.14:639][588]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.25-03.02.14:639][588]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.25-03.02.14:639][588]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.25-03.02.14:639][588]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.25-03.02.14:639][588]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.25-03.02.14:639][588]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.25-03.02.14:642][588]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.25-03.02.14:642][588]LogAudioMixer: Display: 1: FrontRight
+[2022.03.25-03.02.14:648][588]LogAudioMixer: Display: Using Audio Device Speakers (USB Audio Device)
+[2022.03.25-03.02.14:648][588]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.25-03.02.14:648][588]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.25-03.02.14:648][588]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.25-03.02.14:649][588]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.25-03.02.14:649][588]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.25-03.02.14:649][588]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.25-03.02.14:649][588]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.25-03.02.14:649][588]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.25-03.02.14:649][588]LogInit: FAudioDevice initialized.
+[2022.03.25-03.02.14:649][588]LogAudio: Display: Audio Device (ID: 11) registered with world 'DungeonLevel'.
+[2022.03.25-03.02.14:656][588]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.25-03.02.14:692][588]LogWorld: Bringing World /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel.DungeonLevel up for play (max tick rate 0) at 2022.03.24-23.02.14
+[2022.03.25-03.02.14:695][588]LogWorld: Bringing up level for play took: 0.038578
+[2022.03.25-03.02.14:695][588]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.03.25-03.02.14:706][588]LogBlueprintUserMessages: [Player_C_0] Save1
+[2022.03.25-03.02.14:706][588]PIE: Server logged in
+[2022.03.25-03.02.14:706][588]PIE: Play in editor total start time 0.192 seconds.
+[2022.03.25-03.02.14:707][588]LogBlueprintUserMessages: [BP_checkpoint_2] Checkpoint
+[2022.03.25-03.02.20:914][313]LogBlueprintUserMessages: [Enemy1BP_2] EnemyHp: 283.0
+[2022.03.25-03.02.21:298][359]LogBlueprintUserMessages: [Enemy1BP_2] EnemyHp: 266.0
+[2022.03.25-03.02.21:980][441]LogBlueprintUserMessages: [Enemy1BP_2] EnemyHp: 249.0
+[2022.03.25-03.02.22:157][462]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 80.0
+[2022.03.25-03.02.24:442][736]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=-45.92 Y=598.24 Z=0.00 Location: X=2060.75 Y=1817.83 Z=98.13 Normal: X=-0.57 Y=0.82 Z=0.00 PenetrationDepth:6.699 Actor:Enemy1BP_2 Component:CharacterMesh0 BoneName:weapon_tail_r_02 (0 other events since notify)
+[2022.03.25-03.02.25:526][866]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=-106.78 Y=-560.62 Z=0.00 Location: X=2185.85 Y=1896.21 Z=98.15 Normal: X=0.95 Y=-0.30 Z=0.00 PenetrationDepth:9.196 Actor:Enemy1BP_2 Component:CharacterMesh0 BoneName:weapon_r (3 other events since notify)
+[2022.03.25-03.02.27:343][ 84]LogBlueprintUserMessages: [Enemy1BP_2] EnemyHp: 232.0
+[2022.03.25-03.02.27:441][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.25-03.02.27:441][ 93]LogWorld: BeginTearingDown for /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel
+[2022.03.25-03.02.27:442][ 93]LogWorld: UWorld::CleanupWorld for DungeonLevel, bSessionEnded=true, bCleanupResources=true
+[2022.03.25-03.02.27:450][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.25-03.02.27:464][ 93]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.25-03.02.27:498][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.25-03.02.27:529][ 93]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.25-03.02.27:529][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.25-03.02.27:530][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.25-03.02.27:532][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.25-03.02.27:539][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.03.25-03.02.27:582][ 94]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.03.25-03.02.30:844][318]LogEditorTransaction: Undo Break Pin Links
+[2022.03.25-03.02.31:179][321]LogEditorTransaction: Undo Break Pin Links
+[2022.03.25-03.02.31:722][340]LogEditorTransaction: Undo Create Pin Link
+[2022.03.25-03.02.32:200][356]LogEditorTransaction: Undo Create Pin Link
+[2022.03.25-03.02.32:687][374]LogEditorTransaction: Undo Move Node
+[2022.03.25-03.02.33:250][397]LogEditorTransaction: Undo Move Nodes
+[2022.03.25-03.05.12:920][724]BlueprintLog: New page: Compile Player
+[2022.03.25-03.05.13:011][724]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2022.03.25-03.05.13:494][741]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Evan/KeystoneImport/Player" FILE="C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Evan/KeystoneImport/Player.uasset" SILENT=true
+[2022.03.25-03.05.13:591][741]LogSavePackage: Moving 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Saved/Player8A04A7404AD17B60C673AB944A376FF5.tmp' to 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Evan/KeystoneImport/Player.uasset'
+[2022.03.25-03.05.13:604][741]AssetCheck: New page: Asset Save: Player
+[2022.03.25-03.05.13:604][741]LogContentValidation: Display: Validating Blueprint /Game/Evan/KeystoneImport/Player.Player
+[2022.03.25-03.06.07:492][ 31]BlueprintLog: New page: Compile Player
+[2022.03.25-03.06.07:582][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2022.03.25-03.06.08:260][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Evan/KeystoneImport/Player" FILE="C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Evan/KeystoneImport/Player.uasset" SILENT=true
+[2022.03.25-03.06.08:358][ 58]LogSavePackage: Moving 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Saved/Player9BB805A04D8060CB0CE1ECA78169A83E.tmp' to 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Evan/KeystoneImport/Player.uasset'
+[2022.03.25-03.06.08:371][ 58]AssetCheck: New page: Asset Save: Player
+[2022.03.25-03.06.08:371][ 58]LogContentValidation: Display: Validating Blueprint /Game/Evan/KeystoneImport/Player.Player
+[2022.03.25-03.07.24:988][984]BlueprintLog: New page: Compile Player
+[2022.03.25-03.07.25:077][984]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2022.03.25-03.07.25:608][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Evan/KeystoneImport/Player" FILE="C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Evan/KeystoneImport/Player.uasset" SILENT=true
+[2022.03.25-03.07.25:705][  3]LogSavePackage: Moving 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Saved/Player07211E03464FA9424E1981B8AFF6B20A.tmp' to 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Evan/KeystoneImport/Player.uasset'
+[2022.03.25-03.07.25:720][  3]AssetCheck: New page: Asset Save: Player
+[2022.03.25-03.07.25:720][  3]LogContentValidation: Display: Validating Blueprint /Game/Evan/KeystoneImport/Player.Player
+[2022.03.25-03.07.48:798][521]BlueprintLog: New page: Compile Player
+[2022.03.25-03.07.48:886][521]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2022.03.25-03.07.49:482][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Evan/KeystoneImport/Player" FILE="C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Evan/KeystoneImport/Player.uasset" SILENT=true
+[2022.03.25-03.07.49:580][544]LogSavePackage: Moving 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Saved/Player1DD4259142ED954AFFCC2A8500545FD1.tmp' to 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Evan/KeystoneImport/Player.uasset'
+[2022.03.25-03.07.49:593][544]AssetCheck: New page: Asset Save: Player
+[2022.03.25-03.07.49:593][544]LogContentValidation: Display: Validating Blueprint /Game/Evan/KeystoneImport/Player.Player
+[2022.03.25-03.10.40:316][714]BlueprintLog: New page: Compile Player
+[2022.03.25-03.10.40:405][714]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2022.03.25-03.10.40:911][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Evan/KeystoneImport/Player" FILE="C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Evan/KeystoneImport/Player.uasset" SILENT=true
+[2022.03.25-03.10.41:009][732]LogSavePackage: Moving 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Saved/PlayerEE3A77534D91A9D2807FFE8C8918A318.tmp' to 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Evan/KeystoneImport/Player.uasset'
+[2022.03.25-03.10.41:023][732]AssetCheck: New page: Asset Save: Player
+[2022.03.25-03.10.41:023][732]LogContentValidation: Display: Validating Blueprint /Game/Evan/KeystoneImport/Player.Player
+[2022.03.25-03.11.34:064][344]BlueprintLog: New page: Compile Enemy1BP
+[2022.03.25-03.11.34:196][344]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2022.03.25-03.11.34:550][363]LogSavePackage: Moving 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Saved/Enemy1BP06DF16074791D6D13B20A0B7DCB1D47C.tmp' to 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Humza/KhaimeraKeyStone/Ai/Enemy1BP.uasset'
+[2022.03.25-03.11.34:562][363]AssetCheck: New page: Asset Save: Enemy1BP
+[2022.03.25-03.11.34:562][363]LogContentValidation: Display: Validating Blueprint /Game/Humza/KhaimeraKeyStone/Ai/Enemy1BP.Enemy1BP
+[2022.03.25-03.11.41:968][872]BlueprintLog: New page: Compile Enemy1BP
+[2022.03.25-03.11.42:094][872]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2022.03.25-03.11.42:400][884]LogSavePackage: Moving 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Saved/Enemy1BP96895C4D41856FDCFADC2B9027A446DE.tmp' to 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Humza/KhaimeraKeyStone/Ai/Enemy1BP.uasset'
+[2022.03.25-03.11.42:414][884]AssetCheck: New page: Asset Save: Enemy1BP
+[2022.03.25-03.11.42:414][884]LogContentValidation: Display: Validating Blueprint /Game/Humza/KhaimeraKeyStone/Ai/Enemy1BP.Enemy1BP
+[2022.03.25-03.11.45:306][ 37]BlueprintLog: New page: Compile Player
+[2022.03.25-03.11.45:408][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2022.03.25-03.11.45:735][ 43]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Evan/KeystoneImport/Player" FILE="C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Evan/KeystoneImport/Player.uasset" SILENT=true
+[2022.03.25-03.11.45:832][ 43]LogSavePackage: Moving 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Saved/Player9BAB6EE344DA7FCABEC50C894338B1DF.tmp' to 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Evan/KeystoneImport/Player.uasset'
+[2022.03.25-03.11.45:845][ 43]AssetCheck: New page: Asset Save: Player
+[2022.03.25-03.11.45:845][ 43]LogContentValidation: Display: Validating Blueprint /Game/Evan/KeystoneImport/Player.Player
+[2022.03.25-03.11.47:124][136]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.25-03.11.47:130][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.25-03.11.47:130][136]PIE: New page: PIE session: DungeonLevel (Mar 24, 2022, 7:11:47 PM)
+[2022.03.25-03.11.47:161][136]LogPlayLevel: Creating play world package: /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel
+[2022.03.25-03.11.47:246][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.085833s)
+[2022.03.25-03.11.47:246][136]LogAIModule: Creating AISystem for world DungeonLevel
+[2022.03.25-03.11.47:247][136]LogPlayLevel: PIE: World Init took: (0.000976s)
+[2022.03.25-03.11.47:247][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MedievalDungeon/Maps/DungeonLevel.DungeonLevel to /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel.DungeonLevel (0.087008s)
+[2022.03.25-03.11.47:281][136]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2022.03.25-03.11.47:283][136]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.03.25-03.11.47:283][136]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.25-03.11.47:283][136]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.25-03.11.47:283][136]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.25-03.11.47:283][136]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.25-03.11.47:283][136]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.25-03.11.47:283][136]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.25-03.11.47:283][136]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.25-03.11.47:283][136]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.25-03.11.47:283][136]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.25-03.11.47:283][136]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.25-03.11.47:283][136]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.25-03.11.47:283][136]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.25-03.11.47:286][136]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.25-03.11.47:286][136]LogAudioMixer: Display: 1: FrontRight
+[2022.03.25-03.11.47:293][136]LogAudioMixer: Display: Using Audio Device Speakers (USB Audio Device)
+[2022.03.25-03.11.47:293][136]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.25-03.11.47:293][136]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.25-03.11.47:293][136]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.25-03.11.47:293][136]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.25-03.11.47:293][136]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.25-03.11.47:293][136]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.25-03.11.47:294][136]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.25-03.11.47:294][136]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.25-03.11.47:294][136]LogInit: FAudioDevice initialized.
+[2022.03.25-03.11.47:294][136]LogAudio: Display: Audio Device (ID: 12) registered with world 'DungeonLevel'.
+[2022.03.25-03.11.47:300][136]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.25-03.11.47:337][136]LogWorld: Bringing World /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel.DungeonLevel up for play (max tick rate 0) at 2022.03.24-23.11.47
+[2022.03.25-03.11.47:339][136]LogWorld: Bringing up level for play took: 0.038527
+[2022.03.25-03.11.47:340][136]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.03.25-03.11.47:351][136]LogBlueprintUserMessages: [Player_C_0] Save1
+[2022.03.25-03.11.47:351][136]PIE: Server logged in
+[2022.03.25-03.11.47:351][136]PIE: Play in editor total start time 0.223 seconds.
+[2022.03.25-03.11.47:352][136]LogBlueprintUserMessages: [BP_checkpoint_2] Checkpoint
+[2022.03.25-03.11.52:327][704]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 80.0
+[2022.03.25-03.11.52:827][764]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 60.0
+[2022.03.25-03.11.54:191][925]LogCharacterMovement: Player_C_0 is stuck and failed to move! Velocity: X=-105.12 Y=202.26 Z=0.00 Location: X=1359.94 Y=1673.16 Z=98.15 Normal: X=-0.83 Y=-0.56 Z=0.00 PenetrationDepth:8.426 Actor:Enemy1BP_2 Component:CharacterMesh0 BoneName:weapon_l (0 other events since notify)
+[2022.03.25-03.11.54:233][930]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 40.0
+[2022.03.25-03.11.55:391][ 69]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 20.0
+[2022.03.25-03.11.56:900][250]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 0.0
+[2022.03.25-03.11.56:900][250]LogBlueprintUserMessages: [Player_C_0] DEAD
+[2022.03.25-03.11.57:773][337]LogBlueprintUserMessages: [Player_C_0] PlayerHp: -20.0
+[2022.03.25-03.11.57:773][337]LogBlueprintUserMessages: [Player_C_0] DEAD
+[2022.03.25-03.11.59:289][518]LogBlueprintUserMessages: [Player_C_0] PlayerHp: -40.0
+[2022.03.25-03.11.59:289][518]LogBlueprintUserMessages: [Player_C_0] DEAD
+[2022.03.25-03.12.00:541][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.25-03.12.00:541][665]LogWorld: BeginTearingDown for /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel
+[2022.03.25-03.12.00:542][665]LogWorld: UWorld::CleanupWorld for DungeonLevel, bSessionEnded=true, bCleanupResources=true
+[2022.03.25-03.12.00:550][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.25-03.12.00:558][665]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.25-03.12.00:592][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.25-03.12.00:625][665]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.25-03.12.00:625][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.25-03.12.00:626][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.25-03.12.00:628][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.25-03.12.00:643][665]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.03.25-03.12.00:690][666]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.03.25-03.12.17:693][899]LogSlate: Window 'Edit Profile' being destroyed
+[2022.03.25-03.12.18:677][968]LogSlate: Window 'Project Settings' being destroyed
+[2022.03.25-03.12.18:680][968]LogSlate: Window 'Project Settings' being destroyed
+[2022.03.25-03.12.21:198][144]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.03.25-03.12.21:584][144]LogSavePackage: Moving 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Saved/DungeonLevel942227994C80CC14FC78E6861FBC87C2.tmp' to 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/MedievalDungeon/Maps/DungeonLevel.umap'
+[2022.03.25-03.12.21:605][144]AssetCheck: New page: Asset Save: DungeonLevel
+[2022.03.25-03.12.21:605][144]LogContentValidation: Display: Validating World /Game/MedievalDungeon/Maps/DungeonLevel.DungeonLevel
+[2022.03.25-03.12.26:624][464]BlueprintLog: New page: Compile Enemy1BP
+[2022.03.25-03.12.26:749][464]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2022.03.25-03.12.27:117][483]LogSavePackage: Moving 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Saved/Enemy1BPDE2C8CF8460CF1C4FE4913A32EC5148E.tmp' to 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Humza/KhaimeraKeyStone/Ai/Enemy1BP.uasset'
+[2022.03.25-03.12.27:129][483]AssetCheck: New page: Asset Save: Enemy1BP
+[2022.03.25-03.12.27:129][483]LogContentValidation: Display: Validating Blueprint /Game/Humza/KhaimeraKeyStone/Ai/Enemy1BP.Enemy1BP
+[2022.03.25-03.12.32:222][942]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Humza/SkeletonArmor/ArmoredSkeletonEnemy.ArmoredSkeletonEnemy
+[2022.03.25-03.13.35:938][555]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.25-03.13.35:944][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.25-03.13.35:944][555]PIE: New page: PIE session: DungeonLevel (Mar 24, 2022, 7:13:35 PM)
+[2022.03.25-03.13.35:990][555]LogPlayLevel: Creating play world package: /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel
+[2022.03.25-03.13.36:105][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.114048s)
+[2022.03.25-03.13.36:105][555]LogAIModule: Creating AISystem for world DungeonLevel
+[2022.03.25-03.13.36:106][555]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2022.03.25-03.13.36:106][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MedievalDungeon/Maps/DungeonLevel.DungeonLevel to /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel.DungeonLevel (0.115370s)
+[2022.03.25-03.13.36:145][555]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2022.03.25-03.13.36:148][555]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.03.25-03.13.36:148][555]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.25-03.13.36:148][555]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.25-03.13.36:148][555]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.25-03.13.36:148][555]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.25-03.13.36:148][555]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.25-03.13.36:148][555]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.25-03.13.36:148][555]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.25-03.13.36:148][555]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.25-03.13.36:148][555]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.25-03.13.36:148][555]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.25-03.13.36:148][555]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.25-03.13.36:148][555]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.25-03.13.36:151][555]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.25-03.13.36:151][555]LogAudioMixer: Display: 1: FrontRight
+[2022.03.25-03.13.36:156][555]LogAudioMixer: Display: Using Audio Device Speakers (USB Audio Device)
+[2022.03.25-03.13.36:156][555]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.25-03.13.36:156][555]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.25-03.13.36:156][555]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.25-03.13.36:156][555]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.25-03.13.36:156][555]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.25-03.13.36:157][555]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.25-03.13.36:157][555]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.25-03.13.36:157][555]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.25-03.13.36:157][555]LogInit: FAudioDevice initialized.
+[2022.03.25-03.13.36:157][555]LogAudio: Display: Audio Device (ID: 13) registered with world 'DungeonLevel'.
+[2022.03.25-03.13.36:166][555]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.25-03.13.36:201][555]LogWorld: Bringing World /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel.DungeonLevel up for play (max tick rate 0) at 2022.03.24-23.13.36
+[2022.03.25-03.13.36:203][555]LogWorld: Bringing up level for play took: 0.037227
+[2022.03.25-03.13.36:203][555]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.03.25-03.13.36:214][555]LogBlueprintUserMessages: [Player_C_0] Save1
+[2022.03.25-03.13.36:214][555]PIE: Server logged in
+[2022.03.25-03.13.36:215][555]PIE: Play in editor total start time 0.272 seconds.
+[2022.03.25-03.13.36:215][555]LogBlueprintUserMessages: [BP_checkpoint_2] Checkpoint
+[2022.03.25-03.13.42:387][278]LogBlueprintUserMessages: [Enemy1BP_2] EnemyHp: 283.0
+[2022.03.25-03.13.42:770][324]LogBlueprintUserMessages: [Enemy1BP_2] EnemyHp: 266.0
+[2022.03.25-03.13.43:454][406]LogBlueprintUserMessages: [Enemy1BP_2] EnemyHp: 249.0
+[2022.03.25-03.13.43:787][446]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 80.0
+[2022.03.25-03.13.44:296][507]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 60.0
+[2022.03.25-03.13.45:738][680]LogBlueprintUserMessages: [Enemy1BP_2] EnemyHp: 232.0
+[2022.03.25-03.13.46:121][726]LogBlueprintUserMessages: [Enemy1BP_2] EnemyHp: 215.0
+[2022.03.25-03.13.46:446][765]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 40.0
+[2022.03.25-03.13.47:955][946]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 20.0
+[2022.03.25-03.13.49:421][122]LogBlueprintUserMessages: [Player_C_0] PlayerHp: 0.0
+[2022.03.25-03.13.49:421][122]LogBlueprintUserMessages: [Player_C_0] DEAD
+[2022.03.25-03.13.49:921][182]LogBlueprintUserMessages: [Player_C_0] PlayerHp: -20.0
+[2022.03.25-03.13.49:921][182]LogBlueprintUserMessages: [Player_C_0] DEAD
+[2022.03.25-03.13.50:326][230]LogBlueprintUserMessages: [Player_C_0] PlayerHp: -40.0
+[2022.03.25-03.13.50:327][230]LogBlueprintUserMessages: [Player_C_0] DEAD
+[2022.03.25-03.13.54:891][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.25-03.13.54:891][773]LogWorld: BeginTearingDown for /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel
+[2022.03.25-03.13.54:892][773]LogWorld: UWorld::CleanupWorld for DungeonLevel, bSessionEnded=true, bCleanupResources=true
+[2022.03.25-03.13.54:901][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.25-03.13.54:913][773]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.25-03.13.54:947][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.25-03.13.54:977][773]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.25-03.13.54:982][773]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.25-03.13.54:983][773]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.25-03.13.54:984][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.25-03.13.54:998][773]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2022.03.25-03.13.55:040][774]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.03.25-03.14.05:608][690]BlueprintLog: New page: Compile Enemy1BP
+[2022.03.25-03.14.05:728][690]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2022.03.25-03.14.06:036][704]LogSavePackage: Moving 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Saved/Enemy1BP54AE614C40272CCA00965B90059F0941.tmp' to 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Humza/KhaimeraKeyStone/Ai/Enemy1BP.uasset'
+[2022.03.25-03.14.06:049][704]AssetCheck: New page: Asset Save: Enemy1BP
+[2022.03.25-03.14.06:049][704]LogContentValidation: Display: Validating Blueprint /Game/Humza/KhaimeraKeyStone/Ai/Enemy1BP.Enemy1BP
+[2022.03.25-03.14.07:542][824]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.25-03.14.07:548][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.25-03.14.07:548][824]PIE: New page: PIE session: DungeonLevel (Mar 24, 2022, 7:14:07 PM)
+[2022.03.25-03.14.07:580][824]LogPlayLevel: Creating play world package: /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel
+[2022.03.25-03.14.07:692][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.111103s)
+[2022.03.25-03.14.07:692][824]LogAIModule: Creating AISystem for world DungeonLevel
+[2022.03.25-03.14.07:693][824]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2022.03.25-03.14.07:693][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MedievalDungeon/Maps/DungeonLevel.DungeonLevel to /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel.DungeonLevel (0.112316s)
+[2022.03.25-03.14.07:729][824]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2022.03.25-03.14.07:731][824]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.03.25-03.14.07:731][824]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.25-03.14.07:731][824]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.25-03.14.07:731][824]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.25-03.14.07:731][824]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.25-03.14.07:731][824]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.25-03.14.07:731][824]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.25-03.14.07:731][824]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.25-03.14.07:731][824]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.25-03.14.07:731][824]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.25-03.14.07:731][824]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.25-03.14.07:731][824]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.25-03.14.07:731][824]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.25-03.14.07:733][824]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.25-03.14.07:733][824]LogAudioMixer: Display: 1: FrontRight
+[2022.03.25-03.14.07:740][824]LogAudioMixer: Display: Using Audio Device Speakers (USB Audio Device)
+[2022.03.25-03.14.07:740][824]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.25-03.14.07:740][824]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.25-03.14.07:740][824]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.25-03.14.07:741][824]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.25-03.14.07:741][824]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.25-03.14.07:741][824]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.25-03.14.07:741][824]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.25-03.14.07:741][824]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.25-03.14.07:742][824]LogInit: FAudioDevice initialized.
+[2022.03.25-03.14.07:742][824]LogAudio: Display: Audio Device (ID: 14) registered with world 'DungeonLevel'.
+[2022.03.25-03.14.07:748][824]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.25-03.14.07:783][824]LogWorld: Bringing World /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel.DungeonLevel up for play (max tick rate 0) at 2022.03.24-23.14.07
+[2022.03.25-03.14.07:785][824]LogWorld: Bringing up level for play took: 0.037368
+[2022.03.25-03.14.07:785][824]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.03.25-03.14.07:796][824]LogBlueprintUserMessages: [Player_C_0] Save1
+[2022.03.25-03.14.07:796][824]PIE: Server logged in
+[2022.03.25-03.14.07:796][824]PIE: Play in editor total start time 0.249 seconds.
+[2022.03.25-03.14.07:797][824]LogBlueprintUserMessages: [BP_checkpoint_2] Checkpoint
+[2022.03.25-03.14.13:414][481]LogBlueprintUserMessages: [Enemy1BP_2] EnemyHp: -7.0
+[2022.03.25-03.14.13:414][481]LogBlueprintUserMessages: [Enemy1BP_2] DEAD
+[2022.03.25-03.14.14:363][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.25-03.14.14:364][591]LogWorld: BeginTearingDown for /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel
+[2022.03.25-03.14.14:367][591]LogWorld: UWorld::CleanupWorld for DungeonLevel, bSessionEnded=true, bCleanupResources=true
+[2022.03.25-03.14.14:379][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.25-03.14.14:391][591]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.25-03.14.14:426][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.25-03.14.14:460][591]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.25-03.14.14:460][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.25-03.14.14:461][591]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.25-03.14.14:463][591]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.25-03.14.14:471][591]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.03.25-03.14.14:523][592]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.03.25-03.14.38:216][875]BlueprintLog: New page: Compile Enemy1BP
+[2022.03.25-03.14.38:334][875]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2022.03.25-03.14.38:900][897]LogSavePackage: Moving 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Saved/Enemy1BP513F7D154541402C091373BDF8E84DB4.tmp' to 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Humza/KhaimeraKeyStone/Ai/Enemy1BP.uasset'
+[2022.03.25-03.14.38:911][897]AssetCheck: New page: Asset Save: Enemy1BP
+[2022.03.25-03.14.38:912][897]LogContentValidation: Display: Validating Blueprint /Game/Humza/KhaimeraKeyStone/Ai/Enemy1BP.Enemy1BP
+[2022.03.25-03.14.40:515][  2]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.25-03.14.40:521][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.25-03.14.40:521][  2]PIE: New page: PIE session: DungeonLevel (Mar 24, 2022, 7:14:40 PM)
+[2022.03.25-03.14.40:521][  2]LogPlayLevel: Creating play world package: /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel
+[2022.03.25-03.14.40:608][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086631s)
+[2022.03.25-03.14.40:609][  2]LogAIModule: Creating AISystem for world DungeonLevel
+[2022.03.25-03.14.40:609][  2]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2022.03.25-03.14.40:609][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MedievalDungeon/Maps/DungeonLevel.DungeonLevel to /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel.DungeonLevel (0.087714s)
+[2022.03.25-03.14.40:645][  2]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2022.03.25-03.14.40:647][  2]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.03.25-03.14.40:647][  2]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.25-03.14.40:647][  2]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.25-03.14.40:647][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.25-03.14.40:647][  2]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.25-03.14.40:647][  2]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.25-03.14.40:647][  2]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.25-03.14.40:647][  2]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.25-03.14.40:647][  2]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.25-03.14.40:648][  2]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.25-03.14.40:648][  2]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.25-03.14.40:648][  2]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.25-03.14.40:648][  2]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.25-03.14.40:650][  2]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.25-03.14.40:650][  2]LogAudioMixer: Display: 1: FrontRight
+[2022.03.25-03.14.40:656][  2]LogAudioMixer: Display: Using Audio Device Speakers (USB Audio Device)
+[2022.03.25-03.14.40:656][  2]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.25-03.14.40:656][  2]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.25-03.14.40:656][  2]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.25-03.14.40:656][  2]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.25-03.14.40:656][  2]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.25-03.14.40:656][  2]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.25-03.14.40:657][  2]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.25-03.14.40:657][  2]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.25-03.14.40:657][  2]LogInit: FAudioDevice initialized.
+[2022.03.25-03.14.40:657][  2]LogAudio: Display: Audio Device (ID: 15) registered with world 'DungeonLevel'.
+[2022.03.25-03.14.40:666][  2]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.25-03.14.40:702][  2]LogWorld: Bringing World /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel.DungeonLevel up for play (max tick rate 0) at 2022.03.24-23.14.40
+[2022.03.25-03.14.40:704][  2]LogWorld: Bringing up level for play took: 0.037230
+[2022.03.25-03.14.40:705][  2]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2022.03.25-03.14.40:716][  2]LogBlueprintUserMessages: [Player_C_0] Save1
+[2022.03.25-03.14.40:716][  2]PIE: Server logged in
+[2022.03.25-03.14.40:716][  2]PIE: Play in editor total start time 0.196 seconds.
+[2022.03.25-03.14.40:717][  2]LogBlueprintUserMessages: [BP_checkpoint_2] Checkpoint
+[2022.03.25-03.14.45:617][578]LogBlueprintUserMessages: [Enemy1BP_2] EnemyHp: -7.0
+[2022.03.25-03.14.45:617][578]LogBlueprintUserMessages: [Enemy1BP_2] DEAD
+[2022.03.25-03.14.52:524][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.25-03.14.52:524][394]LogWorld: BeginTearingDown for /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel
+[2022.03.25-03.14.52:527][394]LogWorld: UWorld::CleanupWorld for DungeonLevel, bSessionEnded=true, bCleanupResources=true
+[2022.03.25-03.14.52:539][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.25-03.14.52:556][394]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.25-03.14.52:590][394]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.25-03.14.52:625][394]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.25-03.14.52:626][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.25-03.14.52:627][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.25-03.14.52:628][394]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.25-03.14.52:636][394]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.03.25-03.14.52:679][395]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.03.25-03.14.55:884][613]BlueprintLog: New page: Compile Enemy1BP
+[2022.03.25-03.14.56:000][613]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2022.03.25-03.14.56:589][643]LogSavePackage: Moving 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Saved/Enemy1BP392D6BA84C792013D5B7F496297383CC.tmp' to 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Humza/KhaimeraKeyStone/Ai/Enemy1BP.uasset'
+[2022.03.25-03.14.56:600][643]AssetCheck: New page: Asset Save: Enemy1BP
+[2022.03.25-03.14.56:600][643]LogContentValidation: Display: Validating Blueprint /Game/Humza/KhaimeraKeyStone/Ai/Enemy1BP.Enemy1BP
+[2022.03.25-03.15.05:883][312]BlueprintLog: New page: Compile Enemy1BP
+[2022.03.25-03.15.06:002][312]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2022.03.25-03.15.06:859][363]LogSavePackage: Moving 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Saved/Enemy1BP2E07ADE44E54577D5EEC468A15E83EC5.tmp' to 'C:/Users/humza/OneDrive/Desktop/GitHubUnreal/GitHub/docs/Project/KeyStone/Content/Humza/KhaimeraKeyStone/Ai/Enemy1BP.uasset'
+[2022.03.25-03.15.06:871][363]AssetCheck: New page: Asset Save: Enemy1BP
+[2022.03.25-03.15.06:871][363]LogContentValidation: Display: Validating Blueprint /Game/Humza/KhaimeraKeyStone/Ai/Enemy1BP.Enemy1BP
+[2022.03.25-03.15.08:743][504]LogTemp: Repeating last play command: Selected Viewport
+[2022.03.25-03.15.08:748][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.03.25-03.15.08:748][504]PIE: New page: PIE session: DungeonLevel (Mar 24, 2022, 7:15:08 PM)
+[2022.03.25-03.15.08:791][504]LogPlayLevel: Creating play world package: /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel
+[2022.03.25-03.15.08:904][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.113758s)
+[2022.03.25-03.15.08:905][504]LogAIModule: Creating AISystem for world DungeonLevel
+[2022.03.25-03.15.08:905][504]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2022.03.25-03.15.08:905][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MedievalDungeon/Maps/DungeonLevel.DungeonLevel to /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel.DungeonLevel (0.115014s)
+[2022.03.25-03.15.08:942][504]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2022.03.25-03.15.08:944][504]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.03.25-03.15.08:944][504]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.25-03.15.08:944][504]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.25-03.15.08:944][504]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.25-03.15.08:944][504]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.25-03.15.08:944][504]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.25-03.15.08:944][504]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.25-03.15.08:944][504]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.25-03.15.08:944][504]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.25-03.15.08:944][504]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.25-03.15.08:944][504]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.25-03.15.08:944][504]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.25-03.15.08:944][504]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.25-03.15.08:947][504]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.25-03.15.08:947][504]LogAudioMixer: Display: 1: FrontRight
+[2022.03.25-03.15.08:953][504]LogAudioMixer: Display: Using Audio Device Speakers (USB Audio Device)
+[2022.03.25-03.15.08:953][504]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.25-03.15.08:953][504]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.25-03.15.08:953][504]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.25-03.15.08:953][504]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.25-03.15.08:953][504]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.25-03.15.08:953][504]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.25-03.15.08:954][504]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.25-03.15.08:954][504]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.25-03.15.08:954][504]LogInit: FAudioDevice initialized.
+[2022.03.25-03.15.08:954][504]LogAudio: Display: Audio Device (ID: 16) registered with world 'DungeonLevel'.
+[2022.03.25-03.15.08:964][504]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.03.25-03.15.09:001][504]LogWorld: Bringing World /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel.DungeonLevel up for play (max tick rate 0) at 2022.03.24-23.15.09
+[2022.03.25-03.15.09:003][504]LogWorld: Bringing up level for play took: 0.038747
+[2022.03.25-03.15.09:004][504]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.03.25-03.15.09:015][504]LogBlueprintUserMessages: [Player_C_0] Save1
+[2022.03.25-03.15.09:015][504]PIE: Server logged in
+[2022.03.25-03.15.09:015][504]PIE: Play in editor total start time 0.268 seconds.
+[2022.03.25-03.15.09:016][504]LogBlueprintUserMessages: [BP_checkpoint_2] Checkpoint
+[2022.03.25-03.15.10:211][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.25-03.15.10:211][628]LogWorld: BeginTearingDown for /Game/MedievalDungeon/Maps/UEDPIE_0_DungeonLevel
+[2022.03.25-03.15.10:212][628]LogWorld: UWorld::CleanupWorld for DungeonLevel, bSessionEnded=true, bCleanupResources=true
+[2022.03.25-03.15.10:220][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.25-03.15.10:228][628]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.03.25-03.15.10:263][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.25-03.15.10:297][628]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.25-03.15.10:297][628]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.25-03.15.10:298][628]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.25-03.15.10:300][628]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.25-03.15.10:316][628]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.03.25-03.15.10:361][629]LogPlayLevel: Display: Destroying online subsystem :Context_30

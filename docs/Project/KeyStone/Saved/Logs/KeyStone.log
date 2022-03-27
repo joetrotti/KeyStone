@@ -1,5 +1,9 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿Log file open, 03/26/22 13:59:40
+=======
+﻿Log file open, 03/27/22 18:21:56
+>>>>>>> Stashed changes
 =======
 ﻿Log file open, 03/27/22 18:21:56
 >>>>>>> Stashed changes
@@ -15,7 +19,11 @@ LogInit: Display: Running engine for game: KeyStone
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogStats: Stats thread started at 0.298820
+=======
+LogStats: Stats thread started at 0.475293
+>>>>>>> Stashed changes
 =======
 LogStats: Stats thread started at 0.475293
 >>>>>>> Stashed changes
@@ -26,7 +34,10 @@ LogPluginManager: Mounting plugin MegascansPlugin
 LogPluginManager: Mounting plugin XGEController
 LogPluginManager: Mounting plugin Paper2D
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin AISupport
@@ -34,10 +45,13 @@ LogPluginManager: Mounting plugin EnvironmentQueryEditor
 LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin LiveLink
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin OodleData
 LogPluginManager: Mounting plugin GameplayCameras
 LogPluginManager: Mounting plugin CameraShakePreviewer
 =======
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin GameplayCameras
 LogPluginManager: Mounting plugin CameraShakePreviewer
 LogPluginManager: Mounting plugin OodleData
@@ -45,6 +59,9 @@ LogPluginManager: Mounting plugin OodleNetwork
 LogPluginManager: Mounting plugin AssetManagerEditor
 LogPluginManager: Mounting plugin DatasmithContent
 LogPluginManager: Mounting plugin Niagara
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin AnimationSharing
 LogPluginManager: Mounting plugin CLionSourceCodeAccess
@@ -53,12 +70,18 @@ LogPluginManager: Mounting plugin GitSourceControl
 LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
 LogPluginManager: Mounting plugin NullSourceCodeAccess
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin GitSourceControl
 LogPluginManager: Mounting plugin PerforceSourceControl
+=======
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin PixWinPlugin
 LogPluginManager: Mounting plugin PlasticSourceControl
 LogPluginManager: Mounting plugin PropertyAccessNode
 LogPluginManager: Mounting plugin PluginUtils
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin RiderSourceCodeAccess
 LogPluginManager: Mounting plugin SubversionSourceControl
 =======
@@ -66,6 +89,8 @@ LogPluginManager: Mounting plugin PerforceSourceControl
 LogPluginManager: Mounting plugin PlasticSourceControl
 LogPluginManager: Mounting plugin PixWinPlugin
 LogPluginManager: Mounting plugin PluginUtils
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin PropertyAccessNode
 LogPluginManager: Mounting plugin SubversionSourceControl
 LogPluginManager: Mounting plugin RiderSourceCodeAccess
@@ -75,6 +100,7 @@ LogPluginManager: Mounting plugin UObjectPlugin
 LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
 LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
 LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting plugin OodleNetwork
 LogPluginManager: Mounting plugin AssetManagerEditor
@@ -89,6 +115,8 @@ LogPluginManager: Mounting plugin MaterialAnalyzer
 LogPluginManager: Mounting plugin PluginBrowser
 LogPluginManager: Mounting plugin MobileLauncherProfileWizard
 =======
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin CryptoKeys
 LogPluginManager: Mounting plugin CurveEditorTools
 LogPluginManager: Mounting plugin DataValidation
@@ -100,6 +128,9 @@ LogPluginManager: Mounting plugin MaterialAnalyzer
 LogPluginManager: Mounting plugin MacGraphicsSwitching
 LogPluginManager: Mounting plugin MobileLauncherProfileWizard
 LogPluginManager: Mounting plugin PluginBrowser
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin SpeedTreeImporter
 LogPluginManager: Mounting plugin AlembicImporter
@@ -108,6 +139,10 @@ LogPluginManager: Mounting plugin BackChannel
 LogPluginManager: Mounting plugin ChaosCloth
 LogPluginManager: Mounting plugin ChaosEditor
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+LogPluginManager: Mounting plugin ChaosClothEditor
+>>>>>>> Stashed changes
 =======
 LogPluginManager: Mounting plugin ChaosClothEditor
 >>>>>>> Stashed changes
@@ -121,7 +156,10 @@ LogPluginManager: Mounting plugin MotoSynth
 LogPluginManager: Mounting plugin OpenImageDenoise
 LogPluginManager: Mounting plugin ProxyLODPlugin
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin PlatformCrypto
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin PythonScriptPlugin
@@ -132,7 +170,10 @@ LogPluginManager: Mounting plugin MagicLeap
 LogPluginManager: Mounting plugin MagicLeapLightEstimation
 LogPluginManager: Mounting plugin MagicLeapMedia
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin MagicLeapLightEstimation
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin MagicLeapPassableWorld
@@ -142,6 +183,7 @@ LogPluginManager: Mounting plugin AvfMedia
 LogPluginManager: Mounting plugin ImgMedia
 LogPluginManager: Mounting plugin MediaCompositing
 LogPluginManager: Mounting plugin MediaPlayerEditor
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin WmfMedia
@@ -159,6 +201,22 @@ LogPluginManager: Mounting plugin OnlineSubsystemUtils
 LogPluginManager: Mounting plugin ActorLayerUtilities
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin AndroidMoviePlayer
+=======
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+>>>>>>> Stashed changes
 =======
 LogPluginManager: Mounting plugin WmfMedia
 LogPluginManager: Mounting plugin WebMMedia
@@ -186,6 +244,7 @@ LogPluginManager: Mounting plugin CableComponent
 LogPluginManager: Mounting plugin AudioSynesthesia
 LogPluginManager: Mounting plugin CustomMeshComponent
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin ChunkDownloader
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting plugin GoogleCloudMessaging
@@ -194,6 +253,12 @@ LogPluginManager: Mounting plugin GooglePAD
 LogPluginManager: Mounting plugin Niagara
 LogPluginManager: Mounting plugin EditableMesh
 LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+=======
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+>>>>>>> Stashed changes
 =======
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting plugin EditableMesh
@@ -218,8 +283,14 @@ LogPluginManager: Mounting plugin Synthesis
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin Takes
+=======
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin VariantManagerContent
+>>>>>>> Stashed changes
 =======
 LogPluginManager: Mounting plugin Takes
 LogPluginManager: Mounting plugin ScreenshotTools
@@ -235,6 +306,9 @@ LogPluginManager: Mounting plugin OnlineSubsystemIOS
 LogPluginManager: Mounting plugin DatabaseSupport
 LogPluginManager: Mounting plugin SQLiteSupport
 LogPluginManager: Mounting plugin SQLiteCore
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 LogPluginManager: Mounting plugin OculusVR
 LogPluginManager: Mounting plugin SteamVR
@@ -272,9 +346,12 @@ LogInit: Compiled with Visual C++: 19.24.28315.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.27
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 LogInit: Command Line:  -EpicPortal -epicusername=brandeld1 -epicuserid=23757ffe3e5f4a1e84998d9d226cc927 -epiclocale=en -epicsandboxid=ue
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
 =======
+=======
+>>>>>>> Stashed changes
 LogInit: Command Line:  -EpicPortal -epicusername=TFest1 -epicuserid=eb7525012e224394b82c3fea196192a7 -epiclocale=en -epicsandboxid=ue
 LogInit: Base Directory: D:/Epic Games/UE_4.27/Engine/Binaries/Win64/
 >>>>>>> Stashed changes
@@ -329,6 +406,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2022.03.26-17.59.41:141][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2022.03.26-17.59.41:141][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -1538,6 +1616,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.26-18.00.38:688][790]LogExit: Exiting.
 [2022.03.26-18.00.38:697][790]Log file closed, 03/26/22 14:00:38
 =======
+=======
+>>>>>>> Stashed changes
 [2022.03.27-22.22.03:426][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2022.03.27-22.22.03:426][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2022.03.27-22.22.03:426][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/KeyStone/docs/Project/KeyStone/Saved/Config/Windows/Engine.ini]
@@ -7830,4 +7910,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.03.27-23.31.58:847][664]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
 [2022.03.27-23.31.59:061][664]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
 [2022.03.27-23.31.59:086][664]LogModuleManager: Shutting down and abandoning module Renderer (18)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

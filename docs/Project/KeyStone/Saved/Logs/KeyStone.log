@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 ﻿Log file open, 05/03/22 00:02:10
+=======
+﻿Log file open, 04/21/22 00:27:22
+>>>>>>> Stashed changes
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -10,19 +14,30 @@ LogConsoleResponse: Display: Failed to find resolution value strings in scalabil
 LogInit: Display: Running engine for game: KeyStone
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+<<<<<<< Updated upstream
 LogStats: Stats thread started at 0.202115
+=======
+LogStats: Stats thread started at 0.206038
+>>>>>>> Stashed changes
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
 LogInit: Display: Loading text-based GConfig....
 LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
 LogPluginManager: Mounting plugin Paper2D
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin AISupport
 LogPluginManager: Mounting plugin LiveLink
 LogPluginManager: Mounting plugin LightPropagationVolume
+=======
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin CameraShakePreviewer
-LogPluginManager: Mounting plugin GameplayCameras
 LogPluginManager: Mounting plugin OodleData
 LogPluginManager: Mounting plugin OodleNetwork
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin AssetManagerEditor
 LogPluginManager: Mounting plugin CryptoKeys
 LogPluginManager: Mounting plugin EnvironmentQueryEditor
@@ -31,13 +46,56 @@ LogPluginManager: Mounting plugin GameplayTagsEditor
 LogPluginManager: Mounting plugin FacialAnimation
 LogPluginManager: Mounting plugin GeometryMode
 LogPluginManager: Mounting plugin DataValidation
+=======
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin CryptoKeys
 LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin MacGraphicsSwitching
 LogPluginManager: Mounting plugin PluginBrowser
 LogPluginManager: Mounting plugin SpeedTreeImporter
 LogPluginManager: Mounting plugin VariantManagerContent
 LogPluginManager: Mounting plugin DatasmithContent
+=======
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin MLSDK
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin AutomationUtils
 LogPluginManager: Mounting plugin BackChannel
 LogPluginManager: Mounting plugin AlembicImporter
@@ -47,6 +105,7 @@ LogPluginManager: Mounting plugin Niagara
 LogPluginManager: Mounting plugin ChaosNiagara
 LogPluginManager: Mounting plugin ChaosSolverPlugin
 LogPluginManager: Mounting plugin CharacterAI
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin ChaosCloth
 LogPluginManager: Mounting plugin GeometryCache
 LogPluginManager: Mounting plugin GeometryCollectionPlugin
@@ -58,13 +117,18 @@ LogPluginManager: Mounting plugin ProxyLODPlugin
 LogPluginManager: Mounting plugin PythonScriptPlugin
 LogPluginManager: Mounting plugin MotoSynth
 LogPluginManager: Mounting plugin SkeletalReduction
+=======
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin AndroidMedia
-LogPluginManager: Mounting plugin AvfMedia
 LogPluginManager: Mounting plugin ImgMedia
 LogPluginManager: Mounting plugin MediaCompositing
 LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin AvfMedia
 LogPluginManager: Mounting plugin WebMMedia
 LogPluginManager: Mounting plugin WmfMedia
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin UdpMessaging
 LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin AnimationSharing
@@ -78,12 +142,37 @@ LogPluginManager: Mounting plugin MagicLeapLightEstimation
 LogPluginManager: Mounting plugin MagicLeapMedia
 LogPluginManager: Mounting plugin MagicLeapPassableWorld
 LogPluginManager: Mounting plugin MLSDK
+=======
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin ActorLayerUtilities
 LogPluginManager: Mounting plugin AndroidMoviePlayer
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting plugin AndroidPermission
 LogPluginManager: Mounting plugin AppleMoviePlayer
 LogPluginManager: Mounting plugin AppleImageUtils
+<<<<<<< Updated upstream
+=======
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin AudioCapture
 LogPluginManager: Mounting plugin AssetTags
 LogPluginManager: Mounting plugin ArchVisCharacter
@@ -98,12 +187,16 @@ LogPluginManager: Mounting plugin CableComponent
 LogPluginManager: Mounting plugin ChunkDownloader
 LogPluginManager: Mounting plugin PixWinPlugin
 LogPluginManager: Mounting plugin CustomMeshComponent
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin PlasticSourceControl
 LogPluginManager: Mounting plugin PluginUtils
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin EditableMesh
 LogPluginManager: Mounting plugin PropertyAccessNode
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting plugin GoogleCloudMessaging
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin GooglePAD
 LogPluginManager: Mounting plugin RiderSourceCodeAccess
 LogPluginManager: Mounting plugin SubversionSourceControl
@@ -111,6 +204,8 @@ LogPluginManager: Mounting plugin TextureFormatOodle
 LogPluginManager: Mounting plugin UObjectPlugin
 LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
 LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+=======
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin IOSDeviceProfileSelector
 LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
@@ -131,10 +226,15 @@ LogPluginManager: Mounting plugin SoundFields
 LogPluginManager: Mounting plugin Synthesis
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
+<<<<<<< Updated upstream
 LogPluginManager: Mounting plugin ActorSequence
 LogPluginManager: Mounting plugin LevelSequenceEditor
 LogPluginManager: Mounting plugin MatineeToLevelSequence
 LogPluginManager: Mounting plugin TemplateSequence
+=======
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin GameplayCameras
+>>>>>>> Stashed changes
 LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin ContentBrowserFileDataSource
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
@@ -228,6 +328,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 [2022.05.03-04.02.11:105][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2022.05.03-04.02.11:105][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2022.05.03-04.02.11:105][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/Config/Windows/Engine.ini]
@@ -4393,3 +4494,1493 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.03-04.08.19:820][935]LogD3D11RHI: CleanupD3DDevice
 [2022.05.03-04.08.19:827][935]LogExit: Exiting.
 [2022.05.03-04.08.19:836][935]Log file closed, 05/03/22 00:08:19
+=======
+[2022.04.21-04.27.23:277][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.04.21-04.27.23:277][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.04.21-04.27.23:277][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/Config/Windows/Engine.ini]
+[2022.04.21-04.27.23:277][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.04.21-04.27.23:278][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/Config/Windows/Engine.ini]
+[2022.04.21-04.27.23:278][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/Config/Windows/Engine.ini]
+[2022.04.21-04.27.23:278][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.04.21-04.27.23:278][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.04.21-04.27.23:278][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.04.21-04.27.23:278][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.04.21-04.27.23:278][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.04.21-04.27.23:278][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.04.21-04.27.23:278][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.04.21-04.27.23:278][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.04.21-04.27.23:278][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.04.21-04.27.23:278][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.04.21-04.27.23:278][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.04.21-04.27.23:278][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.04.21-04.27.23:278][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.04.21-04.27.23:278][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.04.21-04.27.23:278][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/Config/Windows/Engine.ini]
+[2022.04.21-04.27.23:278][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.04.21-04.27.23:278][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.04.21-04.27.23:278][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.04.21-04.27.23:278][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.04.21-04.27.23:278][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.04.21-04.27.23:278][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.04.21-04.27.23:278][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.04.21-04.27.23:278][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.04.21-04.27.23:278][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.04.21-04.27.23:278][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.04.21-04.27.23:278][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.04.21-04.27.23:278][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.04.21-04.27.23:278][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.04.21-04.27.23:278][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.04.21-04.27.23:278][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/Config/Windows/Engine.ini]
+[2022.04.21-04.27.23:278][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/Config/Windows/Engine.ini]
+[2022.04.21-04.27.23:288][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/Config/Windows/Scalability.ini]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/Config/Windows/Scalability.ini]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/Config/Windows/Scalability.ini]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/Config/Windows/Scalability.ini]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/Config/Windows/Scalability.ini]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/Config/Windows/Scalability.ini]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/Config/Windows/Scalability.ini]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/Config/Windows/Scalability.ini]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.04.21-04.27.23:288][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.21-04.27.23:288][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.04.21-04.27.23:288][  0]LogHAL: Display: Platform has ~ 16 GB [17072508928 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.04.21-04.27.23:288][  0]LogInit: Going up to parent DeviceProfile []
+[2022.04.21-04.27.23:288][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/Config/Windows/Scalability.ini]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/Config/Windows/Scalability.ini]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/Config/Windows/Scalability.ini]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.21-04.27.23:288][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/Config/Windows/Scalability.ini]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/Config/Windows/Scalability.ini]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/Config/Windows/Scalability.ini]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/Config/Windows/Scalability.ini]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/Config/Windows/Scalability.ini]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.04.21-04.27.23:289][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.04.21-04.27.23:290][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.04.21-04.27.23:290][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.04.21-04.27.23:290][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.04.21-04.27.23:290][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/Config/Windows/Engine.ini]
+[2022.04.21-04.27.23:290][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/Config/Windows/Editor.ini]
+[2022.04.21-04.27.23:290][  0]LogInit: Computer: DESKTOP-FANEBOC
+[2022.04.21-04.27.23:290][  0]LogInit: User: alexi
+[2022.04.21-04.27.23:290][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.04.21-04.27.23:290][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.04.21-04.27.23:290][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.04.21-04.27.23:290][  0]LogMemory: Platform Memory Stats for Windows
+[2022.04.21-04.27.23:290][  0]LogMemory: Process Physical Memory: 148.22 MB used, 148.22 MB peak
+[2022.04.21-04.27.23:290][  0]LogMemory: Process Virtual Memory: 131.02 MB used, 131.02 MB peak
+[2022.04.21-04.27.23:290][  0]LogMemory: Physical Memory: 7267.98 MB used,  9013.64 MB free, 16281.61 MB total
+[2022.04.21-04.27.23:290][  0]LogMemory: Virtual Memory: 134205024.00 MB used,  12704.02 MB free, 134217728.00 MB total
+[2022.04.21-04.27.23:293][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.04.21-04.27.23:322][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.04.21-04.27.23:323][  0]LogInit: Using OS detected language (en-US).
+[2022.04.21-04.27.23:323][  0]LogInit: Using OS detected locale (en-US).
+[2022.04.21-04.27.23:326][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.04.21-04.27.23:465][  0]LogInit: Setting process to per monitor DPI aware
+[2022.04.21-04.27.23:474][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.21-04.27.23:481][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.04.21-04.27.23:481][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.04.21-04.27.23:558][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.04.21-04.27.23:560][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.04.21-04.27.23:560][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.04.21-04.27.23:560][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.04.21-04.27.23:560][  0]LogD3D11RHI: D3D11 adapters:
+[2022.04.21-04.27.23:649][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3070' (Feature Level 11_0)
+[2022.04.21-04.27.23:649][  0]LogD3D11RHI:       8043/0/8140 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.04.21-04.27.23:651][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.04.21-04.27.23:651][  0]LogD3D11RHI:       0/0/8140 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.04.21-04.27.23:651][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.04.21-04.27.23:651][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3070
+[2022.04.21-04.27.23:651][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.04.21-04.27.23:651][  0]LogD3D11RHI:     DeviceId    : 2484
+[2022.04.21-04.27.23:651][  0]LogD3D11RHI:     SubSysId    : 404c1458
+[2022.04.21-04.27.23:651][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.04.21-04.27.23:651][  0]LogD3D11RHI:     DedicatedVideoMemory : 8433696768 bytes
+[2022.04.21-04.27.23:651][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.04.21-04.27.23:651][  0]LogD3D11RHI:     SharedSystemMemory : 8536254464 bytes
+[2022.04.21-04.27.23:651][  0]LogD3D11RHI:     AdapterLuid : 0 63145
+[2022.04.21-04.27.23:655][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.04.21-04.27.23:655][  0]LogD3D11RHI:     GPU DeviceId: 0x2484 (for the marketing name, search the web for "GPU Device Id")
+[2022.04.21-04.27.23:655][  0]LogWindows: EnumDisplayDevices:
+[2022.04.21-04.27.23:655][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3070' (P:1 D:1)
+[2022.04.21-04.27.23:655][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2022.04.21-04.27.23:655][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2022.04.21-04.27.23:655][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3070' (P:0 D:0)
+[2022.04.21-04.27.23:655][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.04.21-04.27.23:655][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3070
+[2022.04.21-04.27.23:655][  0]LogD3D11RHI:   Driver Version: 496.49 (internal:30.0.14.9649, unified:496.49)
+[2022.04.21-04.27.23:655][  0]LogD3D11RHI:      Driver Date: 10-20-2021
+[2022.04.21-04.27.23:655][  0]LogRHI: Texture pool is 5630 MB (70% of 8043 MB)
+[2022.04.21-04.27.23:655][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.04.21-04.27.23:655][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3070
+[2022.04.21-04.27.23:655][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.04.21-04.27.23:655][  0]LogD3D11RHI:     DeviceId    : 2484
+[2022.04.21-04.27.23:655][  0]LogD3D11RHI:     SubSysId    : 404c1458
+[2022.04.21-04.27.23:655][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.04.21-04.27.23:655][  0]LogD3D11RHI:     DedicatedVideoMemory : 8433696768 bytes
+[2022.04.21-04.27.23:655][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.04.21-04.27.23:655][  0]LogD3D11RHI:     SharedSystemMemory : 8536254464 bytes
+[2022.04.21-04.27.23:655][  0]LogD3D11RHI:     AdapterLuid : 0 63145
+[2022.04.21-04.27.23:705][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.04.21-04.27.23:705][  0]LogD3D11RHI: Async texture creation enabled
+[2022.04.21-04.27.23:705][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.04.21-04.27.23:718][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.04.21-04.27.23:735][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.04.21-04.27.23:982][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.04.21-04.27.24:000][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.04.21-04.27.24:000][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.04.21-04.27.24:000][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.04.21-04.27.24:000][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.04.21-04.27.24:000][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.04.21-04.27.24:000][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.04.21-04.27.24:000][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.04.21-04.27.24:000][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.04.21-04.27.24:000][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.04.21-04.27.24:000][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.04.21-04.27.24:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.04.21-04.27.24:015][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.04.21-04.27.24:023][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.04.21-04.27.24:027][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.04.21-04.27.24:030][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.04.21-04.27.24:034][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.04.21-04.27.24:043][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.04.21-04.27.24:046][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.04.21-04.27.24:051][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.04.21-04.27.24:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.04.21-04.27.24:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.04.21-04.27.24:082][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.04.21-04.27.24:086][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.04.21-04.27.24:089][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.04.21-04.27.24:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.04.21-04.27.24:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.04.21-04.27.24:102][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.04.21-04.27.24:111][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.04.21-04.27.24:115][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.04.21-04.27.24:119][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.04.21-04.27.24:123][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.04.21-04.27.24:123][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.04.21-04.27.24:128][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.04.21-04.27.24:150][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.04.21-04.27.24:174][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.04.21-04.27.24:174][  0]LogShaderCompilers: Guid format shader working directory is -42 characters bigger than the processId version (../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Intermediate/Shaders/WorkingDirectory/1976/).
+[2022.04.21-04.27.24:174][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alexi/AppData/Local/Temp/UnrealShaderWorkingDir/D0499FC5431BEBF951E8E19110923C94/'.
+[2022.04.21-04.27.24:174][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.04.21-04.27.24:174][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.04.21-04.27.24:174][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.04.21-04.27.24:799][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.04.21-04.27.24:841][  0]LogDerivedDataCache: Loaded boot cache 0.04s 94MB C:/Users/alexi/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.04.21-04.27.24:841][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alexi/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.04.21-04.27.24:841][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.04.21-04.27.24:841][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.04.21-04.27.24:841][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.21-04.27.24:841][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.04.21-04.27.24:855][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.04.21-04.27.24:855][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.21-04.27.24:855][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.04.21-04.27.24:862][  0]LogDerivedDataCache: Speed tests for C:/Users/alexi/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.04.21-04.27.24:862][  0]LogDerivedDataCache: Display: Performance to C:/Users/alexi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=314.33MBs, RandomWriteSpeed=234.02MBs. Assigned SpeedClass 'Local'
+[2022.04.21-04.27.24:863][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alexi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.04.21-04.27.24:863][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.04.21-04.27.24:863][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.04.21-04.27.24:900][  0]LogSlate: Using FreeType 2.10.0
+[2022.04.21-04.27.24:900][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.04.21-04.27.24:918][  0]LogAssetRegistry: FAssetRegistry took 0.0025 seconds to start up
+[2022.04.21-04.27.25:092][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.21-04.27.25:092][  0]LogInit: Active device profile: [000001A7CD2D1100][000001A7CB250B00 49] Windows
+[2022.04.21-04.27.25:092][  0]LogInit: Profiles: [000001A7CD2D1100][000001A7CB250B00 49] Windows, [000001A7CD292700][000001A7CB254D80 49] WindowsNoEditor, [000001A7CD2D2200][000001A7CB25D040 49] WindowsServer, [000001A7CD291900][000001A7CB261300 49] WindowsClient, [000001A7CD2D1700][000001A7CB2655C0 49] IOS, [000001A7CD292900][000001A7CB269880 49] iPadAir, [000001A7CD2D3C00][000001A7CB26DB40 49] iPadAir2, [000001A7CD215400][000001A7CB280500 49] IPadPro, [000001A7CD215500][000001A7CB270540 49] iPadAir3, [000001A7CD293A00][000001A7CB278800 49] iPadAir4, [000001A7CD216300][000001A7CB274AC0 49] iPadMini2, [000001A7CD293100][000001A7CB258D40 49] iPadMini3, [000001A7CD216F00][000001A7CB27CFC0 49] iPadMini4, [000001A7CD291D00][000001A7CB289280 49] iPadMini5, [000001A7CD21D000][000001A7CB29D7C0 49] iPhone6, [000001A7CD21D100][000001A7CB28D800 49] iPodTouch6, [000001A7CD2D3900][000001A7CB2A41C0 49] iPhone7, [000001A7CD2D2900][000001A7CB294200 49] iPodTouch7, [000001A7CD215000][000001A7CB2984C0 49] iPhone5S, [000001A7CD2D2F00][000001A7CB290780 49] iPhone6Plus, [000001A7CD217600][000001A7CB2A0A40 49] iPhone6S, [000001A7CD2D0C00][000001A7CB2A8D00 49] iPhone6SPlus, [000001A7CD2D1D00][000001A7CB284F80 49] iPhone7Plus, [000001A7CD21C800][000001A7CB2AD200 49] iPhoneSE, [000001A7CD2D0400][000001A7CB2E74C0 49] iPhone8, [000001A7CD21C900][000001A7CB2EB780 49] iPhone8Plus, [000001A7CD21EE00][000001A7CB2EFA40 49] iPhoneX, [000001A7CD215D00][000001A7CB2F2180 49] iPhoneXS, [000001A7CD21E700][000001A7CB2F6440 49] iPhoneXSMax, [000001A7CD215C00][000001A7CB2FA700 49] iPhoneXR, [000001A7CD21E800][000001A7CB2FE9C0 49] iPhone11, [000001A7CD214F00][000001A7CB302C80 49] iPhone11Pro, [000001A7CD21CB00][000001A7CB306F40 49] iPhone11ProMax, [000001A7CD214C00][000001A7CB2E31C0 49] iPhoneSE2, [000001A7CD21CE00][000001A7CB30B440 49] iPhone12Mini, [000001A7CD2D3800][000001A7CB313700 49] iPhone12, [000001A7CD21F100][000001A7CB3179C0 49] iPhone12Pro, [000001A7CD2D3700][000001A7CB31A100 49] iPhone12ProMax, [000001A7CD21DE00][000001A7CB31E3C0 49] iPadPro105, [000001A7CD2D1400][000001A7CB322680 49] iPadPro129, [000001A7CD21FE00][000001A7CB326940 49] iPadPro97, [000001A7CD2D2800][000001A7CB32AC00 49] iPadPro2_129, [000001A7CD21E000][000001A7CB32EEC0 49] iPad5, [000001A7CD2D2300][000001A7CB333180 49] iPad6, [000001A7CD21FB00][000001A7CB30F400 49] iPad7, [000001A7CD2D1E00][000001A7CB337680 49] iPad8, [000001A7CD21CA00][000001A7CB33F940 49] iPadPro11, [000001A7CD2D3E00][000001A7CB343C00 49] iPadPro2_11, [000001A7CD21D800][000001A7CB346340 49] iPadPro3_129, [000001A7CD2D2700][000001A7CB34A600 49] iPadPro4_129, [000001A7CD21C200][000001A7CB34E8C0 49] AppleTV, [000001A7CD2D3F00][000001A7CB352B80 49] AppleTV4K, [000001A7CD21E400][000001A7CB356E40 49] TVOS, [000001A7CD2D0100][000001A7CB35B100 49] Mac, [000001A7CD21DD00][000001A7CB35F3C0 49] MacClient, [000001A7CD2D2A00][000001A7CB33B640 49] MacNoEditor, [000001A7CD21FA00][000001A7CB3638C0 49] MacServer, [000001A7CD2D2000][000001A7CB36BB80 49] Linux, [000001A7CD21D600][000001A7CB36E2C0 49] LinuxAArch64, [000001A7CD2D0800][000001A7CB372580 49] LinuxNoEditor, [000001A7CD21CC00][000001A7CB376840 49] LinuxAArch64NoEditor, [000001A7CD2D3B00][000001A7CB37AB00 49] LinuxClient, [000001A7CD21F400][000001A7CB37EDC0 49] LinuxAArch64Client, [000001A7CD2D3A00][000001A7CB383080 49] LinuxServer, [000001A7CD21C700][000001A7CB387340 49] LinuxAArch64Server, [000001A7CD2D2D00][000001A7CB38B600 49] Android, [000001A7CD21EA00][000001A7CB367880 49] Android_Low, [000001A7CD2D1F00][000001A7CB38FB00 49] Android_Mid, [000001A7CD21DF00][000001A7CB396240 49] Android_High, [000001A7CD2D1900][000001A7CB3BA500 49] Android_Default, [000001A7CD21FC00][000001A7CB3BE7C0 49] Android_Adreno4xx, [000001A7CD2D3600][000001A7CB3C2A80 49] Android_Adreno5xx_Low, [000001A7CD21F200][000001A7CB3DED40 49] Android_Adreno5xx, [000001A7CD2D1000][000001A7CB3E7000 49] Android_Adreno6xx, [000001A7CD21E500][000001A7CB3EB2C0 49] Android_Adreno6xx_Vulkan, [000001A7CD2D0A00][000001A7CAD59580 49] Android_Mali_T6xx, [000001A7CD21E900][000001A7CADFB840 49] Android_Mali_T7xx, [000001A7CD2D3D00][000001A7CB393AC0 49] Android_Mali_T8xx, [000001A7CD21ED00][000001A7CAEB21C0 49] Android_Mali_G71, [000001A7CD217100][000001A7CAECA480 49] Android_Mali_G72, [000001A7CD292F00][000001A7CAF96740 49] Android_Mali_G72_Vulkan, [000001A7CD216B00][000001A7CAFA2A00 49] Android_Mali_G76, [000001A7CD290500][000001A7CAFAECC0 49] Android_Mali_G76_Vulkan, [000001A7CD216600][000001A7CAFB2F80 49] Android_Mali_G77, [000001A7CD293E00][000001A7CA437240 49] Android_Mali_G77_Vulkan, [000001A7CD216400][000001A7CA457500 49] Android_Mali_G78, [000001A7CD290D00][000001A7CA45B7C0 49] Android_Mali_G78_Vulkan, [000001A7CD217500][000001A7CA45FA80 49] Android_Mali_G710, [000001A7CD292B00][000001A7CAEC2180 49] Android_Mali_G710_Vulkan, [000001A7CD217E00][000001A7CABBE400 49] Android_Vulkan_SM5, [000001A7CD291A00][000001A7CABCA6C0 49] Android_PowerVR_G6xxx, [000001A7CD214500][000001A7CA4A4980 49] Android_PowerVR_GT7xxx, [000001A7CD290200][000001A7CA4A8C40 49] Android_PowerVR_GE8xxx, [000001A7CD217B00][000001A7CA4ACF00 49] Android_PowerVR_GM9xxx, [000001A7CD292100][000001A7CA4B11C0 49] Android_PowerVR_GM9xxx_Vulkan, [000001A7CD215F00][000001A7CA4B5480 49] Android_TegraK1, [000001A7CD290A00][000001A7C124B740 49] Android_Unknown_Vulkan, [000001A7CD217900][000001A7CA4D5A00 49] Lumin, [000001A7CD291200][000001A7CA4D8140 49] Lumin_Desktop, [000001A7CD215E00][000001A7CABC63C0 49] HoloLens, 
+[2022.04.21-04.27.25:201][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.04.21-04.27.25:202][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.04.21-04.27.25:202][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.04.21-04.27.25:202][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.04.21-04.27.25:202][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.04.21-04.27.25:212][  0]LogNetVersion: KeyStone 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 4097420791)
+[2022.04.21-04.27.25:473][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.04.21-04.27.25:513][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.04.21-04.27.25:517][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.04.21-04.27.25:517][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.04.21-04.27.25:517][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.04.21-04.27.25:724][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: F675ADD849E74FEA60EB4C97BBCD28E3 | Instance: CF2A73E14BD4B3A20387F48FA167E3B0 (DESKTOP-FANEBOC-1976).
+[2022.04.21-04.27.25:812][  0]LogPython: Using Python 3.7.7
+[2022.04.21-04.27.26:197][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.04.21-04.27.26:202][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.04.21-04.27.26:326][  0]SourceControl: Source control is disabled
+[2022.04.21-04.27.26:326][  0]SourceControl: Source control is disabled
+[2022.04.21-04.27.26:332][  0]SourceControl: Source control is disabled
+[2022.04.21-04.27.26:336][  0]SourceControl: Source control is disabled
+[2022.04.21-04.27.26:341][  0]SourceControl: Source control is disabled
+[2022.04.21-04.27.26:346][  0]LogUProjectInfo: Found projects:
+[2022.04.21-04.27.26:510][  0]LogOpenImageDenoise: OIDN starting up
+[2022.04.21-04.27.26:521][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.04.21-04.27.26:538][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.21-04.27.26:538][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.04.21-04.27.26:627][  0]LogCollectionManager: Loaded 0 collections in 0.001058 seconds
+[2022.04.21-04.27.26:643][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/Collections/' took 0.00s
+[2022.04.21-04.27.26:643][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Developers/alexi/Collections/' took 0.00s
+[2022.04.21-04.27.26:643][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Collections/' took 0.00s
+[2022.04.21-04.27.26:643][  0]LogOcInput: OculusInput pre-init called
+[2022.04.21-04.27.26:803][  0]LogEngine: Initializing Engine...
+[2022.04.21-04.27.26:808][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.04.21-04.27.26:808][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.04.21-04.27.26:808][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.04.21-04.27.26:809][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.04.21-04.27.26:917][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.04.21-04.27.26:924][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.04.21-04.27.26:928][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.04.21-04.27.26:930][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.04.21-04.27.26:931][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.04.21-04.27.26:931][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.04.21-04.27.26:931][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.04.21-04.27.26:931][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.21-04.27.26:931][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.21-04.27.26:931][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.21-04.27.26:931][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.21-04.27.26:931][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.21-04.27.26:931][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.21-04.27.26:931][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.21-04.27.26:931][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.21-04.27.26:931][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.21-04.27.26:931][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.21-04.27.26:931][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.21-04.27.26:931][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.21-04.27.26:938][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.21-04.27.26:938][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.04.21-04.27.26:951][  0]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.04.21-04.27.26:952][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.21-04.27.26:954][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.21-04.27.26:954][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.21-04.27.26:954][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.21-04.27.26:954][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.21-04.27.26:954][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.21-04.27.26:955][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.21-04.27.26:955][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.21-04.27.26:955][  0]LogInit: FAudioDevice initialized.
+[2022.04.21-04.27.26:955][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.04.21-04.27.26:955][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.04.21-04.27.27:003][  0]LogDerivedDataCache: Saved boot cache 0.05s 94MB C:/Users/alexi/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.04.21-04.27.27:003][  0]LogInit: Texture streaming: Enabled
+[2022.04.21-04.27.27:013][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.04.21-04.27.27:016][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.04.21-04.27.27:016][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.04.21-04.27.27:017][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.04.21-04.27.27:036][  0]LogInit: Transaction tracking system initialized
+[2022.04.21-04.27.27:052][  0]BlueprintLog: New page: Editor Load
+[2022.04.21-04.27.27:096][  0]LocalizationService: Localization service is disabled
+[2022.04.21-04.27.27:113][  0]TimingProfiler: Initialize
+[2022.04.21-04.27.27:114][  0]TimingProfiler: OnSessionChanged
+[2022.04.21-04.27.27:114][  0]LoadingProfiler: Initialize
+[2022.04.21-04.27.27:114][  0]LoadingProfiler: OnSessionChanged
+[2022.04.21-04.27.27:114][  0]NetworkingProfiler: Initialize
+[2022.04.21-04.27.27:114][  0]NetworkingProfiler: OnSessionChanged
+[2022.04.21-04.27.27:114][  0]MemoryProfiler: Initialize
+[2022.04.21-04.27.27:114][  0]MemoryProfiler: OnSessionChanged
+[2022.04.21-04.27.27:212][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.04.21-04.27.27:212][  0]LogCook: Display: Mobile HDR setting 1
+[2022.04.21-04.27.27:470][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.04.21-04.27.27:472][  0]SourceControl: Source control is disabled
+[2022.04.21-04.27.27:472][  0]LogUnrealEdMisc: Loading editor; pre map load, took 4.932
+[2022.04.21-04.27.27:473][  0]Cmd: MAP LOAD FILE="../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/NEW_DungeonLevel_TEST.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.21-04.27.27:473][  0]LightingResults: New page: Lighting Build
+[2022.04.21-04.27.27:474][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.04.21-04.27.27:474][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-04.27.27:474][  0]MapCheck: New page: Map Check
+[2022.04.21-04.27.27:474][  0]LightingResults: New page: Lighting Build
+[2022.04.21-04.27.27:478][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.21-04.27.27:479][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.04.21-04.27.28:087][  0]LogBlueprint: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\ThirdPersonBP\InventorySystem\InventoryUI\InventorySlot.uasset: [Compiler] Could not find a variable named "InventoryComponent" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get InventoryComponent
+[2022.04.21-04.27.28:088][  0]LogBlueprint: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\ThirdPersonBP\InventorySystem\InventoryUI\InventorySlot.uasset: [Compiler] Could not find a variable named "InventoryComponent" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get InventoryComponent
+[2022.04.21-04.27.28:088][  0]LogBlueprint: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\ThirdPersonBP\InventorySystem\InventoryUI\InventorySlot.uasset: [Compiler] Could not find a variable named "InventoryComponent" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get InventoryComponent
+[2022.04.21-04.27.28:288][  0]LogBlueprint: Error: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\ThirdPersonBP\InventorySystem\InventoryUI\InventorySlot.uasset: [Compiler] The property associated with  Inventory Component  could not be found in '/Game/ThirdPersonBP/InventorySystem/InventoryUI/InventorySlot.InventorySlot_C'
+[2022.04.21-04.27.28:288][  0]LogBlueprint: Error: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\ThirdPersonBP\InventorySystem\InventoryUI\InventorySlot.uasset: [Compiler] The property associated with  Inventory Component  could not be found in '/Game/ThirdPersonBP/InventorySystem/InventoryUI/InventorySlot.InventorySlot_C'
+[2022.04.21-04.27.28:289][  0]LogBlueprint: Error: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\ThirdPersonBP\InventorySystem\InventoryUI\InventorySlot.uasset: [Compiler] The property associated with  Inventory Component  could not be found in '/Game/ThirdPersonBP/InventorySystem/InventoryUI/InventorySlot.InventorySlot_C'
+[2022.04.21-04.27.29:132][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/GKnight/Materials/Eyes/T_SecondReflection_mkt.T_SecondReflection_mkt', its maximum texture size has been explicitly set to 512.
+[2022.04.21-04.27.31:686][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'NEW_DungeonLevel_TEST'.
+[2022.04.21-04.27.31:686][  0]LogAIModule: Creating AISystem for world NEW_DungeonLevel_TEST
+[2022.04.21-04.27.31:891][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.21-04.27.31:942][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.04.21-04.27.31:943][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.21-04.27.31:943][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.192ms to complete.
+[2022.04.21-04.27.31:943][  0]LogFileHelpers: Loading map 'NEW_DungeonLevel_TEST' took 4.471
+[2022.04.21-04.27.31:944][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.404
+[2022.04.21-04.27.32:058][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.21-04.27.32:062][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.21-04.27.32:067][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.21-04.27.32:071][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.21-04.27.32:087][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0071 seconds. Added 3822 classes and 928 folders.
+[2022.04.21-04.27.32:090][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.04.21-04.27.32:097][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.21-04.27.32:097][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.21-04.27.32:097][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.21-04.27.32:097][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.21-04.27.32:097][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.04.21-04.27.32:097][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.04.21-04.27.32:102][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.04.21-04.27.32:102][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.21-04.27.32:102][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.04.21-04.27.32:102][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.21-04.27.32:102][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.04.21-04.27.32:102][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.04.21-04.27.32:106][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.04.21-04.27.32:106][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.21-04.27.32:106][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.04.21-04.27.32:106][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.21-04.27.32:106][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.04.21-04.27.32:106][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.04.21-04.27.32:110][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.21-04.27.32:110][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.21-04.27.32:110][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.21-04.27.32:110][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.21-04.27.32:110][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.04.21-04.27.32:110][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.04.21-04.27.32:114][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.04.21-04.27.32:114][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.21-04.27.32:114][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.04.21-04.27.32:114][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.21-04.27.32:114][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.04.21-04.27.32:114][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.04.21-04.27.32:117][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.04.21-04.27.32:117][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.21-04.27.32:117][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.04.21-04.27.32:117][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.21-04.27.32:117][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.04.21-04.27.32:117][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.04.21-04.27.32:121][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.04.21-04.27.32:121][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.21-04.27.32:121][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.04.21-04.27.32:121][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.21-04.27.32:121][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.04.21-04.27.32:121][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.04.21-04.27.32:125][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.04.21-04.27.32:125][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.21-04.27.32:125][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.04.21-04.27.32:125][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.21-04.27.32:125][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.04.21-04.27.32:125][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.04.21-04.27.32:129][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.21-04.27.32:129][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.21-04.27.32:129][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.21-04.27.32:129][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.21-04.27.32:129][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.04.21-04.27.32:129][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.04.21-04.27.32:134][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.04.21-04.27.32:134][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.21-04.27.32:134][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.04.21-04.27.32:134][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.21-04.27.32:134][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.04.21-04.27.32:134][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.04.21-04.27.32:138][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.04.21-04.27.32:138][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.21-04.27.32:138][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.04.21-04.27.32:138][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.21-04.27.32:138][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.04.21-04.27.32:138][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2022.04.21-04.27.32:142][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.21-04.27.32:142][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.21-04.27.32:142][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.21-04.27.32:142][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.21-04.27.32:142][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.04.21-04.27.32:142][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.04.21-04.27.32:146][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.21-04.27.32:146][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.21-04.27.32:146][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.21-04.27.32:146][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.21-04.27.32:146][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.04.21-04.27.32:146][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.04.21-04.27.32:150][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.21-04.27.32:150][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.21-04.27.32:150][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.21-04.27.32:150][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.21-04.27.32:150][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.04.21-04.27.32:150][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.04.21-04.27.32:153][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.04.21-04.27.32:153][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.21-04.27.32:153][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.04.21-04.27.32:153][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.21-04.27.32:153][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.04.21-04.27.32:153][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.04.21-04.27.32:157][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.21-04.27.32:157][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.21-04.27.32:157][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.21-04.27.32:157][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.21-04.27.32:157][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.04.21-04.27.32:157][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.04.21-04.27.32:161][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.04.21-04.27.32:161][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.21-04.27.32:161][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.04.21-04.27.32:161][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.21-04.27.32:161][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.04.21-04.27.32:161][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.04.21-04.27.32:165][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.21-04.27.32:165][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.21-04.27.32:165][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.21-04.27.32:165][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.21-04.27.32:165][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.04.21-04.27.32:165][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.04.21-04.27.32:168][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.21-04.27.32:168][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.21-04.27.32:168][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.21-04.27.32:168][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.21-04.27.32:168][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.04.21-04.27.32:168][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.04.21-04.27.32:174][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.21-04.27.32:174][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.21-04.27.32:174][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.21-04.27.32:174][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.21-04.27.32:174][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.04.21-04.27.32:174][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.04.21-04.27.32:178][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.04.21-04.27.32:178][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.21-04.27.32:178][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.04.21-04.27.32:178][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.21-04.27.32:178][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.04.21-04.27.32:178][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.04.21-04.27.32:181][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.04.21-04.27.32:181][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.21-04.27.32:181][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.04.21-04.27.32:181][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.21-04.27.32:181][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.04.21-04.27.32:181][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.04.21-04.27.32:185][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.04.21-04.27.32:185][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.21-04.27.32:185][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.04.21-04.27.32:185][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.21-04.27.32:185][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.04.21-04.27.32:185][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.04.21-04.27.32:189][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.04.21-04.27.32:189][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.21-04.27.32:189][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.04.21-04.27.32:189][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.21-04.27.32:189][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.04.21-04.27.32:189][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.04.21-04.27.32:193][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.04.21-04.27.32:193][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.21-04.27.32:193][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.04.21-04.27.32:193][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.21-04.27.32:193][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.04.21-04.27.32:193][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.04.21-04.27.32:197][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.04.21-04.27.32:197][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.04.21-04.27.32:197][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.04.21-04.27.32:197][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.04.21-04.27.32:197][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.04.21-04.27.32:197][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.04.21-04.27.32:348][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.04.21-04.27.32:350][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.04.21-04.27.32:391][  0]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.04.21-04.27.32:396][  0]LogSlate: Took 0.004169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.04.21-04.27.32:396][  0]LogSlate: Took 0.000085 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.04.21-04.27.32:512][  0]LogRenderer: Reallocating scene render targets to support 1616x804 Format 10 NumSamples 1 (Frame:1).
+[2022.04.21-04.27.32:632][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.04.21-04.27.32:632][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.04.21-04.27.32:632][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.04.21-04.27.32:632][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.04.21-04.27.32:632][  0]LogLoad: (Engine Initialization) Total time: 10.09 seconds
+[2022.04.21-04.27.32:632][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.04.21-04.27.32:857][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.04.21-04.27.32:881][  1]LogAssetRegistry: Asset discovery search completed in 7.9646 seconds
+[2022.04.21-04.27.32:885][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.04.21-04.27.57:237][ 87]LogSlate: Took 0.004336 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.21-04.27.57:250][ 87]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Alexis/AI/DecrementPathIndex.DecrementPathIndex
+[2022.04.21-04.27.57:417][ 87]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2022.04.21-04.27.58:089][ 87]LogSlate: Took 0.000104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.04.21-04.27.58:129][ 88]LogSlate: Took 0.003229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.21-04.28.01:128][380]LogSlate: Window 'DecrementPathIndex' being destroyed
+[2022.04.21-04.28.01:131][380]LogSlate: Window 'DecrementPathIndex' being destroyed
+[2022.04.21-04.28.01:135][380]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.04.21-04.28.01:135][380]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-04.28.02:190][475]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Alexis/AI/KnightBT.KnightBT
+[2022.04.21-04.28.15:969][947]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.04.21-04.28.17:297][ 69]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Alexis/AI/EnemyAiAttacks/Task/AISpeed.AISpeed
+[2022.04.21-04.29.37:205][365]BlueprintLog: New page: Compile AISpeed
+[2022.04.21-04.29.37:206][365]LogBlueprint: Error: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Alexis\AI\EnemyAiAttacks\Task\AISpeed.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To KnightController  to imply a specific type.
+[2022.04.21-04.29.37:206][365]LogBlueprint: Error: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Alexis\AI\EnemyAiAttacks\Task\AISpeed.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2022.04.21-04.29.37:237][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.04.21-04.29.37:270][365]LogSlate: Took 0.004805 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.04.21-04.29.43:756][917]BlueprintLog: New page: Compile AISpeed
+[2022.04.21-04.29.43:757][917]LogBlueprint: Error: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Alexis\AI\EnemyAiAttacks\Task\AISpeed.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To KnightController  to imply a specific type.
+[2022.04.21-04.29.43:757][917]LogBlueprint: Error: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Alexis\AI\EnemyAiAttacks\Task\AISpeed.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2022.04.21-04.29.43:782][917]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.04.21-04.29.48:637][343]BlueprintLog: New page: Compile AISpeed
+[2022.04.21-04.29.48:663][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.04.21-04.29.49:499][405]LogSavePackage: Moving '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/AISpeed968FD4A948E186120E61CDA5D081626F.tmp' to '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/EnemyAiAttacks/Task/AISpeed.uasset'
+[2022.04.21-04.29.49:510][405]AssetCheck: New page: Asset Save: AISpeed
+[2022.04.21-04.29.49:510][405]LogContentValidation: Display: Validating Blueprint /Game/Alexis/AI/EnemyAiAttacks/Task/AISpeed.AISpeed
+[2022.04.21-04.30.36:511][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexis/AI/KnightBT" FILE="../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/KnightBT.uasset" SILENT=true
+[2022.04.21-04.30.36:515][324]LogSavePackage: Moving '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/KnightBT13006D964599E788634B6181CBFD9A47.tmp' to '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/KnightBT.uasset'
+[2022.04.21-04.30.36:523][324]AssetCheck: New page: Asset Save: KnightBT
+[2022.04.21-04.30.36:523][324]LogContentValidation: Display: Validating BehaviorTree /Game/Alexis/AI/KnightBT.KnightBT
+[2022.04.21-04.30.42:332][942]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.21-04.30.42:341][942]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.21-04.30.42:341][942]BlueprintLog: Warning: Blueprint failed to compile:  InventorySlot
+[2022.04.21-04.30.42:341][942]LogCustomDialog: Dialog displayed:
+[2022.04.21-04.30.43:996][942]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2022.04.21-04.30.43:998][942]PIE: New page: PIE session: NEW_DungeonLevel_TEST (Apr 20, 2022, 8:30:43 PM)
+[2022.04.21-04.30.44:000][942]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.04.21-04.30.44:001][942]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.04.21-04.30.44:002][942]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NEW_DungeonLevel_TEST
+[2022.04.21-04.30.44:102][942]LogPlayLevel: PIE: StaticDuplicateObject took: (0.100596s)
+[2022.04.21-04.30.44:104][942]LogAIModule: Creating AISystem for world NEW_DungeonLevel_TEST
+[2022.04.21-04.30.44:104][942]LogPlayLevel: PIE: World Init took: (0.001545s)
+[2022.04.21-04.30.44:105][942]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NEW_DungeonLevel_TEST.NEW_DungeonLevel_TEST to /Game/UEDPIE_0_NEW_DungeonLevel_TEST.NEW_DungeonLevel_TEST (0.102556s)
+[2022.04.21-04.30.44:122][942]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.04.21-04.30.44:124][942]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.04.21-04.30.44:124][942]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.21-04.30.44:124][942]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.21-04.30.44:124][942]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.21-04.30.44:124][942]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.21-04.30.44:124][942]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.21-04.30.44:124][942]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.21-04.30.44:124][942]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.21-04.30.44:124][942]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.21-04.30.44:124][942]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.21-04.30.44:125][942]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.21-04.30.44:125][942]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.21-04.30.44:125][942]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.21-04.30.44:126][942]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.21-04.30.44:126][942]LogAudioMixer: Display: 1: FrontRight
+[2022.04.21-04.30.44:134][942]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.04.21-04.30.44:134][942]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.21-04.30.44:134][942]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.21-04.30.44:134][942]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.21-04.30.44:135][942]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.21-04.30.44:135][942]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.21-04.30.44:135][942]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.21-04.30.44:136][942]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.21-04.30.44:136][942]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.21-04.30.44:136][942]LogInit: FAudioDevice initialized.
+[2022.04.21-04.30.44:136][942]LogAudio: Display: Audio Device (ID: 2) registered with world 'NEW_DungeonLevel_TEST'.
+[2022.04.21-04.30.44:141][942]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.21-04.30.44:185][942]LogWorld: Bringing World /Game/UEDPIE_0_NEW_DungeonLevel_TEST.NEW_DungeonLevel_TEST up for play (max tick rate 0) at 2022.04.21-00.30.44
+[2022.04.21-04.30.44:193][942]LogWorld: Bringing up level for play took: 0.051161
+[2022.04.21-04.30.44:194][942]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2022.04.21-04.30.44:203][942]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.04.21-04.30.44:216][942]LogBlueprintUserMessages: [Player_2] Save1
+[2022.04.21-04.30.44:217][942]PIE: Server logged in
+[2022.04.21-04.30.44:219][942]PIE: Play in editor total start time 1.881 seconds.
+[2022.04.21-04.30.44:223][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\Materials\M_Bush.uasset: Failed to load '/Game/StarterContent/Textures/T_Bush_D': Can't find file.
+[2022.04.21-04.30.44:224][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\Materials\M_Bush.uasset: Failed to load '/Game/StarterContent/Textures/T_Bush_D': Can't find file.
+[2022.04.21-04.30.44:224][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\Materials\M_Bush.uasset: Failed to load '/Game/StarterContent/Textures/T_Bush_N': Can't find file.
+[2022.04.21-04.30.44:224][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\Materials\M_Bush.uasset: Failed to load '/Game/StarterContent/Textures/T_Bush_N': Can't find file.
+[2022.04.21-04.30.44:224][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\Materials\M_Bush.uasset: Failed to load '/Game/StarterContent/Textures/T_Bush_D': Can't find file.
+[2022.04.21-04.30.44:224][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\Materials\M_Bush.uasset: Failed to load '/Game/StarterContent/Textures/T_Bush_N': Can't find file.
+[2022.04.21-04.30.44:225][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\SM_Bush.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_Bush': Can't find file.
+[2022.04.21-04.30.44:225][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\SM_Bush.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_Bush': Can't find file.
+[2022.04.21-04.30.44:225][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\SM_Bush.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_Bush': Can't find file.
+[2022.04.21-04.30.44:229][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\SM_Bush.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_Bush': Can't find file.
+[2022.04.21-04.30.44:229][942]LoadErrors: Failed to load /Game/StarterContent/Props/Materials/M_Bush.M_Bush Referenced by SM_Bush
+[2022.04.21-04.30.44:229][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\Materials\M_Bush.uasset: Failed to load '/Game/StarterContent/Textures/T_Bush_N': Can't find file.
+[2022.04.21-04.30.44:229][942]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Bush_N.T_Bush_N Referenced by MaterialExpressionTextureSample_0
+[2022.04.21-04.30.44:229][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\Materials\M_Bush.uasset: Failed to load '/Game/StarterContent/Textures/T_Bush_D': Can't find file.
+[2022.04.21-04.30.44:229][942]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Bush_D.T_Bush_D Referenced by MaterialExpressionTextureSample_1
+[2022.04.21-04.30.44:232][942]LogMaterial: Display: Missing cached shadermap for M_Bush in PCD3D_SM5, Default, SM5 (DDC key hash: 88020133558D54A4B0CE37F276EE0FDC915E8AC1), compiling. 
+[2022.04.21-04.30.44:235][942]LogMaterial: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\Materials\M_Bush.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.21-04.30.44:235][942]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.04.21-04.30.44:239][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\Materials\M_Rock.uasset: Failed to load '/Game/StarterContent/Textures/T_Detail_Rocky_N': Can't find file.
+[2022.04.21-04.30.44:239][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\Materials\M_Rock.uasset: Failed to load '/Game/StarterContent/Textures/T_Detail_Rocky_N': Can't find file.
+[2022.04.21-04.30.44:239][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\Materials\M_Rock.uasset: Failed to load '/Game/StarterContent/Textures/T_Rock_Basalt_D': Can't find file.
+[2022.04.21-04.30.44:239][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\Materials\M_Rock.uasset: Failed to load '/Game/StarterContent/Textures/T_Rock_Basalt_D': Can't find file.
+[2022.04.21-04.30.44:240][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\Materials\M_Rock.uasset: Failed to load '/Game/StarterContent/Textures/T_RockMesh_M': Can't find file.
+[2022.04.21-04.30.44:240][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\Materials\M_Rock.uasset: Failed to load '/Game/StarterContent/Textures/T_RockMesh_M': Can't find file.
+[2022.04.21-04.30.44:240][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\Materials\M_Rock.uasset: Failed to load '/Game/StarterContent/Textures/T_RockMesh_N': Can't find file.
+[2022.04.21-04.30.44:241][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\Materials\M_Rock.uasset: Failed to load '/Game/StarterContent/Textures/T_RockMesh_N': Can't find file.
+[2022.04.21-04.30.44:241][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\Materials\M_Rock.uasset: Failed to load '/Game/StarterContent/Textures/T_Detail_Rocky_N': Can't find file.
+[2022.04.21-04.30.44:241][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\Materials\M_Rock.uasset: Failed to load '/Game/StarterContent/Textures/T_Rock_Basalt_D': Can't find file.
+[2022.04.21-04.30.44:241][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\Materials\M_Rock.uasset: Failed to load '/Game/StarterContent/Textures/T_RockMesh_M': Can't find file.
+[2022.04.21-04.30.44:241][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\Materials\M_Rock.uasset: Failed to load '/Game/StarterContent/Textures/T_RockMesh_N': Can't find file.
+[2022.04.21-04.30.44:242][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\SM_Rock.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_Rock': Can't find file.
+[2022.04.21-04.30.44:242][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\SM_Rock.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_Rock': Can't find file.
+[2022.04.21-04.30.44:242][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\SM_Rock.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_Rock': Can't find file.
+[2022.04.21-04.30.44:250][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\SM_Rock.uasset: Failed to load '/Game/StarterContent/Props/Materials/M_Rock': Can't find file.
+[2022.04.21-04.30.44:250][942]LoadErrors: Failed to load /Game/StarterContent/Props/Materials/M_Rock.M_Rock Referenced by SM_Rock
+[2022.04.21-04.30.44:251][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\Materials\M_Rock.uasset: Failed to load '/Game/StarterContent/Textures/T_RockMesh_N': Can't find file.
+[2022.04.21-04.30.44:251][942]LoadErrors: Failed to load /Game/StarterContent/Textures/T_RockMesh_N.T_RockMesh_N Referenced by MaterialExpressionTextureSample_0
+[2022.04.21-04.30.44:251][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\Materials\M_Rock.uasset: Failed to load '/Game/StarterContent/Textures/T_RockMesh_M': Can't find file.
+[2022.04.21-04.30.44:251][942]LoadErrors: Failed to load /Game/StarterContent/Textures/T_RockMesh_M.T_RockMesh_M Referenced by MaterialExpressionTextureSample_1
+[2022.04.21-04.30.44:251][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\Materials\M_Rock.uasset: Failed to load '/Game/StarterContent/Textures/T_Rock_Basalt_D': Can't find file.
+[2022.04.21-04.30.44:251][942]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Basalt_D.T_Rock_Basalt_D Referenced by MaterialExpressionTextureSample_2
+[2022.04.21-04.30.44:251][942]LogLinker: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\Materials\M_Rock.uasset: Failed to load '/Game/StarterContent/Textures/T_Detail_Rocky_N': Can't find file.
+[2022.04.21-04.30.44:251][942]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Detail_Rocky_N.T_Detail_Rocky_N Referenced by MaterialExpressionTextureSample_5
+[2022.04.21-04.30.44:254][942]LogMaterial: Display: Missing cached shadermap for M_Rock in PCD3D_SM5, Default, SM5 (DDC key hash: 35E2AAC1D9FB9A0C4FE70C4AC50661A06B488905), compiling. 
+[2022.04.21-04.30.44:255][942]LogMaterial: Warning: [AssetLog] C:\Users\alexi\OneDrive\Desktop\groupProject\GitHub\docs\Project\KeyStone\Content\Tanner\StarterContent\Props\Materials\M_Rock.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.21-04.30.44:255][942]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.04.21-04.30.44:256][942]LogLinker: Warning: Failed to load '/Game/UEDPIE_0_DungeonTESTLevel1': Can't find file.
+[2022.04.21-04.30.44:256][942]LogLinker: Warning: Failed to load '/Game/UEDPIE_0_DungeonTESTLevel1': Can't find file.
+[2022.04.21-04.30.44:256][942]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/UEDPIE_0_DungeonTESTLevel1.DungeonTESTLevel1.PersistentLevel.herbPlayer2_5'
+[2022.04.21-04.30.44:256][942]LogBlueprintUserMessages: [Player_2] PauseGame
+[2022.04.21-04.30.44:257][942]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2022.04.21-04.30.44:257][942]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.04.21-04.30.44:257][942]LogBlueprintUserMessages: [Player_2] PauseGame
+[2022.04.21-04.30.44:257][942]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2022.04.21-04.30.44:257][942]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.04.21-04.30.44:258][942]LogBlueprintUserMessages: [KnightAI_BP_5] EnemyHealth: 100.0
+[2022.04.21-04.30.44:275][942]LogAudio: Warning: Detected orphaned looping sound 'DungeonCue'.
+[2022.04.21-04.30.48:019][301]LogBlueprintUserMessages: [KnightController_C_0] 0
+[2022.04.21-04.30.48:019][301]LogBlueprintUserMessages: [KnightController_C_0] 1
+[2022.04.21-04.30.52:090][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.21-04.30.52:090][781]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NEW_DungeonLevel_TEST
+[2022.04.21-04.30.52:091][781]LogWorld: UWorld::CleanupWorld for NEW_DungeonLevel_TEST, bSessionEnded=true, bCleanupResources=true
+[2022.04.21-04.30.52:104][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-04.30.52:111][781]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.21-04.30.52:116][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-04.30.52:139][781]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.21-04.30.52:143][781]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.21-04.30.52:144][781]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.21-04.30.52:145][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.21-04.30.52:172][781]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.04.21-04.30.52:194][782]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2022.04.21-04.31.10:941][516]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexis/AI/KnightBT" FILE="../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/KnightBT.uasset" SILENT=true
+[2022.04.21-04.31.10:945][516]LogSavePackage: Moving '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/KnightBT488A9ECB4A27444D5A6AB9B1ADDD8E58.tmp' to '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/KnightBT.uasset'
+[2022.04.21-04.31.10:953][516]AssetCheck: New page: Asset Save: KnightBT
+[2022.04.21-04.31.10:953][516]LogContentValidation: Display: Validating BehaviorTree /Game/Alexis/AI/KnightBT.KnightBT
+[2022.04.21-04.31.14:162][807]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Alexis/AI/KnightAnim_BP.KnightAnim_BP
+[2022.04.21-04.31.14:170][807]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2022.04.21-04.31.14:174][807]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.04.21-04.31.14:243][807]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.04.21-04.31.14:316][807]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.21-04.31.14:319][807]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2022.04.21-04.31.15:066][807]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.04.21-04.31.32:356][275]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.21-04.31.32:365][275]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.21-04.31.32:365][275]PIE: New page: PIE session: NEW_DungeonLevel_TEST (Apr 20, 2022, 8:31:32 PM)
+[2022.04.21-04.31.32:386][275]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NEW_DungeonLevel_TEST
+[2022.04.21-04.31.32:486][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.100427s)
+[2022.04.21-04.31.32:487][275]LogAIModule: Creating AISystem for world NEW_DungeonLevel_TEST
+[2022.04.21-04.31.32:488][275]LogPlayLevel: PIE: World Init took: (0.001380s)
+[2022.04.21-04.31.32:488][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NEW_DungeonLevel_TEST.NEW_DungeonLevel_TEST to /Game/UEDPIE_0_NEW_DungeonLevel_TEST.NEW_DungeonLevel_TEST (0.102110s)
+[2022.04.21-04.31.32:538][275]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2022.04.21-04.31.32:540][275]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.04.21-04.31.32:540][275]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.21-04.31.32:540][275]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.21-04.31.32:540][275]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.21-04.31.32:540][275]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.21-04.31.32:540][275]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.21-04.31.32:540][275]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.21-04.31.32:540][275]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.21-04.31.32:540][275]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.21-04.31.32:541][275]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.21-04.31.32:541][275]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.21-04.31.32:541][275]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.21-04.31.32:541][275]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.21-04.31.32:542][275]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.21-04.31.32:542][275]LogAudioMixer: Display: 1: FrontRight
+[2022.04.21-04.31.32:550][275]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.04.21-04.31.32:551][275]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.21-04.31.32:551][275]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.21-04.31.32:551][275]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.21-04.31.32:551][275]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.21-04.31.32:551][275]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.21-04.31.32:551][275]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.21-04.31.32:552][275]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.21-04.31.32:552][275]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.21-04.31.32:552][275]LogInit: FAudioDevice initialized.
+[2022.04.21-04.31.32:552][275]LogAudio: Display: Audio Device (ID: 3) registered with world 'NEW_DungeonLevel_TEST'.
+[2022.04.21-04.31.32:558][275]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.21-04.31.32:596][275]LogWorld: Bringing World /Game/UEDPIE_0_NEW_DungeonLevel_TEST.NEW_DungeonLevel_TEST up for play (max tick rate 0) at 2022.04.21-00.31.32
+[2022.04.21-04.31.32:599][275]LogWorld: Bringing up level for play took: 0.040308
+[2022.04.21-04.31.32:599][275]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2022.04.21-04.31.32:605][275]LogBlueprintUserMessages: [Player_2] Save1
+[2022.04.21-04.31.32:606][275]PIE: Server logged in
+[2022.04.21-04.31.32:606][275]PIE: Play in editor total start time 0.244 seconds.
+[2022.04.21-04.31.32:607][275]LogBlueprintUserMessages: [Player_2] PauseGame
+[2022.04.21-04.31.32:608][275]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2022.04.21-04.31.32:608][275]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.04.21-04.31.32:608][275]LogBlueprintUserMessages: [Player_2] PauseGame
+[2022.04.21-04.31.32:608][275]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2022.04.21-04.31.32:608][275]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.04.21-04.31.32:609][275]LogBlueprintUserMessages: [KnightAI_BP_5] EnemyHealth: 100.0
+[2022.04.21-04.31.32:616][275]LogAudio: Warning: Detected orphaned looping sound 'DungeonCue'.
+[2022.04.21-04.31.35:261][561]LogBlueprintUserMessages: [KnightController_C_0] 0
+[2022.04.21-04.31.35:261][561]LogBlueprintUserMessages: [KnightController_C_0] 1
+[2022.04.21-04.31.41:068][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.21-04.31.41:069][253]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NEW_DungeonLevel_TEST
+[2022.04.21-04.31.41:069][253]LogWorld: UWorld::CleanupWorld for NEW_DungeonLevel_TEST, bSessionEnded=true, bCleanupResources=true
+[2022.04.21-04.31.41:078][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-04.31.41:086][253]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.21-04.31.41:091][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-04.31.41:117][253]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.21-04.31.41:117][253]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.21-04.31.41:118][253]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.21-04.31.41:137][253]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.04.21-04.31.41:158][254]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.04.21-04.32.34:803][939]LogSlate: Window 'KnightAnim_BP' being destroyed
+[2022.04.21-04.32.34:805][939]LogSlate: Window 'KnightAnim_BP' being destroyed
+[2022.04.21-04.32.34:816][939]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.04.21-04.32.34:816][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-04.32.34:850][939]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.04.21-04.32.34:850][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-04.32.34:858][939]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.04.21-04.32.34:858][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-04.32.34:910][939]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.04.21-04.32.34:910][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-04.32.36:478][ 72]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Alexis/AI/KnightBT.KnightBT
+[2022.04.21-04.32.44:851][921]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexis/AI/KnightBT" FILE="../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/KnightBT.uasset" SILENT=true
+[2022.04.21-04.32.44:856][921]LogSavePackage: Moving '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/KnightBTA407F83942B4AF4AB380EA898FCF10BF.tmp' to '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/KnightBT.uasset'
+[2022.04.21-04.32.44:865][921]AssetCheck: New page: Asset Save: KnightBT
+[2022.04.21-04.32.44:865][921]LogContentValidation: Display: Validating BehaviorTree /Game/Alexis/AI/KnightBT.KnightBT
+[2022.04.21-04.32.45:956][ 41]LogSlate: Window 'KnightBT' being destroyed
+[2022.04.21-04.32.45:958][ 41]LogSlate: Window 'KnightBT' being destroyed
+[2022.04.21-04.32.47:473][216]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.21-04.32.47:479][216]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.21-04.32.47:479][216]PIE: New page: PIE session: NEW_DungeonLevel_TEST (Apr 20, 2022, 8:32:47 PM)
+[2022.04.21-04.32.47:506][216]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NEW_DungeonLevel_TEST
+[2022.04.21-04.32.47:600][216]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094499s)
+[2022.04.21-04.32.47:601][216]LogAIModule: Creating AISystem for world NEW_DungeonLevel_TEST
+[2022.04.21-04.32.47:601][216]LogPlayLevel: PIE: World Init took: (0.001160s)
+[2022.04.21-04.32.47:601][216]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NEW_DungeonLevel_TEST.NEW_DungeonLevel_TEST to /Game/UEDPIE_0_NEW_DungeonLevel_TEST.NEW_DungeonLevel_TEST (0.095891s)
+[2022.04.21-04.32.47:667][216]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.04.21-04.32.47:676][216]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.04.21-04.32.47:676][216]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.21-04.32.47:676][216]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.21-04.32.47:676][216]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.21-04.32.47:676][216]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.21-04.32.47:676][216]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.21-04.32.47:676][216]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.21-04.32.47:676][216]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.21-04.32.47:676][216]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.21-04.32.47:677][216]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.21-04.32.47:677][216]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.21-04.32.47:677][216]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.21-04.32.47:677][216]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.21-04.32.47:679][216]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.21-04.32.47:679][216]LogAudioMixer: Display: 1: FrontRight
+[2022.04.21-04.32.47:687][216]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.04.21-04.32.47:687][216]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.21-04.32.47:687][216]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.21-04.32.47:687][216]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.21-04.32.47:687][216]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.21-04.32.47:687][216]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.21-04.32.47:687][216]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.21-04.32.47:688][216]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.21-04.32.47:688][216]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.21-04.32.47:688][216]LogInit: FAudioDevice initialized.
+[2022.04.21-04.32.47:688][216]LogAudio: Display: Audio Device (ID: 4) registered with world 'NEW_DungeonLevel_TEST'.
+[2022.04.21-04.32.47:693][216]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.21-04.32.47:732][216]LogWorld: Bringing World /Game/UEDPIE_0_NEW_DungeonLevel_TEST.NEW_DungeonLevel_TEST up for play (max tick rate 0) at 2022.04.21-00.32.47
+[2022.04.21-04.32.47:735][216]LogWorld: Bringing up level for play took: 0.041683
+[2022.04.21-04.32.47:735][216]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.04.21-04.32.47:742][216]LogBlueprintUserMessages: [Player_2] Save1
+[2022.04.21-04.32.47:742][216]PIE: Server logged in
+[2022.04.21-04.32.47:743][216]PIE: Play in editor total start time 0.264 seconds.
+[2022.04.21-04.32.47:743][216]LogBlueprintUserMessages: [Player_2] PauseGame
+[2022.04.21-04.32.47:744][216]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2022.04.21-04.32.47:744][216]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.04.21-04.32.47:744][216]LogBlueprintUserMessages: [Player_2] PauseGame
+[2022.04.21-04.32.47:744][216]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2022.04.21-04.32.47:744][216]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.04.21-04.32.47:744][216]LogBlueprintUserMessages: [KnightAI_BP_5] EnemyHealth: 100.0
+[2022.04.21-04.32.47:754][216]LogAudio: Warning: Detected orphaned looping sound 'DungeonCue'.
+[2022.04.21-04.32.50:391][500]LogBlueprintUserMessages: [KnightController_C_0] 0
+[2022.04.21-04.32.50:392][500]LogBlueprintUserMessages: [KnightController_C_0] 1
+[2022.04.21-04.32.55:587][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.21-04.32.55:587][116]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NEW_DungeonLevel_TEST
+[2022.04.21-04.32.55:588][116]LogWorld: UWorld::CleanupWorld for NEW_DungeonLevel_TEST, bSessionEnded=true, bCleanupResources=true
+[2022.04.21-04.32.55:597][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-04.32.55:604][116]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.21-04.32.55:608][116]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-04.32.55:634][116]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.21-04.32.55:640][116]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.21-04.32.55:641][116]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.21-04.32.55:676][116]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2022.04.21-04.32.55:699][117]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.04.21-04.32.56:773][216]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Alexis/AI/KnightBT.KnightBT
+[2022.04.21-04.32.58:279][336]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Alexis/AI/EnemyAiAttacks/Task/AISpeed.AISpeed
+[2022.04.21-04.34.06:918][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexis/AI/KnightBT" FILE="../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/KnightBT.uasset" SILENT=true
+[2022.04.21-04.34.06:922][111]LogSavePackage: Moving '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/KnightBT80B21DAD4454398F735D5AA3A06C21FB.tmp' to '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/KnightBT.uasset'
+[2022.04.21-04.34.06:930][111]AssetCheck: New page: Asset Save: KnightBT
+[2022.04.21-04.34.06:930][111]LogContentValidation: Display: Validating BehaviorTree /Game/Alexis/AI/KnightBT.KnightBT
+[2022.04.21-04.34.15:609][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexis/AI/KnightBT" FILE="../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/KnightBT.uasset" SILENT=true
+[2022.04.21-04.34.15:613][942]LogSavePackage: Moving '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/KnightBT2EE7647143AFE11CA610129EC9A2D114.tmp' to '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/KnightBT.uasset'
+[2022.04.21-04.34.15:622][942]AssetCheck: New page: Asset Save: KnightBT
+[2022.04.21-04.34.15:622][942]LogContentValidation: Display: Validating BehaviorTree /Game/Alexis/AI/KnightBT.KnightBT
+[2022.04.21-04.34.17:608][144]LogSlate: Window 'AISpeed' being destroyed
+[2022.04.21-04.34.17:611][144]LogSlate: Window 'AISpeed' being destroyed
+[2022.04.21-04.34.17:619][144]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.04.21-04.34.17:619][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-04.34.18:469][235]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.21-04.34.18:475][235]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.21-04.34.18:475][235]PIE: New page: PIE session: NEW_DungeonLevel_TEST (Apr 20, 2022, 8:34:18 PM)
+[2022.04.21-04.34.18:516][235]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NEW_DungeonLevel_TEST
+[2022.04.21-04.34.18:611][235]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094397s)
+[2022.04.21-04.34.18:612][235]LogAIModule: Creating AISystem for world NEW_DungeonLevel_TEST
+[2022.04.21-04.34.18:612][235]LogPlayLevel: PIE: World Init took: (0.001437s)
+[2022.04.21-04.34.18:612][235]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NEW_DungeonLevel_TEST.NEW_DungeonLevel_TEST to /Game/UEDPIE_0_NEW_DungeonLevel_TEST.NEW_DungeonLevel_TEST (0.096179s)
+[2022.04.21-04.34.18:629][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.04.21-04.34.18:634][235]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.04.21-04.34.18:634][235]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.21-04.34.18:634][235]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.21-04.34.18:634][235]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.21-04.34.18:634][235]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.21-04.34.18:634][235]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.21-04.34.18:634][235]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.21-04.34.18:634][235]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.21-04.34.18:634][235]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.21-04.34.18:635][235]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.21-04.34.18:635][235]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.21-04.34.18:635][235]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.21-04.34.18:635][235]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.21-04.34.18:637][235]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.21-04.34.18:637][235]LogAudioMixer: Display: 1: FrontRight
+[2022.04.21-04.34.18:645][235]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.04.21-04.34.18:645][235]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.21-04.34.18:645][235]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.21-04.34.18:645][235]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.21-04.34.18:645][235]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.21-04.34.18:645][235]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.21-04.34.18:645][235]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.21-04.34.18:646][235]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.21-04.34.18:646][235]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.21-04.34.18:646][235]LogInit: FAudioDevice initialized.
+[2022.04.21-04.34.18:646][235]LogAudio: Display: Audio Device (ID: 5) registered with world 'NEW_DungeonLevel_TEST'.
+[2022.04.21-04.34.18:651][235]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.21-04.34.18:691][235]LogWorld: Bringing World /Game/UEDPIE_0_NEW_DungeonLevel_TEST.NEW_DungeonLevel_TEST up for play (max tick rate 0) at 2022.04.21-00.34.18
+[2022.04.21-04.34.18:693][235]LogWorld: Bringing up level for play took: 0.040927
+[2022.04.21-04.34.18:693][235]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.04.21-04.34.18:699][235]LogBlueprintUserMessages: [Player_2] Save1
+[2022.04.21-04.34.18:699][235]PIE: Server logged in
+[2022.04.21-04.34.18:700][235]PIE: Play in editor total start time 0.226 seconds.
+[2022.04.21-04.34.18:701][235]LogBlueprintUserMessages: [Player_2] PauseGame
+[2022.04.21-04.34.18:701][235]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2022.04.21-04.34.18:701][235]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.04.21-04.34.18:701][235]LogBlueprintUserMessages: [Player_2] PauseGame
+[2022.04.21-04.34.18:701][235]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2022.04.21-04.34.18:701][235]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.04.21-04.34.18:701][235]LogBlueprintUserMessages: [KnightAI_BP_5] EnemyHealth: 100.0
+[2022.04.21-04.34.18:755][235]LogAudio: Warning: Detected orphaned looping sound 'DungeonCue'.
+[2022.04.21-04.34.21:836][581]LogBlueprintUserMessages: [KnightController_C_0] 0
+[2022.04.21-04.34.21:836][581]LogBlueprintUserMessages: [KnightController_C_0] 1
+[2022.04.21-04.34.25:837][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.21-04.34.25:837][ 56]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NEW_DungeonLevel_TEST
+[2022.04.21-04.34.25:838][ 56]LogWorld: UWorld::CleanupWorld for NEW_DungeonLevel_TEST, bSessionEnded=true, bCleanupResources=true
+[2022.04.21-04.34.25:846][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-04.34.25:857][ 56]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.21-04.34.25:862][ 56]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-04.34.25:879][ 56]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.21-04.34.25:879][ 56]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.21-04.34.25:881][ 56]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.21-04.34.25:882][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.21-04.34.25:888][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.04.21-04.34.25:910][ 57]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.04.21-04.34.26:802][141]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Alexis/AI/KnightBT.KnightBT
+[2022.04.21-04.34.44:994][ 74]LogSlate: Window 'KnightBT' being destroyed
+[2022.04.21-04.34.44:997][ 74]LogSlate: Window 'KnightBT' being destroyed
+[2022.04.21-04.34.47:182][305]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.21-04.34.47:188][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.21-04.34.47:188][305]PIE: New page: PIE session: NEW_DungeonLevel_TEST (Apr 20, 2022, 8:34:47 PM)
+[2022.04.21-04.34.47:188][305]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NEW_DungeonLevel_TEST
+[2022.04.21-04.34.47:282][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.093498s)
+[2022.04.21-04.34.47:283][305]LogAIModule: Creating AISystem for world NEW_DungeonLevel_TEST
+[2022.04.21-04.34.47:283][305]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2022.04.21-04.34.47:283][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NEW_DungeonLevel_TEST.NEW_DungeonLevel_TEST to /Game/UEDPIE_0_NEW_DungeonLevel_TEST.NEW_DungeonLevel_TEST (0.094595s)
+[2022.04.21-04.34.47:299][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.04.21-04.34.47:305][305]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.04.21-04.34.47:305][305]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.21-04.34.47:305][305]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.21-04.34.47:305][305]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.21-04.34.47:305][305]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.21-04.34.47:305][305]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.21-04.34.47:305][305]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.21-04.34.47:305][305]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.21-04.34.47:305][305]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.21-04.34.47:305][305]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.21-04.34.47:305][305]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.21-04.34.47:305][305]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.21-04.34.47:305][305]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.21-04.34.47:307][305]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.21-04.34.47:307][305]LogAudioMixer: Display: 1: FrontRight
+[2022.04.21-04.34.47:315][305]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.04.21-04.34.47:315][305]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.21-04.34.47:315][305]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.21-04.34.47:315][305]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.21-04.34.47:315][305]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.21-04.34.47:315][305]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.21-04.34.47:316][305]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.21-04.34.47:317][305]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.21-04.34.47:317][305]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.21-04.34.47:317][305]LogInit: FAudioDevice initialized.
+[2022.04.21-04.34.47:317][305]LogAudio: Display: Audio Device (ID: 6) registered with world 'NEW_DungeonLevel_TEST'.
+[2022.04.21-04.34.47:323][305]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.21-04.34.47:362][305]LogWorld: Bringing World /Game/UEDPIE_0_NEW_DungeonLevel_TEST.NEW_DungeonLevel_TEST up for play (max tick rate 0) at 2022.04.21-00.34.47
+[2022.04.21-04.34.47:364][305]LogWorld: Bringing up level for play took: 0.040490
+[2022.04.21-04.34.47:364][305]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.04.21-04.34.47:370][305]LogBlueprintUserMessages: [Player_2] Save1
+[2022.04.21-04.34.47:371][305]PIE: Server logged in
+[2022.04.21-04.34.47:371][305]PIE: Play in editor total start time 0.184 seconds.
+[2022.04.21-04.34.47:372][305]LogBlueprintUserMessages: [Player_2] PauseGame
+[2022.04.21-04.34.47:372][305]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2022.04.21-04.34.47:373][305]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.04.21-04.34.47:373][305]LogBlueprintUserMessages: [Player_2] PauseGame
+[2022.04.21-04.34.47:373][305]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2022.04.21-04.34.47:373][305]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.04.21-04.34.47:373][305]LogBlueprintUserMessages: [KnightAI_BP_5] EnemyHealth: 100.0
+[2022.04.21-04.34.47:423][305]LogAudio: Warning: Detected orphaned looping sound 'DungeonCue'.
+[2022.04.21-04.34.50:816][686]LogBlueprintUserMessages: [KnightController_C_0] 0
+[2022.04.21-04.34.50:816][686]LogBlueprintUserMessages: [KnightController_C_0] 1
+[2022.04.21-04.34.53:597][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.21-04.34.53:597][  4]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NEW_DungeonLevel_TEST
+[2022.04.21-04.34.53:599][  4]LogWorld: UWorld::CleanupWorld for NEW_DungeonLevel_TEST, bSessionEnded=true, bCleanupResources=true
+[2022.04.21-04.34.53:609][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-04.34.53:620][  4]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.21-04.34.53:624][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-04.34.53:641][  4]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.21-04.34.53:641][  4]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.21-04.34.53:642][  4]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.21-04.34.53:643][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.21-04.34.53:651][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.04.21-04.34.53:666][  5]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.04.21-04.34.54:924][148]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.21-04.34.54:930][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.21-04.34.54:930][148]PIE: New page: PIE session: NEW_DungeonLevel_TEST (Apr 20, 2022, 8:34:54 PM)
+[2022.04.21-04.34.54:976][148]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NEW_DungeonLevel_TEST
+[2022.04.21-04.34.55:071][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094334s)
+[2022.04.21-04.34.55:071][148]LogAIModule: Creating AISystem for world NEW_DungeonLevel_TEST
+[2022.04.21-04.34.55:072][148]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2022.04.21-04.34.55:072][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NEW_DungeonLevel_TEST.NEW_DungeonLevel_TEST to /Game/UEDPIE_0_NEW_DungeonLevel_TEST.NEW_DungeonLevel_TEST (0.095514s)
+[2022.04.21-04.34.55:086][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.04.21-04.34.55:090][148]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.04.21-04.34.55:090][148]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.21-04.34.55:090][148]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.21-04.34.55:090][148]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.21-04.34.55:090][148]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.21-04.34.55:090][148]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.21-04.34.55:090][148]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.21-04.34.55:090][148]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.21-04.34.55:090][148]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.21-04.34.55:090][148]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.21-04.34.55:090][148]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.21-04.34.55:090][148]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.21-04.34.55:090][148]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.21-04.34.55:092][148]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.21-04.34.55:092][148]LogAudioMixer: Display: 1: FrontRight
+[2022.04.21-04.34.55:100][148]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.04.21-04.34.55:100][148]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.21-04.34.55:100][148]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.21-04.34.55:100][148]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.21-04.34.55:100][148]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.21-04.34.55:100][148]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.21-04.34.55:100][148]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.21-04.34.55:101][148]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.21-04.34.55:101][148]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.21-04.34.55:101][148]LogInit: FAudioDevice initialized.
+[2022.04.21-04.34.55:101][148]LogAudio: Display: Audio Device (ID: 7) registered with world 'NEW_DungeonLevel_TEST'.
+[2022.04.21-04.34.55:107][148]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.21-04.34.55:146][148]LogWorld: Bringing World /Game/UEDPIE_0_NEW_DungeonLevel_TEST.NEW_DungeonLevel_TEST up for play (max tick rate 0) at 2022.04.21-00.34.55
+[2022.04.21-04.34.55:149][148]LogWorld: Bringing up level for play took: 0.040726
+[2022.04.21-04.34.55:149][148]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.04.21-04.34.55:155][148]LogBlueprintUserMessages: [Player_2] Save1
+[2022.04.21-04.34.55:155][148]PIE: Server logged in
+[2022.04.21-04.34.55:156][148]PIE: Play in editor total start time 0.226 seconds.
+[2022.04.21-04.34.55:157][148]LogBlueprintUserMessages: [Player_2] PauseGame
+[2022.04.21-04.34.55:157][148]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2022.04.21-04.34.55:157][148]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.04.21-04.34.55:157][148]LogBlueprintUserMessages: [Player_2] PauseGame
+[2022.04.21-04.34.55:157][148]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2022.04.21-04.34.55:157][148]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.04.21-04.34.55:157][148]LogBlueprintUserMessages: [KnightAI_BP_5] EnemyHealth: 100.0
+[2022.04.21-04.34.55:207][148]LogAudio: Warning: Detected orphaned looping sound 'DungeonCue'.
+[2022.04.21-04.34.56:427][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.21-04.34.56:427][276]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NEW_DungeonLevel_TEST
+[2022.04.21-04.34.56:428][276]LogWorld: UWorld::CleanupWorld for NEW_DungeonLevel_TEST, bSessionEnded=true, bCleanupResources=true
+[2022.04.21-04.34.56:436][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-04.34.56:444][276]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.21-04.34.56:448][276]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-04.34.56:462][276]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.21-04.34.56:462][276]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.21-04.34.56:463][276]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.21-04.34.56:481][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.04.21-04.34.56:502][277]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.04.21-04.34.58:445][437]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/Alexis/AI/KnightBT.KnightBT
+[2022.04.21-04.35.06:352][160]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexis/AI/KnightBT" FILE="../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/KnightBT.uasset" SILENT=true
+[2022.04.21-04.35.06:355][160]LogSavePackage: Moving '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/KnightBTC943ADE344F8BAF29CC738A997C73532.tmp' to '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/KnightBT.uasset'
+[2022.04.21-04.35.06:365][160]AssetCheck: New page: Asset Save: KnightBT
+[2022.04.21-04.35.06:365][160]LogContentValidation: Display: Validating BehaviorTree /Game/Alexis/AI/KnightBT.KnightBT
+[2022.04.21-04.35.08:610][408]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.21-04.35.08:617][408]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.21-04.35.08:618][408]PIE: New page: PIE session: NEW_DungeonLevel_TEST (Apr 20, 2022, 8:35:08 PM)
+[2022.04.21-04.35.08:645][408]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NEW_DungeonLevel_TEST
+[2022.04.21-04.35.08:737][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.092216s)
+[2022.04.21-04.35.08:738][408]LogAIModule: Creating AISystem for world NEW_DungeonLevel_TEST
+[2022.04.21-04.35.08:739][408]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2022.04.21-04.35.08:739][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NEW_DungeonLevel_TEST.NEW_DungeonLevel_TEST to /Game/UEDPIE_0_NEW_DungeonLevel_TEST.NEW_DungeonLevel_TEST (0.093269s)
+[2022.04.21-04.35.08:754][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2022.04.21-04.35.08:759][408]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.04.21-04.35.08:759][408]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.21-04.35.08:759][408]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.21-04.35.08:759][408]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.21-04.35.08:759][408]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.21-04.35.08:759][408]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.21-04.35.08:759][408]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.21-04.35.08:759][408]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.21-04.35.08:759][408]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.21-04.35.08:759][408]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.21-04.35.08:759][408]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.21-04.35.08:759][408]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.21-04.35.08:759][408]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.21-04.35.08:761][408]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.21-04.35.08:761][408]LogAudioMixer: Display: 1: FrontRight
+[2022.04.21-04.35.08:770][408]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.04.21-04.35.08:770][408]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.21-04.35.08:770][408]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.21-04.35.08:770][408]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.21-04.35.08:770][408]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.21-04.35.08:770][408]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.21-04.35.08:770][408]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.21-04.35.08:771][408]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.21-04.35.08:771][408]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.21-04.35.08:771][408]LogInit: FAudioDevice initialized.
+[2022.04.21-04.35.08:771][408]LogAudio: Display: Audio Device (ID: 8) registered with world 'NEW_DungeonLevel_TEST'.
+[2022.04.21-04.35.08:776][408]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.21-04.35.08:815][408]LogWorld: Bringing World /Game/UEDPIE_0_NEW_DungeonLevel_TEST.NEW_DungeonLevel_TEST up for play (max tick rate 0) at 2022.04.21-00.35.08
+[2022.04.21-04.35.08:818][408]LogWorld: Bringing up level for play took: 0.040793
+[2022.04.21-04.35.08:818][408]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.04.21-04.35.08:824][408]LogBlueprintUserMessages: [Player_2] Save1
+[2022.04.21-04.35.08:824][408]PIE: Server logged in
+[2022.04.21-04.35.08:825][408]PIE: Play in editor total start time 0.209 seconds.
+[2022.04.21-04.35.08:826][408]LogBlueprintUserMessages: [Player_2] PauseGame
+[2022.04.21-04.35.08:826][408]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2022.04.21-04.35.08:826][408]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.04.21-04.35.08:826][408]LogBlueprintUserMessages: [Player_2] PauseGame
+[2022.04.21-04.35.08:826][408]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2022.04.21-04.35.08:826][408]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.04.21-04.35.08:826][408]LogBlueprintUserMessages: [KnightAI_BP_5] EnemyHealth: 100.0
+[2022.04.21-04.35.08:880][408]LogAudio: Warning: Detected orphaned looping sound 'DungeonCue'.
+[2022.04.21-04.35.11:652][725]LogBlueprintUserMessages: [KnightController_C_0] 0
+[2022.04.21-04.35.11:652][725]LogBlueprintUserMessages: [KnightController_C_0] 1
+[2022.04.21-04.35.16:449][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.21-04.35.16:449][295]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NEW_DungeonLevel_TEST
+[2022.04.21-04.35.16:450][295]LogWorld: UWorld::CleanupWorld for NEW_DungeonLevel_TEST, bSessionEnded=true, bCleanupResources=true
+[2022.04.21-04.35.16:459][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-04.35.16:467][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.21-04.35.16:472][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-04.35.16:489][295]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.21-04.35.16:490][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.21-04.35.16:490][295]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.21-04.35.16:492][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.21-04.35.16:505][295]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.04.21-04.35.16:526][296]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.04.21-04.35.22:351][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor15)
+[2022.04.21-04.35.33:948][926]LogEditorViewport: Clicking on Actor (LMB): patrolPath_C (patrolPath)
+[2022.04.21-04.35.37:597][312]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.21-04.35.37:605][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.21-04.35.37:605][312]PIE: New page: PIE session: NEW_DungeonLevel_TEST (Apr 20, 2022, 8:35:37 PM)
+[2022.04.21-04.35.37:635][312]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NEW_DungeonLevel_TEST
+[2022.04.21-04.35.37:728][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.092732s)
+[2022.04.21-04.35.37:729][312]LogAIModule: Creating AISystem for world NEW_DungeonLevel_TEST
+[2022.04.21-04.35.37:729][312]LogPlayLevel: PIE: World Init took: (0.000849s)
+[2022.04.21-04.35.37:730][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NEW_DungeonLevel_TEST.NEW_DungeonLevel_TEST to /Game/UEDPIE_0_NEW_DungeonLevel_TEST.NEW_DungeonLevel_TEST (0.093779s)
+[2022.04.21-04.35.37:745][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2022.04.21-04.35.37:750][312]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.04.21-04.35.37:750][312]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.21-04.35.37:750][312]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.21-04.35.37:750][312]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.21-04.35.37:750][312]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.21-04.35.37:750][312]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.21-04.35.37:750][312]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.21-04.35.37:750][312]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.21-04.35.37:750][312]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.21-04.35.37:751][312]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.21-04.35.37:751][312]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.21-04.35.37:751][312]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.21-04.35.37:751][312]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.21-04.35.37:752][312]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.21-04.35.37:752][312]LogAudioMixer: Display: 1: FrontRight
+[2022.04.21-04.35.37:761][312]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.04.21-04.35.37:761][312]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.21-04.35.37:761][312]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.21-04.35.37:761][312]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.21-04.35.37:762][312]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.21-04.35.37:762][312]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.21-04.35.37:762][312]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.21-04.35.37:763][312]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.21-04.35.37:763][312]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.21-04.35.37:763][312]LogInit: FAudioDevice initialized.
+[2022.04.21-04.35.37:763][312]LogAudio: Display: Audio Device (ID: 9) registered with world 'NEW_DungeonLevel_TEST'.
+[2022.04.21-04.35.37:773][312]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.21-04.35.37:812][312]LogWorld: Bringing World /Game/UEDPIE_0_NEW_DungeonLevel_TEST.NEW_DungeonLevel_TEST up for play (max tick rate 0) at 2022.04.21-00.35.37
+[2022.04.21-04.35.37:814][312]LogWorld: Bringing up level for play took: 0.041212
+[2022.04.21-04.35.37:814][312]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.04.21-04.35.37:822][312]LogBlueprintUserMessages: [Player_2] Save1
+[2022.04.21-04.35.37:822][312]PIE: Server logged in
+[2022.04.21-04.35.37:822][312]PIE: Play in editor total start time 0.22 seconds.
+[2022.04.21-04.35.37:824][312]LogBlueprintUserMessages: [Player_2] PauseGame
+[2022.04.21-04.35.37:824][312]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockInFullscreen
+[2022.04.21-04.35.37:824][312]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.04.21-04.35.37:824][312]LogBlueprintUserMessages: [Player_2] PauseGame
+[2022.04.21-04.35.37:824][312]LogViewport: Display: Viewport MouseLockMode Changed, LockInFullscreen -> LockOnCapture
+[2022.04.21-04.35.37:824][312]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.04.21-04.35.37:824][312]LogBlueprintUserMessages: [KnightAI_BP_5] EnemyHealth: 100.0
+[2022.04.21-04.35.37:875][312]LogAudio: Warning: Detected orphaned looping sound 'DungeonCue'.
+[2022.04.21-04.35.41:157][687]LogBlueprintUserMessages: [KnightController_C_0] 0
+[2022.04.21-04.35.41:157][687]LogBlueprintUserMessages: [KnightController_C_0] 1
+[2022.04.21-04.35.49:179][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.21-04.35.49:179][646]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NEW_DungeonLevel_TEST
+[2022.04.21-04.35.49:180][646]LogWorld: UWorld::CleanupWorld for NEW_DungeonLevel_TEST, bSessionEnded=true, bCleanupResources=true
+[2022.04.21-04.35.49:188][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-04.35.49:198][646]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.21-04.35.49:207][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-04.35.49:224][646]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.21-04.35.49:225][646]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.21-04.35.49:226][646]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.21-04.35.49:233][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.04.21-04.35.49:266][647]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.04.21-04.38.34:124][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.04.21-04.38.34:517][590]LogSavePackage: Moving '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/NEW_DungeonLevel_TEST_Auto1CF04CC83473D6AD164CEFCA71CA18D3C.tmp' to '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/Autosaves/Game/NEW_DungeonLevel_TEST_Auto1.umap'
+[2022.04.21-04.38.34:522][590]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NEW_DungeonLevel_TEST' took 0.413
+[2022.04.21-04.38.34:522][590]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.413
+[2022.04.21-04.43.29:064][403]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/InteractInterface.InteractInterface
+[2022.04.21-04.43.37:466][164]LogSlate: Window 'InteractInterface' being destroyed
+[2022.04.21-04.43.37:468][164]LogSlate: Window 'InteractInterface' being destroyed
+[2022.04.21-04.43.37:505][164]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.04.21-04.43.37:505][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-04.43.39:990][429]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/InteractInterface.InteractInterface
+[2022.04.21-04.43.51:234][591]LogSlate: Window 'InteractInterface' being destroyed
+[2022.04.21-04.43.51:237][591]LogSlate: Window 'InteractInterface' being destroyed
+[2022.04.21-04.43.51:265][591]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.04.21-04.43.51:265][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-04.43.54:554][899]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/InventorySystem/Struct_ItemInfo.Struct_ItemInfo
+[2022.04.21-04.43.59:651][426]LogSlate: Window 'Struct_ItemInfo' being destroyed
+[2022.04.21-04.43.59:654][426]LogSlate: Window 'Struct_ItemInfo' being destroyed
+[2022.04.21-04.44.00:709][531]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/InventoryInst.InventoryInst
+[2022.04.21-04.57.23:477][229]LogSlate: Window 'InventoryInst' being destroyed
+[2022.04.21-04.57.23:480][229]LogSlate: Window 'InventoryInst' being destroyed
+[2022.04.21-04.57.23:513][229]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.04.21-04.57.23:513][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-04.57.29:470][809]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/InventoryInst.InventoryInst
+[2022.04.21-04.57.38:927][687]LogSlate: Window 'InventoryInst' being destroyed
+[2022.04.21-04.57.38:929][687]LogSlate: Window 'InventoryInst' being destroyed
+[2022.04.21-04.57.38:963][687]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.04.21-04.57.38:963][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-04.57.42:080][994]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventorySystem/InventoryInst.InventoryInst
+[2022.04.21-04.58.02:030][856]BlueprintLog: New page: Compile InventoryInst
+[2022.04.21-04.58.02:057][856]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.04.21-04.58.02:885][921]LogSavePackage: Moving '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/InventoryInst136C294441020A33F35DA8BD58663B1D.tmp' to '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/InventorySystem/InventoryInst.uasset'
+[2022.04.21-04.58.02:893][921]AssetCheck: New page: Asset Save: InventoryInst
+[2022.04.21-04.58.02:893][921]LogContentValidation: Display: Validating Blueprint /Game/InventorySystem/InventoryInst.InventoryInst
+[2022.04.21-04.58.03:941][ 21]LogSlate: Window 'InventoryInst' being destroyed
+[2022.04.21-04.58.03:944][ 21]LogSlate: Window 'InventoryInst' being destroyed
+[2022.04.21-04.58.03:983][ 21]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.04.21-04.58.03:983][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.21-04.59.36:334][917]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/DecrementPathIndex.DecrementPathIndex_C' ref from Metadata '/Game/Alexis/AI/DecrementPathIndex.PackageMetaData'
+[2022.04.21-04.59.36:335][917]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/DecrementPathIndex.SKEL_DecrementPathIndex_C:ReceiveExecuteAI' ref from Metadata '/Game/Alexis/AI/DecrementPathIndex.PackageMetaData'
+[2022.04.21-04.59.36:335][917]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/DecrementPathIndex.SKEL_DecrementPathIndex_C' ref from Metadata '/Game/Alexis/AI/DecrementPathIndex.PackageMetaData'
+[2022.04.21-04.59.36:335][917]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/DecrementPathIndex.DecrementPathIndex_C:ReceiveExecuteAI' ref from Metadata '/Game/Alexis/AI/DecrementPathIndex.PackageMetaData'
+[2022.04.21-04.59.36:384][917]LogSavePackage: Moving '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/DecrementPathIndex96E697884256226E9AD5E29E4EDB5ADF.tmp' to '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/EnemyAiAttacks/DecrementPathIndex.uasset'
+[2022.04.21-04.59.36:461][917]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2022.04.21-04.59.36:488][917]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.04.21-04.59.36:502][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.04.21-04.59.36:526][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexis/AI/KnightBT" FILE="../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/KnightBT.uasset" SILENT=true
+[2022.04.21-04.59.36:530][917]LogSavePackage: Moving '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/KnightBT42AD11424E076E56B58B5DA7AA1C78D0.tmp' to '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/KnightBT.uasset'
+[2022.04.21-04.59.36:647][917]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Alexis/AI/EnemyAiAttacks/DecrementPathIndex.
+[2022.04.21-04.59.36:652][917]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.21-04.59.36:652][917]LogContentValidation: Display: Validating Blueprint /Game/Alexis/AI/EnemyAiAttacks/DecrementPathIndex.DecrementPathIndex
+[2022.04.21-04.59.36:652][917]LogContentValidation: Display: Validating BehaviorTree /Game/Alexis/AI/KnightBT.KnightBT
+[2022.04.21-04.59.39:011][ 41]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/findpathPoint.findpathPoint_C' ref from Metadata '/Game/Alexis/AI/findpathPoint.PackageMetaData'
+[2022.04.21-04.59.39:011][ 41]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/findpathPoint.SKEL_findpathPoint_C:ReceiveExecuteAI' ref from Metadata '/Game/Alexis/AI/findpathPoint.PackageMetaData'
+[2022.04.21-04.59.39:011][ 41]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/findpathPoint.SKEL_findpathPoint_C' ref from Metadata '/Game/Alexis/AI/findpathPoint.PackageMetaData'
+[2022.04.21-04.59.39:011][ 41]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/findpathPoint.findpathPoint_C:ReceiveExecuteAI' ref from Metadata '/Game/Alexis/AI/findpathPoint.PackageMetaData'
+[2022.04.21-04.59.39:065][ 41]LogSavePackage: Moving '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/findpathPoint3A5AFB6E45F2D52A783F6F819FEA9BB3.tmp' to '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/EnemyAiAttacks/findpathPoint.uasset'
+[2022.04.21-04.59.39:107][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.04.21-04.59.39:129][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.04.21-04.59.39:142][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.04.21-04.59.39:160][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexis/AI/KnightBT" FILE="../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/KnightBT.uasset" SILENT=true
+[2022.04.21-04.59.39:164][ 41]LogSavePackage: Moving '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/KnightBT423ABFF34FD8206EAD9719ABD61C7026.tmp' to '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/KnightBT.uasset'
+[2022.04.21-04.59.39:304][ 41]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Alexis/AI/EnemyAiAttacks/findpathPoint.
+[2022.04.21-04.59.39:311][ 41]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.21-04.59.39:311][ 41]LogContentValidation: Display: Validating Blueprint /Game/Alexis/AI/EnemyAiAttacks/findpathPoint.findpathPoint
+[2022.04.21-04.59.39:311][ 41]LogContentValidation: Display: Validating BehaviorTree /Game/Alexis/AI/KnightBT.KnightBT
+[2022.04.21-04.59.42:162][206]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/incrementPathIndex.incrementPathIndex_C' ref from Metadata '/Game/Alexis/AI/incrementPathIndex.PackageMetaData'
+[2022.04.21-04.59.42:163][206]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/incrementPathIndex.SKEL_incrementPathIndex_C:ReceiveExecuteAI' ref from Metadata '/Game/Alexis/AI/incrementPathIndex.PackageMetaData'
+[2022.04.21-04.59.42:163][206]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/incrementPathIndex.SKEL_incrementPathIndex_C' ref from Metadata '/Game/Alexis/AI/incrementPathIndex.PackageMetaData'
+[2022.04.21-04.59.42:163][206]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/incrementPathIndex.incrementPathIndex_C:ReceiveExecuteAI' ref from Metadata '/Game/Alexis/AI/incrementPathIndex.PackageMetaData'
+[2022.04.21-04.59.42:220][206]LogSavePackage: Moving '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/incrementPathIndex89407D7D40441DD38E7B82B84CFAD034.tmp' to '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/EnemyAiAttacks/incrementPathIndex.uasset'
+[2022.04.21-04.59.42:278][206]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.04.21-04.59.42:300][206]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.04.21-04.59.42:313][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.04.21-04.59.42:328][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexis/AI/KnightBT" FILE="../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/KnightBT.uasset" SILENT=true
+[2022.04.21-04.59.42:332][206]LogSavePackage: Moving '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/KnightBTF1515D68468A2EFE17BF18A09CF55837.tmp' to '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/KnightBT.uasset'
+[2022.04.21-04.59.42:457][206]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Alexis/AI/EnemyAiAttacks/incrementPathIndex.
+[2022.04.21-04.59.42:463][206]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.21-04.59.42:463][206]LogContentValidation: Display: Validating Blueprint /Game/Alexis/AI/EnemyAiAttacks/incrementPathIndex.incrementPathIndex
+[2022.04.21-04.59.42:463][206]LogContentValidation: Display: Validating BehaviorTree /Game/Alexis/AI/KnightBT.KnightBT
+[2022.04.21-04.59.44:757][338]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/isHit.isHit_C' ref from Metadata '/Game/Alexis/AI/isHit.PackageMetaData'
+[2022.04.21-04.59.44:757][338]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/isHit.SKEL_isHit_C:ReceiveExecuteAI' ref from Metadata '/Game/Alexis/AI/isHit.PackageMetaData'
+[2022.04.21-04.59.44:757][338]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/isHit.SKEL_isHit_C' ref from Metadata '/Game/Alexis/AI/isHit.PackageMetaData'
+[2022.04.21-04.59.44:757][338]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/isHit.isHit_C:ReceiveExecuteAI' ref from Metadata '/Game/Alexis/AI/isHit.PackageMetaData'
+[2022.04.21-04.59.44:784][338]LogSavePackage: Moving '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/isHit4B1E8EF8430B71AFAACD87A207ECBC88.tmp' to '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/EnemyAiAttacks/isHit.uasset'
+[2022.04.21-04.59.44:846][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.04.21-04.59.44:866][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.04.21-04.59.44:880][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.04.21-04.59.44:992][338]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Alexis/AI/EnemyAiAttacks/isHit.
+[2022.04.21-04.59.44:997][338]AssetCheck: New page: Asset Save: isHit
+[2022.04.21-04.59.44:997][338]LogContentValidation: Display: Validating Blueprint /Game/Alexis/AI/EnemyAiAttacks/isHit.isHit
+[2022.04.21-04.59.49:220][547]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/LoopPath.LoopPath_C' ref from Metadata '/Game/Alexis/AI/LoopPath.PackageMetaData'
+[2022.04.21-04.59.49:220][547]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/LoopPath.SKEL_LoopPath_C:ReceiveExecuteAI' ref from Metadata '/Game/Alexis/AI/LoopPath.PackageMetaData'
+[2022.04.21-04.59.49:220][547]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/LoopPath.SKEL_LoopPath_C' ref from Metadata '/Game/Alexis/AI/LoopPath.PackageMetaData'
+[2022.04.21-04.59.49:220][547]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/LoopPath.LoopPath_C:ReceiveExecuteAI' ref from Metadata '/Game/Alexis/AI/LoopPath.PackageMetaData'
+[2022.04.21-04.59.49:272][547]LogSavePackage: Moving '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/LoopPath55DB5CCD4F66509A190DD092B26E02DE.tmp' to '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/EnemyAiAttacks/LoopPath.uasset'
+[2022.04.21-04.59.49:316][547]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.04.21-04.59.49:337][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.04.21-04.59.49:350][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.04.21-04.59.49:368][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexis/AI/KnightBT" FILE="../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/KnightBT.uasset" SILENT=true
+[2022.04.21-04.59.49:373][547]LogSavePackage: Moving '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/KnightBT3B6FD9D345C5A82E9A99EEAEC8175BA5.tmp' to '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/KnightBT.uasset'
+[2022.04.21-04.59.49:512][547]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Alexis/AI/EnemyAiAttacks/LoopPath.
+[2022.04.21-04.59.49:517][547]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.21-04.59.49:517][547]LogContentValidation: Display: Validating Blueprint /Game/Alexis/AI/EnemyAiAttacks/LoopPath.LoopPath
+[2022.04.21-04.59.49:517][547]LogContentValidation: Display: Validating BehaviorTree /Game/Alexis/AI/KnightBT.KnightBT
+[2022.04.21-04.59.55:003][937]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/Task/DecrementPathIndex.DecrementPathIndex_C' ref from Metadata '/Game/Alexis/AI/EnemyAiAttacks/DecrementPathIndex.PackageMetaData'
+[2022.04.21-04.59.55:003][937]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/Task/DecrementPathIndex.DecrementPathIndex_C:ReceiveExecuteAI' ref from Metadata '/Game/Alexis/AI/EnemyAiAttacks/DecrementPathIndex.PackageMetaData'
+[2022.04.21-04.59.55:003][937]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/Task/DecrementPathIndex.SKEL_DecrementPathIndex_C' ref from Metadata '/Game/Alexis/AI/EnemyAiAttacks/DecrementPathIndex.PackageMetaData'
+[2022.04.21-04.59.55:003][937]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/Task/DecrementPathIndex.SKEL_DecrementPathIndex_C:ReceiveExecuteAI' ref from Metadata '/Game/Alexis/AI/EnemyAiAttacks/DecrementPathIndex.PackageMetaData'
+[2022.04.21-04.59.55:046][937]LogSavePackage: Moving '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/DecrementPathIndexB48D648A4CA117475FD405951B360686.tmp' to '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/EnemyAiAttacks/Task/DecrementPathIndex.uasset'
+[2022.04.21-04.59.55:104][937]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.04.21-04.59.55:128][937]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2022.04.21-04.59.55:142][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.04.21-04.59.55:155][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexis/AI/KnightBT" FILE="../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/KnightBT.uasset" SILENT=true
+[2022.04.21-04.59.55:160][937]LogSavePackage: Moving '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/KnightBT0F818FA74AED73B77D3020945FBF4676.tmp' to '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/KnightBT.uasset'
+[2022.04.21-04.59.55:274][937]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Alexis/AI/EnemyAiAttacks/Task/DecrementPathIndex.
+[2022.04.21-04.59.55:281][937]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.21-04.59.55:281][937]LogContentValidation: Display: Validating Blueprint /Game/Alexis/AI/EnemyAiAttacks/Task/DecrementPathIndex.DecrementPathIndex
+[2022.04.21-04.59.55:281][937]LogContentValidation: Display: Validating BehaviorTree /Game/Alexis/AI/KnightBT.KnightBT
+[2022.04.21-04.59.57:386][ 68]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/Task/findpathPoint.findpathPoint_C' ref from Metadata '/Game/Alexis/AI/EnemyAiAttacks/findpathPoint.PackageMetaData'
+[2022.04.21-04.59.57:386][ 68]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/Task/findpathPoint.findpathPoint_C:ReceiveExecuteAI' ref from Metadata '/Game/Alexis/AI/EnemyAiAttacks/findpathPoint.PackageMetaData'
+[2022.04.21-04.59.57:386][ 68]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/Task/findpathPoint.SKEL_findpathPoint_C' ref from Metadata '/Game/Alexis/AI/EnemyAiAttacks/findpathPoint.PackageMetaData'
+[2022.04.21-04.59.57:386][ 68]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/Task/findpathPoint.SKEL_findpathPoint_C:ReceiveExecuteAI' ref from Metadata '/Game/Alexis/AI/EnemyAiAttacks/findpathPoint.PackageMetaData'
+[2022.04.21-04.59.57:432][ 68]LogSavePackage: Moving '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/findpathPoint3876A7AB4FFEF7F0A35DF7B2C9A1B6D3.tmp' to '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/EnemyAiAttacks/Task/findpathPoint.uasset'
+[2022.04.21-04.59.57:506][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.04.21-04.59.57:527][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.04.21-04.59.57:540][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.04.21-04.59.57:558][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexis/AI/KnightBT" FILE="../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/KnightBT.uasset" SILENT=true
+[2022.04.21-04.59.57:562][ 68]LogSavePackage: Moving '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/KnightBT67CDBD81460B294C91427AA5187C1DA6.tmp' to '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/KnightBT.uasset'
+[2022.04.21-04.59.57:676][ 68]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Alexis/AI/EnemyAiAttacks/Task/findpathPoint.
+[2022.04.21-04.59.57:682][ 68]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.21-04.59.57:682][ 68]LogContentValidation: Display: Validating Blueprint /Game/Alexis/AI/EnemyAiAttacks/Task/findpathPoint.findpathPoint
+[2022.04.21-04.59.57:682][ 68]LogContentValidation: Display: Validating BehaviorTree /Game/Alexis/AI/KnightBT.KnightBT
+[2022.04.21-04.59.59:844][202]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/Task/incrementPathIndex.incrementPathIndex_C' ref from Metadata '/Game/Alexis/AI/EnemyAiAttacks/incrementPathIndex.PackageMetaData'
+[2022.04.21-04.59.59:845][202]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/Task/incrementPathIndex.incrementPathIndex_C:ReceiveExecuteAI' ref from Metadata '/Game/Alexis/AI/EnemyAiAttacks/incrementPathIndex.PackageMetaData'
+[2022.04.21-04.59.59:845][202]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/Task/incrementPathIndex.SKEL_incrementPathIndex_C' ref from Metadata '/Game/Alexis/AI/EnemyAiAttacks/incrementPathIndex.PackageMetaData'
+[2022.04.21-04.59.59:845][202]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/Task/incrementPathIndex.SKEL_incrementPathIndex_C:ReceiveExecuteAI' ref from Metadata '/Game/Alexis/AI/EnemyAiAttacks/incrementPathIndex.PackageMetaData'
+[2022.04.21-04.59.59:901][202]LogSavePackage: Moving '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/incrementPathIndexCE8EF9AB4D206DDD5E2CC18E954066C6.tmp' to '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/EnemyAiAttacks/Task/incrementPathIndex.uasset'
+[2022.04.21-04.59.59:941][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.04.21-04.59.59:962][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.04.21-04.59.59:976][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.04.21-04.59.59:994][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexis/AI/KnightBT" FILE="../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/KnightBT.uasset" SILENT=true
+[2022.04.21-04.59.59:997][202]LogSavePackage: Moving '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/KnightBT834C554F471054CC996CBA8F0FBA7D4D.tmp' to '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/KnightBT.uasset'
+[2022.04.21-05.00.00:117][202]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Alexis/AI/EnemyAiAttacks/Task/incrementPathIndex.
+[2022.04.21-05.00.00:124][202]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.21-05.00.00:124][202]LogContentValidation: Display: Validating Blueprint /Game/Alexis/AI/EnemyAiAttacks/Task/incrementPathIndex.incrementPathIndex
+[2022.04.21-05.00.00:124][202]LogContentValidation: Display: Validating BehaviorTree /Game/Alexis/AI/KnightBT.KnightBT
+[2022.04.21-05.00.02:312][327]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/Task/isHit.isHit_C' ref from Metadata '/Game/Alexis/AI/EnemyAiAttacks/isHit.PackageMetaData'
+[2022.04.21-05.00.02:313][327]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/Task/isHit.isHit_C:ReceiveExecuteAI' ref from Metadata '/Game/Alexis/AI/EnemyAiAttacks/isHit.PackageMetaData'
+[2022.04.21-05.00.02:313][327]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/Task/isHit.SKEL_isHit_C' ref from Metadata '/Game/Alexis/AI/EnemyAiAttacks/isHit.PackageMetaData'
+[2022.04.21-05.00.02:313][327]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/Task/isHit.SKEL_isHit_C:ReceiveExecuteAI' ref from Metadata '/Game/Alexis/AI/EnemyAiAttacks/isHit.PackageMetaData'
+[2022.04.21-05.00.02:349][327]LogSavePackage: Moving '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/isHit75F6E01C42B7C1E313D32495263622E8.tmp' to '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/EnemyAiAttacks/Task/isHit.uasset'
+[2022.04.21-05.00.02:394][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2022.04.21-05.00.02:414][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.04.21-05.00.02:429][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.04.21-05.00.02:544][327]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Alexis/AI/EnemyAiAttacks/Task/isHit.
+[2022.04.21-05.00.02:551][327]AssetCheck: New page: Asset Save: isHit
+[2022.04.21-05.00.02:551][327]LogContentValidation: Display: Validating Blueprint /Game/Alexis/AI/EnemyAiAttacks/Task/isHit.isHit
+[2022.04.21-05.00.04:931][493]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/Task/LoopPath.LoopPath_C' ref from Metadata '/Game/Alexis/AI/EnemyAiAttacks/LoopPath.PackageMetaData'
+[2022.04.21-05.00.04:931][493]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/Task/LoopPath.LoopPath_C:ReceiveExecuteAI' ref from Metadata '/Game/Alexis/AI/EnemyAiAttacks/LoopPath.PackageMetaData'
+[2022.04.21-05.00.04:931][493]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/Task/LoopPath.SKEL_LoopPath_C' ref from Metadata '/Game/Alexis/AI/EnemyAiAttacks/LoopPath.PackageMetaData'
+[2022.04.21-05.00.04:931][493]LogMetaData: Removing '/Game/Alexis/AI/EnemyAiAttacks/Task/LoopPath.SKEL_LoopPath_C:ReceiveExecuteAI' ref from Metadata '/Game/Alexis/AI/EnemyAiAttacks/LoopPath.PackageMetaData'
+[2022.04.21-05.00.04:984][493]LogSavePackage: Moving '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/LoopPath4DD332214B68E5E5C3352190EAA066BE.tmp' to '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/EnemyAiAttacks/Task/LoopPath.uasset'
+[2022.04.21-05.00.05:048][493]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.04.21-05.00.05:068][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.04.21-05.00.05:081][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.04.21-05.00.05:098][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Alexis/AI/KnightBT" FILE="../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/KnightBT.uasset" SILENT=true
+[2022.04.21-05.00.05:104][493]LogSavePackage: Moving '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/KnightBTC4E0589D409761BA159996A826D02F01.tmp' to '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Content/Alexis/AI/KnightBT.uasset'
+[2022.04.21-05.00.05:216][493]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Alexis/AI/EnemyAiAttacks/Task/LoopPath.
+[2022.04.21-05.00.05:221][493]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.21-05.00.05:222][493]LogContentValidation: Display: Validating Blueprint /Game/Alexis/AI/EnemyAiAttacks/Task/LoopPath.LoopPath
+[2022.04.21-05.00.05:222][493]LogContentValidation: Display: Validating BehaviorTree /Game/Alexis/AI/KnightBT.KnightBT
+[2022.04.21-05.00.44:047][697]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.04.21-05.00.44:430][697]LogSavePackage: Moving '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/NEW_DungeonLevel_TEST_Auto24E2EC2EC436D5FA6AB14B18394F7AD1B.tmp' to '../../../../../../Users/alexi/OneDrive/Desktop/groupProject/GitHub/docs/Project/KeyStone/Saved/Autosaves/Game/NEW_DungeonLevel_TEST_Auto2.umap'
+[2022.04.21-05.00.44:432][697]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NEW_DungeonLevel_TEST' took 0.401
+[2022.04.21-05.00.44:433][697]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.401
+[2022.04.21-05.01.10:173][752]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Alexis/AI/isHit.
+>>>>>>> Stashed changes

@@ -4,4 +4,25 @@
 
 3. Your full name: Evan Finke
 
-4. One or more sentences explaining what you have done: Created animations and collision for player. This includes tweaking movement, attacking, and evading. 
+4. One or more sentences explaining what you have done: 
+
+
+Created animations and collision for player:
+	-movement
+	-attacking hitboxes and animations
+	-evading animations
+	-abilities hitboxes, animations, particle effects
+
+Sound and Music:
+	-All Boss Soundtracks/Sounds implemented
+	-All Enemy Sounds
+	-Doors, Chests, misc sounds
+
+Created Dragonslayer Sword bp with effects
+
+Other:
+	-Player mesh and skeleton edits
+	-Lock On system
+	-Healthbar above enemies
+	
+

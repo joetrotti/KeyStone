@@ -1,0 +1,9 @@
+1. Your group number: 2
+
+2. You project name: KeyStone
+
+3. Your full name: Joseph Trotti
+
+4. One or more sentences explaining what you have done: I have managed the group, designed and put together the maps, edited textures and particles, made multiple blueprints (working candles, 
+							opening doors, level progression), and made biweekly ganttchart reports.
+							
